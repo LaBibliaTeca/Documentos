@@ -4,8 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    
+        .contenido {
+            max-width: 360px;
+            min-width: 100px
+            margin: 0 auto;
+            padding: 10px;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            box-sizing: border-box;}
 </head>
 <body>
+    	<button onclick="leerEnVozAlta()">Presionar para Leer en Voz Alta</button>
+</div class="contenido">
     <h3><i>Traducción del Latín al Español <br>del prefacio de la Biblia del Oso.</i></h3>
        <p><i>Realizada por Jorge Ramirez (&copy)</i></p>
    <p> Prefacio a la Biblia por Casiodoro de Reina en 1569<br>
@@ -649,8 +661,34 @@ Vaticano II. A diferencia de los concilios, que tenían capacidad para definir d
 son solo consultivos y tenían por misión primaria asesorar al papa en el tema propuesto<br>
 
 </h5>
+</div>
+<script>
+     function leerEnVozAlta() {
+    // Obtener el texto del elemento con la clase "contenido-texto"
+    var texto = document.querySelector('.contenido').innerText;
 
+    // Dividir el texto en segmentos más pequeños
+    var partes = dividirTextoEnPartes(texto, 510); // Por ejemplo, 200 caracteres por parte
 
+    // Leer cada parte secuencialmente
+    partes.forEach((parte) => {
+        var mensaje = new SpeechSynthesisUtterance(parte);
+        mensaje.lang = 'es-ES';
+        mensaje.pitch = 1;
+        mensaje.rate = 1;
+        window.speechSynthesis.speak(mensaje);
+    });
+}
+
+function dividirTextoEnPartes(texto, tamano) {
+    var partes = [];
+    for (var i = 0; i < texto.length; i += tamano) {
+        partes.push(texto.slice(i, i + tamano));
+    }
+    return partes;
+}
+
+    </script>
 
 
 
