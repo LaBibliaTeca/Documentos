@@ -56,7 +56,10 @@
         function leerEnVozAlta() {
             const texto = document.getElementById('contenido').innerText;
 		
-		const fragmentos = texto.match(/.{1,500}/g); // Cada fragmento tendrá máximo 500 caracteres
+		const fragmentos = texto.match(/.{1,250}/g); // Cada fragmento tendrá máximo 500 caracteres
+
+		// Leer cada fragmento
+		
 			let index = 0;
 	    function hablarFragmento() {
 	        if (index < fragmentos.length) {
