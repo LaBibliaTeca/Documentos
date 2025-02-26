@@ -1,0 +1,53 @@
+
+    <script>
+        // Cargar el archivo automáticamente al cargar la página
+        window.onload = async function cargarArchivo() {
+            try {
+                const response = await fetch('MilenioLiteral.txt'); // Cambia 'archivo.txt' por la ruta de tu archivo
+                if (!response.ok) {
+                    throw new Error('Error al cargar el archivo');
+                }
+                
+                // Leer el contenido del archivo
+                const texto = await response.text();
+
+                // Mostrar el contenido del archivo en el <div> con id "contenido"
+                document.getElementById('contenido').innerText = texto;
+            } catch (error) {
+                console.error('Error:', error.message);
+            }
+        }
+
+        // Función para leer en voz alta el contenido del archivo
+       function leerEnVozAlta() {
+    const texto = document.getElementById('contenido').innerText;
+
+    // Dividir el texto en fragmentos más pequeños
+    const fragmentos = texto.match(/.{1,500}/g); // Cada fragmento tendrá máximo 500 caracteres
+
+    // Leer cada fragmento
+    let index = 0;
+
+    function hablarFragmento() {
+        if (index < fragmentos.length) {
+            const mensaje = new SpeechSynthesisUtterance(fragmentos[index]);
+
+            mensaje.lang = 'es-ES';
+            mensaje.pitch = 1;
+            mensaje.rate = 0.7;
+
+            mensaje.onend = function() {
+                index++;
+                hablarFragmento(); // Leer el siguiente fragmento
+            };
+
+            window.speechSynthesis.speak(mensaje);
+        }
+    }
+
+    hablarFragmento(); // Comienza a leer el primer fragmento
+}
+    </script>
+
+	</body>
+</html>
