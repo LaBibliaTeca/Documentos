@@ -1,61 +1,642 @@
-
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mishná Zevajim</title>
-<style>
-    body {
-        font-family:'Times New Roman', Times, serif;
-       *font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 3px;
-        background-color: rgb(247, 244, 244);
-        color: rgb(7, 7, 7);
-        box-sizing: border-box;
-    }
-    .container {
-        display: flex;
-        flex-direction: column;
-        min-height: 10vh;
-    }
-</style>
-</head>
-<body>
-
-	
-<!-- Botón para leer en voz alta el contenido del archivo -->
-	    	<button style="width: 200px; height: 50px;background-color: yellow;font-size: 16px;" onclick="leerEnVozAlta()">Presionar para Escuchar en Voz Alta</button>
+    <title> CULTO RACIONAL O CULTO DE PALABRAS</title>
+		<style type="text/css">
 
 
+        .contenido {
+            max-width: 360px;
+            min-width: 100px
+            margin: 0 auto;
+            padding: 10px;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            box-sizing: border-box;
 
-    
-    <!-- Div donde se mostrará el contenido del archivo -->
-    <div id="contenido"></div>
+        }
+			
 
+        .adenda {
+            max-width: 360px;
+            min-width: 100px
+            margin: 0 auto;
+            padding: 10px;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            box-sizing: border-box;
 
-    <script>
-        // Cargar el archivo automáticamente al cargar la página
-        window.onload = async function cargarArchivo() {
-            try {
-                const response = await fetch('MishnahZ.txt'); // Cambia 'archivo.txt' por la ruta de tu archivo
-                if (!response.ok) {
-                    throw new Error('Error al cargar el archivo');
-                }
-                
-                // Leer el contenido del archivo
-                const texto = await response.text();
-
-                // Mostrar el contenido del archivo en el <div> con id "contenido"
-                document.getElementById('contenido').innerText = texto;
-            } catch (error) {
-                console.error('Error:', error.message);
-            }
+        }
+        .imagen1 {
+            position: absolute; /* Posiciona la imagen de manera absoluta dentro del contenedor */
+            top: 20px; /* Distancia desde la parte superior del contenedor */
+            right: 5px; /* Distancia desde la parte derecha del contenedor */
+            width: 200px;
+            height: auto;
+        }
+        .imagen2 {
+            float: center; /* Fija la segunda imagen a la derecha */
+            margin: 0 0 1px 1px;
+            width: 100%;
+            height: auto;
         }
 
-        // Función para leer en voz alta el contenido del archivo
-         function leerEnVozAlta() {
+	</style>
+</head>
+
+<body>
+	 	    	<button style="width: 200px; height: 50px;background-color: rgb(255, 221, 3);font-size: 16px;" onclick="leerEnVozAlta()">Presionar para Leer en Voz Alta</button>
+
+<div class="contenido">
+
+SOBRE LOS SACRIFICIOS
+En las próximas versiones aparecerán explicados las palabras que nos resultan extrañas , los términos especificos.
+El libro canónico de la Biblia que habla de los sacricios es Levítico.
+
+
+La Mishná o Misná es la primera gran colección escrita de las tradiciones orales judías conocida como la Torá oral. También es la primera obra importante de la literatura rabínica. La Mishná fue redactada por Yehudah Hanasí a principios del siglo III d. C.
+En este Capítulo se explican los sacrficios del punto de vista del Sacerdote. Existen otros que lo estudia desde el punto del que lo ofrece.
+Mishná Zevajim
+
+Capítulo 1
+
+Todos los sacrificios sacrificados sin su propio nombre son válidos, excepto que no cuentan para cumplir con la obligación de sus dueños, con la excepción de la pesah y el hatat (ofrenda por el pecado). [Esto es cierto para] una pesah en su momento adecuado y un hatat en todo momento. Rabí Eliezer dice: también el asham (ofrenda por la culpa). [Esto es cierto para] una pesah en su momento adecuado y un hatat y un asham en todo momento. Rabí Eliezer dijo: el hatat viene a causa del pecado, y el asham viene a causa del pecado: así como un hatat [sacrificado] sin su propio nombre es inválido, así también el asham es inválido si [sacrificado] sin su propio nombre.
+
+Yose ben Honi dice: [Los sacrificios] sacrificados en nombre de una pesah o un hatat son inválidos. Shimon el hermano de Azarías dice: Si uno los sacrificara bajo un nombre
+
+son válidas bajo una designación superior a la suya; bajo una designación inferior a la suya Si uno sacrifica un sacrificio sagrado bajo la denominación de sacrificio menor, no es válido; pero si uno sacrifica un sacrificio menor bajo la denominación de sacrificio mayor, es válido. Si uno sacrifica un bekhor o un diezmo en nombre de un shelamim, es válido, pero si uno sacrifica un shelamim en nombre de un bekhor, es válido.
+
+o el diezmo, no es válido.
+
+Un peseh que fue sacrificado en la mañana del día catorce [de Nisán] bajo un designación diferente: Rabí Joshua lo declara válido, tal como si hubiera sido sacrificado el día trece. Ben Batera lo declara inválido, como si hubiera sido
+
+sacrificado por la tarde. Dijo Shimon ben Azzai: Tengo una tradición de setenta y dos ancianos sobre el día en que Rabí Elazar ben Azariah fue colocado en el
+
+En la academia se afirma que todos los sacrificios que se comen, aunque se hayan sacrificado bajo una denominación diferente, son válidos, salvo que sus dueños no hayan cumplido con su obligación, excepto la pesah y el hatat. Y Ben Azzai añadió sólo la olah, pero los sabios no estuvieron de acuerdo con él.
+
+Un pesah y un hatat que no fueron sacrificados en su propio nombre, o él recibió
+
+[la sangre], y la llevó [al altar] y la roció [no en su propio nombre], o en su propio nombre y no en su propio nombre, o no en su propio nombre y en su propio nombre, quedan descalificados. ¿Cuál es el caso de 'en su propio nombre y no en su propio nombre'? En el nombre de que es una pesah [primero] y [luego] en el nombre de que es un shelamim. 'No en su propio nombre y en su propio nombre': en el nombre de un shelamim [primero] y [luego] en el nombre de una pesah.
+
+Porque un sacrificio puede ser descalificado en [cualquiera de] los cuatro elementos: sacrificio, recepción, transporte y aspersión. Rabí Shimon lo declara válido
+
+Si se lleva [con la intención equivocada], pues Rabí Shimon dijo: es imposible [tener un sacrificio válido] sin sacrificar, sin recibir y sin rociar, pero es posible sin llevar. [¿Cómo es eso]? Uno lo sacrifica al costado del altar y rocía. Rabí Eliezer dice: si uno va a donde necesita ir, una intención [ilegítima] lo descalifica; a donde no necesita ir, una intención [ilegítima] no lo descalifica.
+
+Capítulo 2
+
+Todos los sacrificios cuya sangre fue recogida por un: no sacerdote, un onen, un tebul yom, uno que carecía de vestimentas
+
+[sacerdotales], uno que carecía de expiación sacrificial, uno que tenía
+
+No se lavó las manos y los pies, no fue circuncidado, impuro, sentado, parado sobre utensilios, sobre animales o sobre los pies de otra persona, son descalificados. Si el sacerdote tomó la sangre con la mano izquierda, es descalificado. Rabí Shimon lo declara válido. Si la sangre fue derramada sobre el pavimento y el sacerdote la recogió, es descalificado.
+
+Si [el sacerdote] la pusiera [la sangre] en la rampa [hacia el altar], [o sobre el altar, pero] no contra su base; si aplicó [la sangre] que debía aplicarse
+
+
+
+
+
+debajo [de la línea escarlata] encima [de ella] o lo que se debe aplicar arriba, debajo, o lo que se debe aplicar dentro [él aplicó]
+
+fuera, o lo que se debe aplicar fuera [él aplicó] dentro, no es válido, pero no que involucra caucho.
+
+El que sacrifica un animal con la intención de: rociar su sangre fuera del Templo o parte de su sangre fuera; quemar sus entrañas o parte de sus entrañas
+
+fuera; Para comer su carne o tanto como una aceituna de su carne fuera, O para comer tanto como una aceituna de la piel de la cola gorda por fuera, no es válido, pero no implica karet. [Uno que sacrifica un sacrificio con la intención]: Rociar su sangre o parte de su sangre al día siguiente, Quemar sus entrañas o parte de sus entrañas al día siguiente; Comer su carne o tanto como una aceituna de su carne en
+
+el día siguiente; O comer tanto como una aceituna de la piel de su cola gorda al día siguiente, Es piggul, e involucra kareth.
+
+Esta es la regla general: cualquiera que sacrifique o reciba [la sangre], o la lleve o la rocíe [con la intención] de comer tanto como una aceituna de lo que normalmente se come o de quemar [sobre el altar] tanto como una aceituna de lo que normalmente se quema fuera de su lugar prescrito, [el sacrificio] es inválido, pero no involucra karet; [La intención de comer o quemar] después de su tiempo designado, es piggul e involucra karet. Siempre que el mattir sea
+
+ofrecido de acuerdo con la ley.
+
+¿Cómo se ofrece el mattir de acuerdo con la ley? Si uno sacrificó en silencio, y recibió, o llevó, o roció, [con la intención de comer el sacrificio] después de su tiempo designado; O si uno sacrificó [con la intención de comer] después de su tiempo designado, y recibió, y llevó y roció en silencio, o si uno sacrificó, o recibió, o llevó, o roció [con la intención de comer] después de su tiempo designado. Eso es ofrecer el mattir de acuerdo con la ley. ¿Cómo no se ofrece el mattir de acuerdo con la ley? Si uno sacrificó
+
+[con la intención de comer] fuera del lugar designado, [y] recibió, llevó y roció [con la intención de comer] después de su tiempo designado;
+
+O si uno sacrificó [con la intención de comer] después de su tiempo designado, [y] recibió, llevó y roció [con la intención de comer] fuera de su lugar designado, o si uno sacrificó, recibió, llevó y roció [con la intención de comer] fuera de su tiempo designado. Si uno sacrificó la pesah o el hatat por el bien de otra cosa, y los recibió, llevó y roció [con la intención de comerlos]
+
+después de su tiempo designado; O si uno los sacrificó [con la intención de comerlos] fuera de su tiempo designado;
+
+comerlos] después de su tiempo designado, [y] recibidos, llevados y rociados por causa de otra cosa, o si uno sacrificaba, recibía, llevaba y rociaba por causa de otra cosa; En estos casos el mattir no se ofrecía de acuerdo con la ley.
+
+[Si uno pretendía] comer tanto como una aceituna al día siguiente [y] tanto como una aceituna fuera de su lugar previsto, [o] tanto como una aceituna fuera de su lugar designado [y] tanto como una aceituna al día siguiente; la mitad de una aceituna al día siguiente [y] la mitad de una aceituna fuera de su lugar designado; la mitad de una aceituna al día siguiente [y] la mitad de una aceituna fuera de su lugar designado, [El sacrificio] no es apto y no implica karet. Rabí Judah dijo: esta es la regla general: donde la intención [inadecuada] del tiempo precede a la intención [inadecuada] del lugar, [el sacrificio] es piggul, e implica karet; pero si la intención [incorrecta] del lugar precede a la intención [incorrecta] del tiempo, es inválida y no implica kareth. Pero
+
+Los sabios dicen: en ambos casos [el sacrificio] es inválido y no implica karet. [Si uno tiene la intención] de comer la mitad de una aceituna [después de su tiempo previsto]
+
+o fuera de su lugar previsto] [y] quemar la mitad que una aceituna [de manera similar] es válido, porque comer y quemar no se combinan.
+
+Capítulo 3
+
+Todas las personas no aptas que hayan sido sacrificadas, su sacrificio es válido, para el sacrificio es válido [incluso cuando lo realizan] los no sacerdotes, las mujeres, los esclavos y los impuros, incluso en el caso de los sacrificios más sagrados, siempre que los impuros no toquen la carne. Por lo tanto, invalidan [el sacrificio] con una intención [ilegítima]. Y en todos estos casos, si recibieron la sangre [para comer el sacrificio] después del tiempo prescrito, o fuera del lugar prescrito, si queda [en el animal]
+
+sangre vital, una persona apta debe volver y recibir la sangre.
+
+
+
+
+
+Si una persona apta recibió [la sangre] y [la] dio a una persona no apta, debe devolverla a la persona apta. Si recibió [la sangre] en su mano derecha y la transfirió a su izquierda, debe devolverla a su derecha. Si la recibió en un vaso sagrado y la vertió en un vaso secular [no sagrado], debe devolverla al vaso sagrado. Si la derramó del vaso al pavimento y luego la recogió, es apta. Si [el sacerdote] la aplicó en la subida [o en el altar], [pero] no contra [la] base [del altar]; [o] si aplicó lo que debe aplicarse debajo [de la línea escarlata] encima [de ella], o lo que debe aplicarse arriba, abajo; o lo que debe aplicarse dentro [lo aplicó] fuera, o lo que debe aplicarse fuera, dentro1 y [aún] hay sangre vital disponible, un [sacerdote] apto debe recibir [la sangre] de nuevo.
+
+Si uno sacrifica el sacrificio [con la intención de] comer lo que normalmente no se come, o quemar [sobre el altar] lo que normalmente no se quema [fuera del tiempo o lugar en que el sacrificio debe ser comido o quemado], es válido; Pero Rabí Eliezer invalida [el sacrificio]. [Si lo sacrifica con la intención] de comer lo que normalmente se come y quemar lo que normalmente se quema [fuera del tiempo o lugar
+
+el sacrificio debe ser comido o quemado], [pero] menor que el tamaño de una aceituna, es válido. Comer la mitad de una aceituna y quemar la mitad de una aceituna [fuera del tiempo o lugar en que debe comerse o quemarse el sacrificio], es válido, porque [las intenciones relativas a] comer y quemar no se combinan.
+
+El que sacrifica el sacrificio [con la intención de] comer tanto como una aceituna de la piel, o del jugo, o de la gelatina, o de la carne endurecida, o de los huesos, o de los tendones, o de los cuernos, o de las pezuñas, ya sea después de tiempo o fuera de límites, es válido y uno no es responsable por su cuenta con respecto a piggul, remanente o inmundicia.
+
+Si uno sacrifica animales sagrados para comer el feto o la placenta fuera del lugar o el momento en que debe comerse el animal, no lo convierte en piggul. Si uno arranca el cuello de las palomas para comer sus huevos fuera del lugar o el momento en que debe comerse el animal, no lo convierte en piggul. La leche de los animales sagrados o los huevos de las palomas no están sujetos a piggul, remanente o impureza por comerlos.
+
+Si lo degolló con la intención de dejar su sangre o sus entrañas para el día siguiente, o de llevarlos fuera de su lugar: Rabí Judá lo descalifica, pero los sabios lo declaran válido. [Si lo degolló] con la intención de rociar [la sangre] sobre la subida, [o sobre el altar] pero no
+
+contra su base; o de aplicar debajo [de la línea escarlata] lo que debe aplicarse encima, o encima de lo que se debe aplicar debajo, o sin lo que se debe aplicar dentro, o dentro de lo que se debe aplicar fuera; [O con la intención] de que [personas] inmundas lo comieran, [o] que [sacerdotes] inmundos lo ofrecieran; [O] que [personas] incircuncisas lo comieran, [o] que [personas] incircuncisas lo ofrecieran
+
+debe ofrecerlo; [O con la intención] de romper los huesos de la pesah, o comer de él antes de que sea asado; O de mezclar su sangre con la sangre de [sacrificios] inválidos; [En todos estos casos] es válido, porque una intención [ilegítima] no descalifica [un sacrificio]
+
+excepto cuando se refiere
+
+después de su tiempo o fuera de su lugar prescrito, y [en el caso de] una pesah y un hatat, [la intención de sacrificarlos] por ser un sacrificio diferente.
+
+Capítulo 4
+
+Bet Shammai dice: cualquier [sangre] que se rocíe sobre el altar exterior, si [el sacerdote] la aplicó con una rociadura, ha hecho expiación, [y en el caso de un hatat dos aplicaciones, pero Bet Hillel dice: también el caso del hatat si el sacerdote lo aplicó con una rociadura expía Por lo tanto, si hizo la primera aplicación de la manera apropiada y la segunda [con la intención de comer la carne]
+
+después del tiempo prescrito, expía. Si hizo la
+
+La primera aplicación [con la intención de comer la carne] después del tiempo prescrito y la segunda fuera del lugar prescrito, es piggul e involucra [la
+
+castigo de] karet.
+
+Respecto a cualquier [sangre] que se rocíe sobre el altar interior, si [el sacerdote] omitió una de las aplicaciones, no ha expiado;
+
+por lo tanto, si aplicó todas de la manera apropiada pero una de manera incorrecta, [el sacrificio] es inválido, pero no involucra karet.
+
+Estas son las cosas por las cuales uno no es responsable por cuenta de piggul:
+
+
+
+
+
+puñado, El incienso, El incienso, La ofrenda de los sacerdotes, El ungido
+
+La ofrenda del sacerdote, La minhah con libación La sangre, Las libaciones que se traen por separado, las palabras de Rabí Meir. Los sabios dicen: también las que se traen con un animal [sacrificio]. El log de aceite traído por la metzora: Rabí Shimon dice: uno no es responsable por piggul; Pero Rabí Meir dice: uno es responsable por piggul, porque la sangre del asham lo hace permitido y todo lo que tiene algo más que lo hace permitido, ya sea para el hombre o para el altar, uno es responsable por su cuenta por piggul.
+
+[La aspersión de] la sangre del olah permite que su carne [se queme] en el altar, y su piel para los sacerdotes. [La aspersión de] la sangre de la olah de Un pájaro permite que su carne llegue al altar. [La aspersión de] la sangre del hatat de un pájaro permite que su carne llegue a los sacerdotes. [La aspersión de] la sangre de los toros que se queman y de los machos cabríos que se queman permite que sus entrañas sean ofrecidas [sobre el altar]. Rabí Shimon dijo: lo que no se [rocía] sobre el altar exterior, como en el caso de los shelamim, uno no es responsable por ello a causa del piggul.
+
+Los sacrificios de los no judíos: nadie es responsable por ellos de piggul, remanente o impureza, y si [un sacerdote] los sacrifica fuera [del Templo], no es responsable, según las palabras de Rabí Meir. Pero Rabí Yose lo declara responsable.
+
+Las cosas por las que uno no es responsable por piggul, uno es responsable por el remanente y la impureza, excepto la sangre. Rabí Shimon declara que uno es responsable
+
+por todo lo que normalmente se come, excepto la madera, el incienso y el incienso, uno no es responsable de [transgresiones que involucran] impureza.
+
+El sacrificio se realiza por seis motivos: Por el sacrificio, Por el sacrificio del sacrificador, Por el Nombre [Divino], Por las ofrendas encendidas, Por la fragancia, Por el placer; Y un hata y un asham por el pecado. Rabí Yose dijo: incluso si Si uno no tiene ninguno de estos propósitos en su corazón, es válido, porque es una reglamentación de la corte, ya que la intención la determina solo el adorador.
+
+Capítulo 5
+
+¿Cuál es el lugar de los sacrificios?Los sacrificios más sagrados son
+
+El sacrificio se hace en el lado norte del altar. El becerro y el macho cabrío de Yom Kippur se hacen en el lado norte, y la recepción de su sangre se realiza con vasos de servicio en el lado norte, y su sangre debe rociarse entre los postes [del arca], sobre la cortina y sobre el altar de oro. [La omisión de] una sola aplicación de [la sangre] los invalida. Él [el sacerdote]
+
+derramaría los restos de la sangre en la base occidental del altar exterior, pero si no la derramaba, no invalidaba [el sacrificio].
+
+En cuanto a los toros que fueron quemados y los machos cabríos que fueron quemados, su matanza se [hace] en el norte, y la recepción de su sangre se [hace] en el norte, y su sangre requiere ser rociada sobre el velo y sobre el oro.
+
+altar; [La omisión de] una sola de estas aplicaciones invalida [el sacrificio]. Él [el sacerdote] vierte el resto de la sangre sobre la base occidental
+
+del altar; pero si no lo derramaba, no invalidaba [el sacrificio]. Ambos eran quemados en el pozo de cenizas.
+
+[Sobre] los hatats públicos y privados: (Estos son los hatats públicos: los machos cabríos de las lunas nuevas y las festividades) Son sacrificados en el norte, y su sangre es recibida en vasos de ministración en el norte, y su sangre requiere cuatro aplicaciones en las cuatro esquinas [del altar]. ¿Cómo se hizo? Subió al altar.
+
+Subió, giró hacia el camino circundante y llegó a la esquina sureste, luego al noreste, luego al noroeste y luego al suroeste.
+
+El resto de la sangre que quedaba en la base sur. Los sacerdotes varones los comían dentro de las cortinas [del Tabernáculo], preparados de cualquier manera, de la misma manera.
+
+día y noche, hasta medianoche.
+
+El olah es un sacrificio muy sagrado. Se sacrifica en el norte y su sangre se recibe en un vaso ministrador en el norte; y su sangre requiere dos aplicaciones, que son cuatro. Tenía que ser desollado, desmembrado y completamente consumido por el fuego.
+
+Los shelamim del público y los ashams: Estos son los [diferentes tipos de] ashams: El asham por robo; El asham o uso ilegal de propiedad santa; El
+
+
+
+
+
+asham para una sierva desposada; asham de un nazareo; asham de un leproso; y asham del colgado. Estos son asesinados en el norte, y su sangre es recibida
+
+en un recipiente de servicio en el norte, y su sangre requiere dos rociadas, que son cuatro. Y se comen dentro de las cortinas [del Tabernáculo], por sacerdotes varones, preparados de cualquier manera, el mismo día y noche, hasta la medianoche.
+
+La todah y el carnero del nazareo son sacrificios de menor santidad. Se sacrifican en cualquier lugar del atrio del templo, y su sangre requiere dos aspersiones, que constituyen cuatro; y se comen en cualquier parte de la ciudad, por cualquier persona, preparados de cualquier manera, el mismo día y la noche siguiente, hasta la medianoche. Las partes de ellos que se crían se rigen por la misma ley,
+
+salvo que éstos sean comidos [solamente] por los sacerdotes, sus esposas, sus hijos y sus esclavos.
+
+El shelamim es un sacrificio de menor santidad. Puede ser inmolado en cualquier parte del atrio del Templo, y su sangre requiere dos aspersiones, que constituyen cuatro. Y se comen en cualquier parte de la ciudad, por cualquier persona, preparados de cualquier manera, durante dos días y una noche. Las partes de ellos que se crían se rigen por la misma ley, salvo que estas son comidas [solamente] por los sacerdotes, sus esposas, sus hijos y sus esclavos.
+
+El primogénito del animal, el diezmo y la pesah son sacrificios de menor santidad.
+
+Son sacrificados en cualquier parte del atrio del Templo, y su sangre requiere una sola rociadura, siempre que la aplique contra la base
+
+[del altar].
+
+Se diferencian en las [reglas que gobiernan] su alimentación: el animal primogénito lo comen [solamente] los sacerdotes, el diezmo lo come cualquiera y se puede comer en cualquier parte de la ciudad, preparado de cualquier manera, durante dos días y una noche.
+
+La pesah se puede comer solo por la noche, solo hasta la medianoche, y solo pueden comerla aquellos registrados para ello, y solo se puede comer asada.
+
+Capítulo 6
+
+Sacrificios santísimos que fueron sacrificados en la parte superior del altar: Rabí Yose dice: es como si fueran sacrificados en el norte.
+
+Rabí Yose hijo de Rabb
+
+Judá dice: desde el centro del altar hacia el sur, como el sur; desde el centro del altar hacia el norte, como el norte. Los puñados de ofrendas de cereal se recogían en cualquier parte del atrio del Templo, y se comían [las ofrendas minhah] dentro de las cortinas, por sacerdotes varones, preparadas de cualquier manera, el mismo día y noche, hasta la medianoche.
+
+El sacrificio de un pájaro se hacía en el cuerno suroeste [del altar]. Es válido [si se hace] en cualquier lugar, pero este era su lugar
+
+[particular]. Ese cuerno servía para tres cosas abajo y tres cosas arriba: Abajo: para el sacrificio de un pájaro, para la presentación
+
+[de ofrendas de comida] y para el residuo de la sangre. Arriba: para derramar vino y agua, y para la olah de un pájaro cuando había demasiado en el este.
+
+Todos los que subieron al altar, subieron por la derecha, luego dieron la vuelta [al altar] y descendieron por la izquierda, excepto estos tres, que subieron y bajaron volviendo sobre sus pasos.
+
+¿Cómo se sacrificaba el hatat de un ave? Le cortaba la cabeza por detrás del cuello, pero no la cercenaba. Y rociaba la sangre sobre la pared del altar. El resto de la sangre se escurría sobre la base. Sólo la sangre pertenecía al altar, mientras que el resto pertenecía a los sacerdotes.
+
+¿Cómo se sacrificaba el olah de un pájaro? Él [el sacerdote] subió la rampa, giró hacia el camino circundante y se dirigió hacia el cuerno sureste.
+
+Le pellizcó la cabeza por la nuca, la cortó y le vació el jugo.
+
+sangre en la pared del altar. Tomó la cabeza, giró la parte donde estaba mordida hacia el altar, la empapó con sal y la arrojó al fuego
+
+[del altar]. Luego llegó al cuerpo, le quitó el buche, las plumas y las entrañas que le salían, y las arrojó al lugar de la hoguera. Desgarró
+
+[el cuerpo], pero no lo partió por la mitad, pero si lo partió, todavía es válido. Luego lo empapó [el cuerpo] con sal y lo arrojó al fuego
+
+[del altar].
+
+Si no le quitó el buche, las plumas o las entrañas que le salieron, o no lo secó con sal, o cometió cualquier otra desviación después de haber drenado la sangre, sigue siendo válido. Si cortó la cabeza del hatat o no cortó la olah, no es válido. Si drenó la sangre de la cabeza,
+
+
+
+
+
+pero no la sangre del cuerpo, pues no es apta; La sangre del cuerpo, pero no la sangre de la cabeza, es apta.
+
+Si mordió el pelo de un pájaro por algo más; si se desangró
+
+su sangre por algo más, o por sí misma y por algo más, o por algo más y por sí misma, es No es apto. La olah de un pájaro es apta [en tales circunstancias], excepto que no cuenta para la obligación de su dueño. Un hatat de un pájaro o una olah de un pájaro que mordisqueó, o drenó la sangre [con la intención]
+
+de comer lo que normalmente se come o de quemar lo que normalmente se quema fuera del lugar apropiado, es inválido, pero no involucra karet; Después del tiempo apropiado, es piggul e involucra karet, siempre que el mattir se haya ofrecido de acuerdo con las regulaciones. ¿Cómo ofrece el mattir según las regulaciones? Si lo mordisqueó en silencio y escurrió la sangre [con intención de] después del tiempo apropiado; o si lo mordisqueó [con intención de] después del tiempo apropiado y escurrió la sangre en silencio; o si lo mordisqueó y escurrió la sangre [con intención de] después del tiempo apropiado: en estos casos ofreció el mattir según la regulación. ¿Cómo no ofrece el mattir según la regulación? Si lo mordisqueó [con intención de] fuera del lugar apropiado y escurrió la sangre [con intención de] fuera del tiempo apropiado; o si lo mordisqueó [con intención de] después del tiempo apropiado y escurrió la sangre [con intención de] fuera del lugar apropiado; o si lo mordisqueó y escurrió la sangre [con intención de] fuera del lugar apropiado; o si mordisqueó un hatat de un pájaro para un sacrificio diferente y escurrió la sangre [con intención de] después
+
+el tiempo apropiado; o si lo mordisqueó [con intención de] después del tiempo apropiado y drenó la sangre por causa de un sacrificio diferente; o
+
+si lo mordisqueaba y desangraba por causa de un sacrificio diferente: en estos casos no ofrecía el mattir según la reglamentación. [Si tenía la intención] de comer tanto como una aceituna fuera del lugar apropiado
+
+[y] tanto como
+
+como una aceituna al día siguiente, [o] tanto como una aceituna al día siguiente [y] tanto como una aceituna fuera del lugar apropiado; O la mitad de una aceituna fuera del lugar apropiado [y] la mitad de una aceituna al día siguiente; O la mitad de una aceituna al día siguiente [y] la mitad de una aceituna fuera del lugar apropiado, [el sacrificio] no es apto, y no involucra karet. Rabí Judah dijo: esta es la regla general: si la intención [errónea] del tiempo precede a la del lugar, [el sacrificio] es piggul, e involucra karet; pero si la intención [errónea] del lugar precede a la del tiempo, no es apto y no involucra karet. Pero los sabios dicen: en ambos casos [el sacrificio es] no apto y no involucra karet. [Si tenía la intención] de comer la mitad de una aceituna [fuera del lugar apropiado o después del tiempo apropiado] [y] quemar la mitad de una aceituna
+
+[de manera similar] es apto, porque comer y quemar no se combinan.
+
+Capítulo 7
+
+Si se ofrece un hatat de un pájaro debajo [de la línea roja] con los ritos de un hatat [y] por el bien de un hatat, es apto. [Si se ofrece] con los ritos de un hatat
+
+hatat, [pero] en nombre de un olah; [O] con los ritos de un olah [y] en nombre de un hatat; O con los ritos de un olah [y] en nombre de un olah, no es apto. Si lo ofrece por encima [de la línea roja] [incluso] con los ritos de cualquiera de estos, no es apto.
+
+Si se ofrece una ofrenda de ave por encima de la línea roja, con los ritos de una ofrenda y en nombre de una ofrenda, es apta. Con los ritos de una ofrenda pero en nombre de un hatat, es apta, pero no cuenta para la obligación de su dueño. [Si la ofrece] con los ritos de un hatat y en nombre de una ofrenda; [O] con los ritos de un hatat y en nombre de un hatat, no es apta. Si la ofrece por debajo, [incluso] con los ritos de cualquiera de estos, no es apta.
+
+Y todos estos no contaminan la garganta y suponen una transgresión, excepto el hatat de un pájaro que fue ofrecido debajo [de la línea roja] con los ritos de un hatat [y] en nombre de un hatat.
+
+Si uno ofrecía una olá de un pájaro debajo [de la línea roja] con los ritos de un hatat [y] en nombre de un hatat: Rabí Eliezer dice: implica una transgresión. Pero Rabí Joshua dice: no implica una transgresión. Rabí Eliezer dijo: si un hatat que no implica una transgresión cuando lo ofrece por su propio nombre, no obstante Cuando cambia el nombre [por el cual se ofrece] sí implica transgresión, es
+
+
+
+
+
+¿No es lógico que una olah que implica transgresión cuando se la ofrece por su propio nombre, involucre transgresión cuando se le cambia el nombre? Dijo el rabino Joshua
+
+Rabí Eliezer le dijo: No, cuando hablas de un hatat cuyo nombre él cambió por el de un olah, [esto implica transgresión] porque él cambió su nombre por algo que implica transgresión; ¿dirás [lo mismo] de un olah cuyo nombre él cambió por el de un hatat, viendo que él cambió su nombre por algo que no implica transgresión?
+
+Rabí Eliezer le dijo: He aquí, los sacrificios más sagrados que él sacrificó en el sur y que sacrificó en nombre de sacrificios menores probarán el asunto, porque él cambió su nombre por algo que no implica transgresión, y sin embargo implican transgresión, así también, no te sorprendas de que en el caso del olah, aunque él cambió su nombre por algo que no implica transgresión, todavía implica transgresión. Rabí Joshua dijo: No, cuando hablas de los sacrificios más sagrados que se sacrifican en el sur, y que él sacrificó en nombre de los sacrificios menores, probarán el asunto, porque él cambió su nombre por algo que no implica transgresión, y sin embargo implican transgresión.
+
+el sur y en nombre de sacrificios menores, [que implican transgresión] porque cambió su nombre a algo que está en parte prohibido y en parte permitido; ¿dirás lo mismo de una olah, donde cambió su nombre a algo que está completamente permitido?
+
+Si mordisqueó [la ofrenda de aves] con su [mano] izquierda o de noche; si degolló a un animal dentro
+
+[del patio del Templo] o un animal fuera [del patio del Templo], no se contaminan en el gaznate. Si mordisqueó con un cuchillo; o si mordisqueó a un animal dentro [o] a un animal fuera [del patio del Templo]; o
+
+[si sacrificó] tórtolas antes de tiempo o pichones después de tiempo; [o un pájaro] cuyas alas estaban secas,
+
+[o] ciego de un ojo [o] cuya pata estaba cortada, [todos] se contaminan en el gaznate. Esta es la regla general: todos aquellos cuya ineptitud [surgió] en la santidad no se contaminan en el gaznate; si su ineptitud no surgió en la santidad, se contaminan en el gaznate. Y cualquiera que sea incapaz y muerda, su mordisqueo es inválido, y ellos [los pájaros] no se contaminan en el gaznate.
+
+Si uno realizó melikah, y encontró que [el pájaro] era una terefah: Rabino Meir Dijo: no se contamina en el esófago. Rabí Judah dijo: sí se contamina en el esófago. Rabí Meir dijo: si con respecto a una bestia, cuando es carroña (una nevelah) se contamina a través del contacto o el transporte, pero matarla purifica su terefah de la impureza, cuando se trata de carroña (nevelah) de un pájaro que no se contamina a través del contacto o el transporte, ¿no es lógico que matarla sea una bestia que no se contamina a través del contacto o el transporte?
+
+¿Cómo se purificaría su terefá? Ahora bien, tal como hemos descubierto que el sacrificio, que la hace [a un ave de hullin] apta para comer, purifica su terefá de su impureza; así también la meliká (mordisqueo), que la hace [a un sacrificio de aves] apta para comer, purifica su terefá. Rabí Yose dice: es suficiente que sea como la nevelá de un animal, que se purifica mediante el sacrificio, pero no mediante la meliká (mordisqueo).
+
+Capítulo 8
+
+Todos los sacrificios que se mezclaron con un animal que debe ser dejado morir, o con un buey que debe ser apedreado, incluso uno entre diez mil, todos deben ser dejados morir. Si se mezclaron con: un buey con el cual se había cometido una transgresión [por ejemplo]: uno que había matado a un hombre por el testimonio de un testigo o de su dueño; o [un buey] que tuvo relaciones sexuales con una mujer o con una persona con la que un hombre tuvo relaciones sexuales; o un animal apartado [para la idolatría], o que había sido adorado [como un ídolo]; o que era el precio de una prostituta, o el intercambio [de un perro]; o que era kilayim; o terefah; o un animal nacido por cesárea, [En todos estos casos] deben pastar hasta que se vuelvan defectuosos, luego se venden, y se ofrece [un sacrificio] de la misma clase al precio del mejor de ellos. Si se mezclaron con [animales] sin defecto de hullin, el hullin debe venderse a quienes necesitan esa clase [para un sacrificio].
+
+Un sacrificio [que se mezclaba] con otro sacrificio, siendo ambos de la misma especie: éste se ofrece en nombre de quien sea su dueño, y el otro se ofrece en nombre de quien sea su dueño. Un sacrificio [que se mezclaba]
+
+con un sacrificio, siendo ambos de diferentes especies: deben pastar hasta que se vuelvan inservibles, y entonces él compra al precio del mejor de ellos [un animal] de cada especie, y paga la pérdida del exceso de su propio bolsillo.
+
+Si se mezclan con una primicia o un diezmo, deben pastar hasta que se vuelvan inservibles, y luego se comen como primicia o diezmo. Todos [los sacrificios] pueden mezclarse, excepto el hatat y el asham.
+
+
+
+
+
+Un asham que se mezcló con un shelamim: pastan hasta que se vuelven inservibles.
+
+Rabí Shimón dice: se sacrifican en el lado norte [del altar] y se comen de acuerdo con [las leyes de] los más estrictos de ellos. Le dijeron: uno no debe traer sacrificios a un lugar inadecuado. Si trozos [de carne sacrificial] se mezclan con trozos [de otra carne sacrificial], sacrificios más sagrados con sacrificios menores, [trozos] que se comen un día con [los] que se comen dos días y una noche, deben comerse de acuerdo con [las leyes de] los más estrictos de ellos.
+
+Miembros de un hatat que se mezclaron con miembros de un olah: Rabí Eliezer dice: debe colocarlos [todos] sobre la parte superior [del altar], y considerar la carne del hatat que está sobre ella como si fuera madera. Pero los sabios dicen: deben desfigurarse y luego ir al lugar de la quema.
+
+Miembros de [olas sin defecto que fueron mezcladas] con los miembros de [olas] con defectos: Rabí Eliezer dice: si [el sacerdote]
+
+ofreció la cabeza de uno de ellos, se deben ofrecer todas las cabezas; las piernas de uno de ellos, se deben ofrecer todas las piernas.
+
+Pero los sabios dicen: incluso si hubieran ofrecido todos excepto uno de ellos, iría al lugar de la quema.
+
+Si la sangre fue mezclada con agua, si conserva la apariencia de sangre, es apta [para ser rociada sobre el altar]. Si fue mezclada con vino, la consideramos como si fuera agua. Si fue mezclada con la sangre de una bestia o animal salvaje, la consideramos como si fuera agua. Rabí Yehudah dijo: la sangre no puede anular la sangre.
+
+Si se mezcló con sangre de animales no aptos, se debe verter en el conducto. Si se mezcló con sangre que salió después de la muerte, se debe verter en el conducto.
+
+vertido en el conducto. El rabino Eliezer lo declara apropiado. Si él [el sacerdote] no pidió sino que lo roció, es válido.
+
+[Si] sangre de animales sin defecto [se mezclaba] con sangre de animales con defecto, se debía verter en el conducto. [Si] se mezclaba una copa [de sangre válida]
+
+con otras copas [de sangre inválida]: Dijo Rabí Eliezer: si él [el sacerdote] ofreció [roció] una copa, se pueden ofrecer todas las copas;
+
+Pero los sabios dicen: incluso si ofrecieron todas menos una, debe ser vertida en el conducto.
+
+Si la sangre que se rocía debajo de la línea roja del altar se mezcló con la sangre que se rocía arriba, dice Rabí Eliezer: debe rociarla arriba, y considero la sangre que se roció abajo como si fuera agua, y luego rocía nuevamente abajo. Pero los sabios dicen: debe verterla en el conducto. Si él [el sacerdote] no pidió y la roció, es válido.
+
+[Si la sangre] que requiere una aplicación [se mezcló] con sangre [que también] requiere una aplicación, [la mezcla] debe presentarse con una aplicación. [Si la sangre] que requiere cuatro aplicaciones [se mezcló] con sangre que requiere cuatro aplicaciones, deben presentarse con cuatro aplicaciones.
+
+[Si la sangre] que requiere cuatro aplicaciones [se mezcló] con sangre que requiere una aplicación: Rabí Eliezer dice: [la mezcla] debe presentarse con cuatro aplicaciones. Rabí Joshua dice: debe presentarse con Una aplicación. Rabí Eliezer le dijo: ¡Mira, él transgrede el [mandato] de no disminuir [el mandamiento de Dios]! Rabí Joshua le dijo:
+
+He aquí que él transgrede el mandato de no añadir [a los mandamientos de Dios]. Rabino Eliezer le dijo: La orden de no agregar se aplica sólo cuando está por sí misma. Rabí Joshua le dijo: La orden de no disminuir se aplica sólo cuando está por sí misma. Además, Rabí Joshua dijo: cuando haces [cuatro] aplicaciones transgredes la orden de no agregar, y realizas una acción con tus propias manos; mientras que cuando no haces [cuatro] aplicaciones transgredes la orden de no disminuir, pero no realizas una acción con tus propias manos.
+
+Si la sangre que se rocía dentro del Santuario se mezcla con la que se rocía fuera, se debe verter en el conducto.
+
+[El sacerdote] roció por fuera y luego por dentro, es válido. [Si roció] por dentro y luego volvió y roció por fuera: Rabí Akiva declara No es apta, pero los sabios la declaran apta. Porque Rabí Akiva dice: toda sangre que entró en el Santuario para hacer expiación es inapropiada; pero los sabios dicen: solo el hatat [es inapropiado]. R. Eliezer dijo: el asham también, porque está escrito: “Como es el hatat,
+
+así es el asham” (Levítico 7:7).
+
+Si la sangre de un hatat fue recibida en dos copas y una de ellas salió afuera
+
+
+
+
+
+[el patio del Templo], el de adentro es apto. Si uno de ellos entró dentro [del Santuario]: Rabí Yose el Galileo declara apto el de afuera. Los sabios lo descalifican. Rabí Yose el Galileo: si el lugar donde una intención [dirigida a él] descalifica, es decir, afuera, no tratas lo que queda [dentro] como lo que salió; entonces el lugar donde una intención [dirigida a él] no descalifica, es decir, adentro, ¿no es lógico que no tratemos lo que está
+
+¿Qué es lo que quedó [fuera] como lo que entró dentro? Si entró para hacer expiación, incluso si él [el sacerdote] no hizo expiación, no es apto, las palabras de Rabí Eliezer. Rabí Shimon dijo: [no es inadecuado] a menos que haga expiación. Rabí Judah dijo: si lo ingirió sin saberlo, es apto. Para toda sangre no apta que se puso sobre el altar, la placa de la cabeza [del sumo sacerdote] no propicia, excepto por lo inmundo, porque la placa de la cabeza propicia por lo que es inmundo, pero no propicia por lo que sale.
+
+Capítulo 9
+
+El altar santifica todo lo que es digno de él. Rabí Joshua dice: todo lo que es digno de él.
+
+El fuego apto para el altar no desciende una vez que ha ascendido, como está dicho: “La olah misma permanecerá donde es quemada sobre el altar [toda la noche]
+
+hasta la mañana, mientras el fuego del altar se mantiene encendido sobre él]” (Levítico 6:: así como la olah, que es elegible para el fuego del altar, no desciende una vez que
+
+ha ascendido, por lo tanto, todo lo que es elegible para el fuego del altar no desciende una vez que ascendió. Rabban Gamaliel dijo: todo lo que es elegible para el altar no desciende una vez que ascendió, como está dicho: “La olah misma permanecerá donde es quemada sobre el altar [toda la noche hasta la mañana, mientras el fuego del altar se mantiene encendido sobre ella]” (Levítico 6:2): así como la olah, que es elegible para el altar, no desciende una vez que ascendió, así también todo lo que es elegible para el altar no desciende una vez que ascendió. La única diferencia entre Rabban Gamaliel y Rabí Joshua es con respecto a la sangre y las libaciones, porque Rabban Gamaliel dice que no pueden descender, mientras que Rabí Joshua dice que pueden descender. Rabí Shimon dice: si el sacrificio es apto mientras que las libaciones [que lo acompañaban] no son aptas; o si las libaciones son aptas mientras que el sacrificio no es apto; o incluso si ambos son inadecuados, el sacrificio no desciende, mientras que las libaciones sí descienden.
+
+No descienden, una vez que han ascendido, los animales sacrificados que se guardaron durante la noche, los que se vuelven impuros, los que salen de sus límites, los que fueron sacrificados después del tiempo apropiado o fuera del lugar apropiado, o los que Los que no eran aptos recibieron y rociaron su sangre. Rabí Yehudah dice: lo que fue sacrificado de noche o cuya sangre fue derramada o cuya sangre salió fuera de las cortinas, si ascendió, debe descender. Rabí Shimon dice: no desciende, porque Rabí Shimon dice: todo aquello cuya descalificación surgió en la santidad, el altar sagrado lo recibe; si su descalificación no surgió en la santidad, el altar sagrado no lo recibe.
+
+¿Cuáles son aquellos cuya descalificación no surgió en la santidad: Un animal que tuvo relaciones sexuales con una mujer o con un hombre, o que fue el pago de una prostituta, o el intercambio [de un perro]; o que fue kilayim; o terefah; o un animal nacido por cesárea y animales con defectos. Rabí Akiva declaró que los animales con defectos eran aptos [para permanecer en el altar si ya habían sido colocados].
+
+El rabino Hananya, jefe de los sacerdotes, dijo: Mi padre solía empujar a los animales con defectos fuera del altar.
+
+Así como no descienden una vez que han ascendido, tampoco ascienden si han descendido. Y todos éstos, si subieron vivos a la cima del altar, deben descender. Un olah que ascendió vivo a la cima del altar, debe descender. Si uno lo degolló sobre la cima del altar, debe desollarlo y desmembrarlo donde yace.
+
+Si ascendieron, bajaron: la carne de los sacrificios más sagrados, la carne de los sacrificios menores, los restos del ómer, los dos panes, el pan de la proposición, los restos de las ofrendas y el incienso.
+
+sobre las cabezas de los corderos, el pelo de las barbas de los machos cabríos, los huesos, los tendones, los cuernos y las pezuñas, si están adheridos a ellos, subirán, porque está dicho: “Y el sacerdote convertirlo todo en humo sobre el altar” (Levítico 1:9). Si se separaban [de el animal], no suben, porque está dicho: “Y ofrecerás tu olah, la carne y la sangre, [sobre el altar del Señor tu Dios]” (Deuteronomio
+
+
+
+
+
+12:27).
+
+Y si alguno de ellos brota del altar, no se reemplaza. De manera similar, si un carbón brota del altar, no se reemplaza. Las ramas que brotan del altar: si son antes de la medianoche, deben reemplazarse, e implican una transgresión;
+
+después de la medianoche, no se reemplazan y no implican intrusión.
+
+Así como el altar santifica todo lo que es digno de él, así también la ascensión santifica todo lo que es digno de él; y así como el altar y la ascensión santifican todo lo que es digno de ellos, así también los vasos santifican. Los vasos para líquidos santifican líquidos, y las medidas santifican materia seca. Un vaso para líquidos no santifica materia seca, ni una [medida] seca santifica un líquido.
+
+Si los vasos sagrados están perforados y pueden usarse para el mismo propósito que cuando están enteros, santifican [lo que se coloca en ellos]; si no, no santifican. Y todos estos santifican sólo en el lugar santo.
+
+Capítulo 10
+
+Lo que es más frecuente que otro, tiene precedencia sobre el otro. Las ofrendas diarias preceden a las ofrendas adicionales; Las ofrendas adicionales de Shabat preceden a las ofrendas adicionales de Rosh Jodesh; Las ofrendas adicionales de Rosh Jodesh preceden a las ofrendas adicionales de Rosh Hashaná. Como está dicho: “Ofrecerás esto además de la porción matutina del holocausto continuo” (Números 28:23).
+
+Todo lo que es más sagrado que otro precede al otro. La sangre de un hatat precede a la sangre de un olah, porque propicia. Los miembros de un olah preceden a las entrañas de un hatat, porque [el primero] es enteramente para los fuegos [del altar]. Un hatat precede a un asham, porque su sangre es rociada sobre los cuatro cuernos y sobre la base. Un asham precede a un hoy y al carnero de un nazareo, porque es un sacrificio santísimo. Una todah y el carnero de un nazareo preceden a un
+
+Shelamim, porque se comen un solo día y requieren panes. Un shelamim precede a un primogénito, porque requiere cuatro aplicaciones de sangre e imposición de manos, libaciones y la mecida del pecho y del muslo.
+
+El primogénito precede al diezmo, porque su santidad proviene del vientre materno y es consumido por los sacerdotes. El diezmo precede a las aves, porque es un sacrificio sacrificado y parte de él es la más sagrada: su sangre y sus entrañas.
+
+Las aves preceden a las ofrendas de harina (minhah), porque son sacrificios de sangre. La ofrenda de un pecador precede a una ofrenda de harina voluntaria, porque se realiza a causa del pecado. Un hatat de un ave precede a un olah de un ave. Y es igualmente
+
+cuando los dedica.
+
+Todas las hatatas de la Torá preceden a los ashams, excepto el asham de un metzorá (uno con una afección cutánea), porque viene a hacer [a una persona] apta. Todos los ashams de la Torá deben ser de dos años y
+
+[dos] siclos de plata de valor, excepto el asham de un nazareo y el asham de un metzorá, porque tienen un año de antigüedad, y no necesitan ser de [dos] siclos de plata de valor.
+
+Así como tienen prioridad al ser ofrecidas, también tienen prioridad al ser comidas. El shelamim de ayer y el shelamim de hoy, el de ayer tiene prioridad.
+
+El shelamim de ayer y el hatat y asham de hoy, el shelamim de ayer tiene prioridad, palabras del rabino Meir. Pero los sabios dicen: el hatat tiene prioridad, porque es un sacrificio sumamente sagrado.
+
+En todos estos casos, los sacerdotes pueden desviarse en la forma de comerlos y comerlos asados, guisados o hervidos. Y se les puede condimentar con especias de cascarilla o terumah.
+
+Especias, palabras de Rabí Shimon. Rabí Meir dice: no se deben condimentar con especias para la terumá, para no hacer que la terumá se vuelva inservible.
+
+Rabí Shimón dijo: si ves que se divide el aceite en el patio del Templo, no necesitas preguntar para qué es, porque es el remanente del aceite de las obleas de las ofrendas de los israelitas, o del log de aceite de la metzorá. Si ves que se vierte aceite sobre los fuegos, no necesitas preguntar para qué es, porque es el remanente del aceite de las obleas de las ofrendas de los sacerdotes, o de la ofrenda de los sacerdotes ungidos; porque uno no puede ofrecer voluntariamente aceite de ofrenda [solo]. Rabí Tarfón dice: el aceite puede ser ofrecido voluntariamente [solo].
+
+Capítulo 11
+
+Si la sangre de un hatat se derrama sobre una prenda, ésta debe lavarse.
+
+
+
+
+
+La Escritura habla solamente de los [hatats] que se comen, pues está dicho: “En el lugar santo se comerá” (Levítico 6:19), sin embargo, tanto los que se pueden comer como los [sacrificios] internos necesitan lavado, pues está dicho: “[Esta es] la ley del hatat” (Levítico 6:18), hay una ley para todos los hatats.
+
+La sangre de un hatat descalificado no necesita lavado, ya sea que haya tenido un
+
+¿Cuál tenía un período de aptitud o no tenía un período de aptitud? ¿Cuál tenía un período de aptitud? Uno [cuya sangre] se guardaba durante la noche, o se contaminaba, o se sacaba [del patio del Templo]. ¿Cuál no tenía un período de aptitud? Uno que era sacrificado [con la intención de comerlo] después del tiempo apropiado o fuera de los límites apropiados; o cuya sangre fue recibida por personas no aptas y rociada por ellas.
+
+Si la sangre brotó directamente de la garganta del animal sobre una prenda de vestir, no es necesario lavarla. Si brotó del cuerno o de la base del altar, no es necesario lavarla. Si se derramó sobre el suelo del Templo y el sacerdote la recogió, y luego salpicó una prenda de vestir, no es necesario lavarla. Solo la sangre que se recibió en un recipiente y es apta para rociar requiere lavado.
+
+Si la sangre brotó sobre la piel antes de que fuera desollada, no es necesario lavarla. Si brotó después de que fue desollada, no es necesario lavarla.
+
+requiere lavado, las palabras del rabino Judah. El rabino Eliezer dice: incluso [si saliera a borbotones sobre la piel] después de haber sido desollado [no requiere lavado].
+
+El lugar de la sangre requiere lavado. Y todo lo que es propenso a contraer inmundicia, y todo lo que es apto para lavado.
+
+Ya se trate de una prenda de vestir, un saco o una piel, es necesario lavarlos en un lugar sagrado. La rotura de una vasija de barro debe realizarse en un lugar sagrado. Y el lavado y enjuague de una vasija de cobre debe realizarse en un lugar sagrado. En esto, el hatat es más estricto que [otros] sacrificios de mayor santidad.
+
+Si una prenda de vestir fue llevada fuera de las cortinas [del Tabernáculo], debe volver a entrar, y se lava en el lugar santo. Si fue contaminada fuera de las cortinas, se debe rasgar, luego vuelve a entrar, y se lava en el lugar santo.
+
+Si un vaso de barro fue llevado fuera de las cortinas, vuelve a entrar y se rompe en un lugar sagrado. Si fue profanado fuera de las cortinas, se hace un agujero en él, luego vuelve a entrar y se rompe en un lugar sagrado.
+
+Si un recipiente de cobre fue llevado fuera de los cortinajes, vuelve a entrar y es limpiado.
+
+y se lava en un lugar santo. Si se contamina fuera de las cortinas, se abre una brecha, se vuelve a introducir y se lava y se lava en un lugar santo.
+
+Ya sea que uno haya hervido en ella o haya vertido carne hirviendo [para los sacrificios] en ella, ya sean los sacrificios más sagrados o los sacrificios menores, [la olla] requiere fregado y enjuague. Rabí Shimon dice: los sacrificios menores no requieren fregado ni enjuague. Rabí Tarfón dice: si uno hirvió [sacrificios en una olla] al principio En el caso de un festival, se puede hervir en él durante todo el festival. Pero los sabios dicen: hasta el momento de comer, fregar y enjuagar. El fregado se realiza como el fregado.
+
+de una copa; y el enjuague es como el enjuague de una copa, que se frota [con agua caliente] y se enjuaga con agua fría. El asador y la parrilla se limpian con agua caliente.
+
+Si se cocían en ella [la olla de cobre] sacrificios y cascarilla, o sacrificios santísimos y sacrificios menores, si eran suficientes para impartir su sabor, los menos estrictos debían comerse como los más estrictos; pero No necesitan ser frotados ni enjuagados; y no descalifican al tocarlos.
+
+una oblea [no apta] tocó una oblea [apta], o un trozo de carne [no apta] tocó un trozo de carne [apta], no toda la oblea ni todo el trozo de carne está prohibido; sólo está prohibida la parte que absorbió [lo no apto].
+
+Capítulo 12
+
+El que no ha hecho la expiación y el que no ha hecho la expiación no participan de los sacrificios que se consumen por la tarde. El hombre puede manipular los sacrificios, pero no puede ofrecerlos, y no recibe parte para el consumo de la tarde.
+
+Los sacerdotes que tengan defectos, sean permanentes o transitorios, recibirán una parte y podrán comer [de los sacrificios], pero no podrán ofrecerlos. Quien no sea elegible para
+
+El que sirve no participa de la carne. Y el que no participa de la carne, no participa de la carne.
+
+No compartiría las pieles. Incluso si uno estaba impuro cuando se roció la sangre, pero limpio cuando las grasas fueron quemadas [en el altar], no participa de la carne, porque está dicho: “el de entre los hijos de Aarón que ofrezca la sangre de los shelamim, y la grasa, tendrá la espaldilla derecha como porción” (Levítico 7:33).
+
+
+
+
+
+Cuando el altar no recibe su carne, los sacerdotes no reciben la piel, pues está escrito: “[Y el sacerdote que ofrezca] la ofrenda de algún hombre [el sacerdote recibirá… la piel]” (Levítico 7:8), [esto significa,] una ofrenda que fue subida al altar en nombre de un hombre. Si una ofrenda fue sacrificada bajo una designación diferente, aunque no cuente para su dueño, su piel pertenece a los sacerdotes. Ya sea la ofrenda de un hombre o de una mujer, la piel pertenece a los sacerdotes.
+
+Las pieles de los sacrificios menos sagrados pertenecen a sus dueños. Las pieles de los sacrificios más sagrados pertenecen a sus dueños.
+
+Los sacrificios pertenecen al sacerdote. Esto es un kal vehomer: si con un olah, aunque no adquieran su carne, sí adquieren su piel, ¿no es lógico?
+
+¿Que adquieren las pieles de los sacrificios más sagrados, cuando adquieren su carne? El altar no refuta
+
+[este argumento], porque no adquiere la piel en ningún caso.
+
+Todos los sacrificios que fueron descalificados, antes de ser desollados, sus pieles no pertenecen a los sacerdotes. Después de ser desollados, sus pieles pertenecen a los sacerdotes. Rabí Hanina, vicejefe de los sacerdotes, dijo: Nunca en mi vida he visto una piel salir al lugar de la quema. Rabí Akiva dijo: Aprendemos de sus palabras que si uno desolla un primogénito y se descubre que es terefá, los sacerdotes tienen derecho a su piel. Pero los sabios dicen: “Nunca he visto” no es una prueba: más bien, [la piel] debe salir al lugar de la quema.
+
+Los toros que se queman y los machos cabríos que se queman: cuando se queman en cumplimiento de su mandamiento prescrito, se queman en el depósito de cenizas (bet hadeshen), y contaminan las vestiduras. Pero cuando no se queman en cumplimiento de su mandamiento, se queman en el bet habirah y no contaminan las vestiduras.
+
+Los llevaban en varas [fuera del patio del Templo]. Si los que iban delante Habían pasado fuera del muro del patio del Templo, pero los de atrás no habían salido todavía; los de delante se ensucian las vestiduras, mientras que los de atrás no se ensucian las vestiduras hasta que salen. Cuando ambos salen, ambos se ensucian las vestiduras. Rabí Shimón dice: no se ensucien hasta que el fuego esté ardiendo en la mayor parte de ellos. Cuando la carne se disuelve, quien la quema no ensucia sus vestiduras.
+
+Capítulo 13
+
+El que sacrifica y ofrece fuera [del patio del Templo] es responsable por el sacrificio y por la ofrenda.
+
+Rabí Yose el Galileo dice: si sacrifica dentro y ofrece fuera, [es responsable]; si sacrifica fuera y ofrece fuera, no es responsable [por la ofrenda], porque sólo ofreció lo que no era apto. Le dijeron: incluso cuando uno
+
+mata por dentro y ofrece por fuera, y puesto que lo lleva a cabo, lo vuelve inservible.
+
+Una persona impura que come [de los sacrificios], ya sean sacrificios impuros o sacrificios limpios, es responsable. Rabí Yose el Galileo dice: una persona impura que
+
+El que come sacrificios limpios es culpable, pero el que es impuro y come sacrificios impuros no es culpable, porque come lo que es impuro. Le dijeron: “Aunque el impuro coma sacrificios limpios, cuando lo toque,
+
+Una persona limpia que come [sacrificios] inmundos no es responsable, porque uno es responsable solo a causa de la impureza corporal.
+
+El sacrificio [fuera del Templo] es más riguroso que el sacrificio [fuera], y el sacrificio [es más riguroso] que el sacrificio. El sacrificio es más riguroso, porque quien sacrifica [un sacrificio] a un hombre es responsable, mientras que quien ofrece a un hombre no es responsable. El sacrificio es más riguroso: dos que sostienen un cuchillo y sacrifican no son responsables, [mientras que] si dos toman un miembro y lo ofrecen, son responsables. Si uno ofreció, luego ofreció de nuevo, entonces
+
+Ofrecido nuevamente, es responsable por cada ofrenda, las palabras de Rabí Shimon. Rabí Yose dice: es responsable solo por una. Es responsable solo cuando ofrece sobre la parte superior de un altar. Rabí Shimon dice: es responsable incluso si ofrece sobre la parte superior de una roca o una piedra.
+
+En cuanto a los sacrificios válidos o inválidos que se habían vuelto inadecuados dentro [del Templo]: si uno los ofrece fuera, es responsable. Si uno ofrece fuera [del Templo] hasta el valor de una aceituna de una olah y sus entrañas [combinadas], es responsable. En cuanto al puñado [de harina], el incienso, el incienso, la ofrenda de cereal de los sacerdotes, la ofrenda de cereal del sacerdote ungido y
+
+
+
+
+
+la ofrenda de libaciones, si [uno] ofreció tanto como una aceituna de una de estas fuera, está obligado. Pero Rabí Elazar lo exime a menos que ofrezca
+
+En todos estos casos, si los ofrecieron dentro y sobró el valor de una aceituna y uno lo ofreció fuera, es responsable. En todos estos casos, si les faltó algo y uno los ofreció fuera, no es responsable.
+
+responsable.
+
+Quien ofrece sacrificios junto con las entrañas fuera del Templo, es responsable. Si no se le había quitado el puñado a una minhah y uno la ofreció afuera, está exento. Si uno sacó el puñado, y luego el puñado volvió a la minhah, y la ofreció afuera, es responsable.
+
+En cuanto al puñado y al incienso, si uno ofrecía uno de ellos [sin el
+
+otro] fuera [del Templo], es responsable. Rabí Elazar dice: está exento a menos que ofrezca el segundo también. [Si uno ofreció] uno dentro y el otro fuera, es responsable. En cuanto a los dos platos de incienso, si uno ofreció uno
+
+De ellos, por fuera, es responsable. Rabí Elazar dice: está exento a menos que ofrezca el segundo también. [Si uno ofreció] uno por dentro y el otro por fuera, es responsable.
+
+Si uno rocía parte de la sangre afuera, es responsable. Rabí Elazar dice: también quien hace una libación del agua de la Fiesta [de Sucot] en la fiesta, afuera es responsable. Rabí Nehemías dice: si uno ofreció el resto de la sangre afuera, es responsable.
+
+Si uno corta un pájaro [ofrenda] dentro y lo ofrece fuera, es responsable; si uno lo corta fuera y lo ofrece fuera, está exento. Si uno mata un pájaro dentro y lo ofrece fuera, está exento. Si uno lo mata fuera y lo ofrece fuera, está responsable. Así que su rito prescrito dentro lo exime [si lo hace] fuera, mientras que su rito prescrito fuera lo exime [si lo hace] dentro. Rabí Shimon dice: cualquier cosa por la que sea responsable fuera, es responsable en circunstancias similares dentro cuando uno [posteriormente] lo ofrece fuera; excepto cuando uno mata [un pájaro] dentro y lo ofrece
+
+Arriba afuera.
+
+En cuanto a un hatat cuya sangre fue recibida en una copa: Si uno [primero] roció [la sangre] afuera y luego [la]
+
+roció adentro; [O] adentro y luego afuera, es responsable, porque toda ella era elegible adentro. Si la sangre
+
+fue recibido en dos copas: Si roció ambas por dentro, está exento; Ambas por fuera, está obligado. Una por dentro y otra por fuera, está exento; Una por fuera y otra por dentro.
+
+Si uno está dentro, es responsable por el otro está fuera, mientras que el otro está dentro. ¿A qué se puede comparar esto? A alguien que apartó un animal para un sacrificio, luego se perdió, y apartó otro en su lugar;
+
+luego se encontró el primero, y [así] ambos están presentes. Si los mató a ambos dentro, está exento; si los mató a ambos fuera, está obligado. Si mató a uno dentro y a otro fuera, está exento; uno fuera y uno dentro, es responsable por el otro fuera, mientras que el otro está dentro.
+
+Así como la sangre exime su propia carne, así también exime la carne de su compañero.
+
+[el otro animal].
+
+Capítulo 14
+
+Si uno degolló la vaca hatat [la novilla roja] fuera de su lugar designado, y de la misma manera si uno ofreció el chivo expiatorio [de Yom Kippur] fuera, no es responsable, porque dice: "Y no lo ha traído a la puerta de la Tienda de Reunión" (Levítico 17:4): todo lo que no es elegible para llegar a la puerta de la Tienda de Reunión, uno no es responsable por ello.
+
+[En cuanto a un buey] que tuvo relaciones sexuales con una mujer o con una con quien un hombre tuvo relaciones sexuales; o un animal apartado [para la idolatría], o que había sido adorado [como un ídolo];
+
+o que era el precio de una prostituta, o el intercambio [de un perro]; o que era kilayim; o una terefah; o un animal nacido por cesárea, si uno ofreció cualquiera de estos fuera, no es responsable, porque dice: "Delante del Tabernáculo del Señor" (Levítico 17:4): todo lo que no es elegible para venir delante del Tabernáculo del Señor, uno no es responsable por ello. [En cuanto a] animales defectuosos, ya sea con defectos permanentes o con defectos pasajeros, si uno los ofrece fuera, está exento. Rabí Shimon dice: [si uno ofrece] animales con defectos permanentes, está exento; [si uno ofrece] animales con defectos pasajeros, viola un mandamiento negativo. [En cuanto a] las tórtolas antes de su tiempo y los pichones después de su tiempo, si uno los ofrece fuera, está exento. Rabí Shimon dice: [si uno ofrece] pichones después de su tiempo,
+
+
+
+
+
+Si ofrece un animal junto con sus crías el mismo día, y si ofrece un animal antes de tiempo, no está obligado. Rabí Shimon dice: viola un mandamiento negativo. Porque Rabí Shimon diría: todo lo que es elegible para venir [al altar] más tarde implica un mandamiento negativo, pero no implica karet. Pero los sabios dicen: todo lo que no implica karet tampoco implica un mandamiento negativo.
+
+“Antes de tiempo” se aplica tanto al [animal] mismo como a su dueño. ¿Qué es “antes de tiempo” aplicado a su dueño? Si un zav o un zavah, una mujer después del parto o una metzora, ofrecieron su hatat o su asham fuera [antes de tiempo]
+
+[Si ofrecieron] su olah o sus shelamim fuera [antes de su tiempo], están obligados. El que ofrece carne de un hatat, o carne de un asham, o carne de los sacrificios más sagrados, o carne de los sacrificios menos sagrados; o el resto del omer, o los dos panes, o el pan de la proposición, o el resto de las ofrendas de cereal; o si vierte [el aceite sobre la ofrenda de cereal], o lo mezcla [con harina], o parte [las tortas de la ofrenda de cereal], o sala [la ofrenda de cereal], o la mece, o la presenta; o pone la mesa [con el pan de la proposición], o arregla las lámparas, o saca el puñado, o recibe la sangre; [Si hace cualquiera de estas cosas] fuera, Está exento. Tampoco se es responsable de ninguno de estos actos por no ser sacerdote, o por estar impuro, o por no llevar vestimentas [sacerdotales], o por no lavarse las manos y los pies.
+
+Antes de que se erigiera el Tabernáculo, se permitían los bamot (altares locales) y el servicio lo realizaban los primogénitos. Después de que se erigió el Tabernáculo, se prohibieron los bamot y el servicio lo realizaban los sacerdotes. Los sacrificios más sagrados se comían [entonces] dentro de las cortinas, y los sacrificios menores [se comían] en cualquier lugar del campamento de los israelitas.
+
+Cuando llegaron a Gilgal, se les permitió nuevamente la construcción de bamot (altares locales).
+
+Se comían sacrificios dentro de las cortinas, y se comían sacrificios menos santos.
+
+en cualquier lugar.
+
+Cuando llegaron a Silo, las bamot estaban prohibidas. [El Tabernáculo] no tenía techo, sino que [consistía en] una base de piedras con un techo de cortinas, y ese era el “lugar de descanso” [al que se hace referencia en la Torá]. Los sacrificios más sagrados se comían dentro de las cortinas, y los sacrificios menos sagrados y el segundo diezmo [se comían] dondequiera que [Silo] pudiera verse.
+
+Cuando llegaron a Nov y a Givón, se permitieron nuevamente las bamot. Los sacrificios más sagrados se comían dentro de las cortinas, y los sacrificios menos sagrados en todas las ciudades de Israel.
+
+Cuando llegaron a Jerusalén, las bamot fueron prohibidas y nunca más se les permitió, y esa era la 'herencia'. Los sacrificios más sagrados se comían dentro de las cortinas, y los sacrificios menos sagrados y el segundo diezmo dentro de los muros [de Jerusalén].
+
+Todos los sacrificios consagrados mientras los bamot estaban prohibidos y ofrecidos fuera mientras los bamot estaban prohibidos implican la transgresión de un mandamiento positivo y uno negativo, y uno es responsable de karet por su cuenta. Si uno los consagró mientras los bamot estaban permitidos, pero los ofreció fuera cuando los bamot estaban prohibidos, implican la transgresión de un mandamiento positivo y uno negativo, pero uno no es responsable de karet por su cuenta. Si uno los consagró cuando los bamot estaban prohibidos, y los ofreció cuando los bamot estaban permitidos, implican la transgresión de un mandamiento positivo, pero no son responsables de karet por su cuenta.
+
+no implica la transgresión de un mandamiento negativo.
+
+Los sacrificios que se ofrecían en el Tabernáculo eran los siguientes: Los sacrificios públicos se ofrecían en el Tabernáculo, y los sacrificios privados se ofrecían en una bamah. Si se consagraban sacrificios privados para el Tabernáculo, debían ofrecerse en el Tabernáculo; sin embargo, si alguien los ofrecía en una bamah, no estaba obligado. ¿Cuál es la diferencia entre la bamah de un individuo y la bamah de la congregación? Imposición [de manos], sacrificando en el norte, rociando alrededor [del altar], meciendo y presentando, (Dice el rabino Judá: no había ofrendas de comida en la bamá); sacerdocio, vestimentas de sacrificio, vasos para el ministerio, una fragancia agradable, una línea de demarcación para [la aspersión de] la sangre y el lavado de manos y pies. Pero [las prohibiciones del] tiempo, el remanente y la impureza eran las mismas en ambos.
+
+
+
+
+
+
+	
+ 	</div>   
+
+<script>
+	    
+     function leerEnVozAlta() {
     // Obtener el texto del elemento con la clase "contenido-texto"
     var texto = document.querySelector('.contenido').innerText;
 
@@ -86,5 +667,6 @@
     hablarFragmento(); // Comienza a leer el primer fragmento
 }
     </script>
-</body>
+
+	</body>
 </html>
