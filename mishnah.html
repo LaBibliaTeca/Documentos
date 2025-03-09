@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mishnah Judía</title>
+</head>
+<body>
+	 	    	<button style="width: 200px; height: 50px;background-color: rgb(255, 221, 3);font-size: 16px;" onclick="leerEnVozAlta()">Presionar para Leer en Voz Alta</button>
+<div class="contenido">
+
+La Mishná o Misná1​ ( ‘estudio, repetición’) es la primera gran colección escrita de las tradiciones orales judías conocida como la Torá oral.
+  <br>También es la primera obra importante de la literatura rabínica. La Mishná fue redactada por Yehudah Hanasí a principios del siglo III d. C.,
+  Recopilando la tradición oral de los fariseos del período del Segundo Templo (536 a. C.-70 d. C.). <br>
+<b>PRACTICAS VINCULADAS AL TEMPLO Kodashim </b><br>
+  <b>SACRIFICIOS</b><br>
+  Para los que quieren tener detalles complementarios a <b>Levítico</b> 
+  separé 3 TRATADOS:<br>
+El noveno y décimo :<a href="https://labibliateca.github.io/Documentos/TamidMiddot.html">Tamid y Middot</a>:sobre Sacrificios Diarios (Animales pequeños) y Medidas de los espacios del Templo<br>
+
+El primero:<a href="https://labibliateca.github.io/Documentos/sacrificios.html">Zevahim,</a>,:Sacrificios en el templo, menciona animales grandes<br>
+ Ckickeá sobre e Link para leerlos es ese orden 
+</div>
+
+
+	
+
+      <script>
+     function leerEnVozAlta() {
+    // Obtener el texto del elemento con la clase "contenido-texto"
+    var texto = document.querySelector('.contenido').innerText;
+
+    // Dividir el texto en segmentos más pequeños
+    var partes = dividirTextoEnPartes(texto, 560); // Por ejemplo, 200 caracteres por parte
+
+    // Leer cada parte secuencialmente
+    partes.forEach((parte) => {
+        var mensaje = new SpeechSynthesisUtterance(parte);
+        mensaje.lang = 'es-ES';
+        mensaje.pitch = 1;
+        mensaje.rate = 0.8;
+        window.speechSynthesis.speak(mensaje);
+    });
+}
+
+function dividirTextoEnPartes(texto, tamano) {
+    var partes = [];
+    for (var i = 0; i < texto.length; i += tamano) {
+        partes.push(texto.slice(i, i + tamano));
+    }
+    return partes;
+}
+
+    </script>
+</body>
+</html>
