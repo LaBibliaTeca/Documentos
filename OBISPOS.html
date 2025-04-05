@@ -34,11 +34,11 @@
     <div id="contenido"></div>
 
 
-    <script>
+       <script>
         // Cargar el archivo automáticamente al cargar la página
         window.onload = async function cargarArchivo() {
             try {
-                const response = await fetch('OBISPOS.txt'); // Cambia 'archivo.txt' por la ruta de tu archivo
+                const response = await fetch('MilenioLiteral.txt'); // Cambia 'archivo.txt' por la ruta de tu archivo
                 if (!response.ok) {
                     throw new Error('Error al cargar el archivo');
                 }
@@ -54,20 +54,35 @@
         }
 
         // Función para leer en voz alta el contenido del archivo
-        function leerEnVozAlta() {
-            const texto = document.getElementById('contenido').innerText;
+       function leerEnVozAlta() {
+    const texto = document.getElementById('contenido').innerText;
 
-            // Crear una nueva instancia de SpeechSynthesisUtterance
-            const mensaje = new SpeechSynthesisUtterance(texto);
+    // Dividir el texto en fragmentos más pequeños
+    const fragmentos = texto.match(/.{1,500}/g); // Cada fragmento tendrá máximo 500 caracteres
 
-            // Configurar propiedades del mensaje
-            mensaje.lang = 'es-ES'; // Idioma y acento
-            mensaje.pitch = 1; // Tono
-            mensaje.rate = .6; // Velocidad de habla
+    // Leer cada fragmento
+    let index = 0;
 
-            // Usar la API de síntesis de voz del navegador para hablar el mensaje
+    function hablarFragmento() {
+        if (index < fragmentos.length) {
+            const mensaje = new SpeechSynthesisUtterance(fragmentos[index]);
+
+            mensaje.lang = 'es-ES';
+            mensaje.pitch = 1;
+            mensaje.rate = 0.6;
+
+            mensaje.onend = function() {
+                index++;
+                hablarFragmento(); // Leer el siguiente fragmento
+            };
+
             window.speechSynthesis.speak(mensaje);
         }
+    }
+
+    hablarFragmento(); // Comienza a leer el primer fragmento
+}
     </script>
-</body>
+
+	</body>
 </html>
