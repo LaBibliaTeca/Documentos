@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lector de Documentos Google</title>
+    <title>Lector de Texto - La Bibliateca</title>
     <style>
         body {
             font-family: 'Times New Roman', Times, serif;
@@ -12,6 +12,10 @@
             background-color: #f7f4f4;
             color: #070707;
             line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
         }
         button {
             width: 200px; 
@@ -22,68 +26,77 @@
             border-radius: 5px;
             cursor: pointer;
             margin-bottom: 20px;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #fdd835;
         }
         #contenido {
             white-space: pre-wrap;
             background-color: white;
             padding: 20px;
             border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .credito {
+            font-style: italic;
+            margin-top: 20px;
+            text-align: right;
         }
     </style>
 </head>
 <body>
-    <button onclick="leerEnVozAlta()"><b>▶ Escuchar en Voz Alta</b></button>
-    
-    <div id="contenido">Cargando documento...</div>
-    
-    <p><i>La Bibliateca - de Gustavo Uliarte</i></p>
+    <div class="container">
+        <button onclick="leerEnVozAlta()">
+            <b>▶ Escuchar en Voz Alta</b>
+        </button>
+        
+        <div id="contenido">Cargando contenido...</div>
+        
+        <p class="credito">La Bibliateca - de Gustavo Uliarte</p>
+    </div>
 
     <script>
-        // ID del documento Google (reemplázalo con tu ID real)
-        const DOC_ID = 'TU_ID_DE_DOCUMENTO_AQUI';
-        
-        // Cargar el documento al iniciar
-        document.addEventListener('DOMContentLoaded', function() {
-            cargarDocumentoGoogle();
-        });
-
-        // Función para cargar el documento de Google
-        async function cargarDocumentoGoogle() {
+        // Cargar el archivo al iniciar
+        document.addEventListener('DOMContentLoaded', async function() {
             try {
-                const url = `https://docs.google.com/document/d/${DOC_ID}/export?format=txt`;
-                const response = await fetch(url);
+                const response = await fetch('ARCHIVO.TXT');
                 
                 if (!response.ok) {
-                    throw new Error(`Error al cargar el documento: ${response.status}`);
+                    throw new Error(`Error ${response.status}: ${response.statusText}`);
                 }
                 
                 const texto = await response.text();
                 document.getElementById('contenido').textContent = texto;
                 
             } catch (error) {
-                console.error('Error:', error);
+                console.error('Error al cargar el archivo:', error);
                 document.getElementById('contenido').textContent = 
-                    'Error al cargar el documento: ' + error.message;
+                    'Error al cargar el archivo: ' + error.message;
             }
-        }
+        });
 
-        // Función para leer en voz alta
+        // Función mejorada de lectura en voz alta
         function leerEnVozAlta() {
             const texto = document.getElementById('contenido').textContent;
             
-            if (!texto.trim()) {
-                alert('No hay texto para leer o el documento no se cargó correctamente');
+            if (!texto || texto.trim() === '') {
+                alert('No hay texto para leer o el archivo no se cargó correctamente');
                 return;
             }
             
             // Detener cualquier lectura previa
             window.speechSynthesis.cancel();
             
-            const mensaje = new SpeechSynthesisUtterance(texto);
+            // Configuración de voz
+            const mensaje = new SpeechSynthesisUtterance();
+            mensaje.text = texto;
             mensaje.lang = 'es-ES';
-            mensaje.rate = 0.9;
+            mensaje.rate = 0.9; // Velocidad más natural
+            mensaje.pitch = 1;
+            mensaje.volume = 1;
             
-            // Seleccionar voz en español si está disponible
+            // Seleccionar una voz en español si está disponible
             const voces = window.speechSynthesis.getVoices();
             const vozEs = voces.find(voz => voz.lang.includes('es')) || null;
             if (vozEs) {
@@ -92,13 +105,14 @@
             
             window.speechSynthesis.speak(mensaje);
             
+            // Manejo de errores
             mensaje.onerror = function(event) {
                 console.error('Error en síntesis de voz:', event.error);
                 alert('Error al leer el texto: ' + event.error);
             };
         }
         
-        // Cargar las voces disponibles
+        // Para navegadores que necesitan cargar las voces
         window.speechSynthesis.onvoiceschanged = function() {
             console.log('Voces cargadas:', window.speechSynthesis.getVoices());
         };
