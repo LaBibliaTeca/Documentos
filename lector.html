@@ -5,14 +5,58 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lector de Documentos Google</title>
     <style>
-        /* [Mantén tus estilos CSS existentes] */
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f7f4f4;
+            color: #070707;
+            line-height: 1.6;
+        }
+        button {
+            width: 200px; 
+            height: 50px;
+            background-color: #ffeb3b;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-bottom: 20px;
+        }
+        #contenido {
+            white-space: pre-wrap;
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            min-height: 100px;
+        }
+        #status {
+            color: #d32f2f;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
     </style>
 </head>
 <body>
-    <button onclick="iniciarLectura()"><b>▶ Escuchar en Voz Alta</b></button>
-    <div id="status"></div>
+    <div id="status">Iniciando...</div>
+    <div id="loader" class="loader"></div>
     
-    <div id="contenido">Cargando documento...</div>
+    <button onclick="iniciarLectura()"><b>▶ Escuchar en Voz Alta</b></button>
+    
+    <div id="contenido"></div>
     
     <p><i>La Bibliateca - de Gustavo Uliarte</i></p>
 
@@ -20,39 +64,175 @@
         // Obtener el ID del documento de la URL
         function obtenerIdDocumento() {
             const params = new URLSearchParams(window.location.search);
-            const idFromUrl = params.get('id');
-            
-            // Si no hay ID en la URL, puedes usar un valor por defecto
-            return idFromUrl || '1RLVq-ucjvKisoTe1_bvsuXOddCaCX93yCwrOE4SxsZ0';
+            return params.get('id') || '1RLVq-ucjvKisoTe1_bvsuXOddCaCX93yCwrOE4SxsZ0';
         }
-        
+
         // Variables globales
         let vocesCargadas = false;
         const docId = obtenerIdDocumento();
         
-        // [Mantén el resto de tus funciones iguales pero usa docId en lugar de DOC_ID]
-        
-        // Modifica la función cargarDocumentoGoogle para usar docId
-        async function cargarDocumentoGoogle() {
-            try {
-                const url = `https://docs.google.com/document/d/${docId}/export?format=txt`;
-                const response = await fetch(url);
-                
-                if (!response.ok) {
-                    throw new Error(`Error al cargar el documento: ${response.status}`);
-                }
-                
-                const texto = await response.text();
-                document.getElementById('contenido').textContent = texto;
-                
-            } catch (error) {
-                console.error('Error:', error);
-                document.getElementById('contenido').textContent = 
-                    'Error al cargar el documento: ' + error.message;
-            }
+        // Mostrar/ocultar loader
+        function toggleLoader(show) {
+            document.getElementById('loader').style.display = show ? 'block' : 'none';
         }
 
-        // [Mantén el resto del código igual]
+        // Cargar el documento al iniciar
+        document.addEventListener('DOMContentLoaded', async function() {
+            updateStatus('Cargando documento...');
+            toggleLoader(true);
+            
+            try {
+                await cargarDocumentoGoogle();
+                await cargarVoces();
+                updateStatus('Documento cargado. Pulse el botón para escuchar');
+            } catch (error) {
+                console.error('Error inicial:', error);
+                updateStatus('Error: ' + error.message, true);
+                document.getElementById('contenido').textContent = 
+                    'No se pudo cargar el documento. Intente recargar la página.';
+            } finally {
+                toggleLoader(false);
+            }
+        });
+
+        // Actualizar mensaje de estado
+        function updateStatus(message, isError = false) {
+            const statusElement = document.getElementById('status');
+            statusElement.textContent = message;
+            statusElement.style.color = isError ? '#d32f2f' : '#2e7d32';
+        }
+
+        // Función mejorada para cargar el documento
+        async function cargarDocumentoGoogle() {
+            return new Promise(async (resolve, reject) => {
+                try {
+                    // Opción 1: Usar CORS proxy para evitar problemas en Android
+                    const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+                    const targetUrl = `https://docs.google.com/document/d/${docId}/export?format=txt`;
+                    
+                    // Opción 2: Intentar primero sin proxy
+                    let response;
+                    try {
+                        response = await fetch(targetUrl, {
+                            mode: 'no-cors',
+                            cache: 'no-cache'
+                        });
+                        
+                        if (!response.ok) throw new Error('Falló carga directa');
+                        
+                    } catch (directError) {
+                        console.log('Intentando con proxy CORS...');
+                        response = await fetch(proxyUrl + targetUrl);
+                    }
+
+                    const texto = await response.text();
+                    
+                    if (!texto || texto.includes('<html>')) {
+                        throw new Error('El documento no existe o no es público');
+                    }
+                    
+                    document.getElementById('contenido').textContent = texto;
+                    resolve();
+                    
+                } catch (error) {
+                    reject(new Error(`No se pudo cargar el documento: ${error.message}`));
+                }
+            });
+        }
+
+        // Cargar las voces disponibles
+        function cargarVoces() {
+            return new Promise((resolve) => {
+                const voces = window.speechSynthesis.getVoices();
+                if (voces.length > 0) {
+                    vocesCargadas = true;
+                    resolve();
+                    return;
+                }
+
+                window.speechSynthesis.onvoiceschanged = function() {
+                    vocesCargadas = true;
+                    resolve();
+                };
+
+                // Truco para Android: hacer un speak vacío
+                const mensaje = new SpeechSynthesisUtterance(' ');
+                window.speechSynthesis.speak(mensaje);
+                window.speechSynthesis.cancel();
+            });
+        }
+
+        // Función para iniciar la lectura
+        function iniciarLectura() {
+            if (!vocesCargadas) {
+                updateStatus('Espere, cargando voces...');
+                setTimeout(iniciarLectura, 500);
+                return;
+            }
+            
+            const texto = document.getElementById('contenido').textContent;
+            
+            if (!texto.trim()) {
+                updateStatus('No hay texto para leer', true);
+                return;
+            }
+            
+            leerEnVozAlta(texto);
+        }
+
+        // Función principal de lectura
+        function leerEnVozAlta(texto) {
+            window.speechSynthesis.cancel();
+            
+            const fragmentos = dividirTexto(texto, 150);
+            let indice = 0;
+            
+            function procesarFragmento() {
+                if (indice >= fragmentos.length) {
+                    updateStatus('Lectura completada');
+                    return;
+                }
+                
+                updateStatus(`Leyendo (${indice + 1}/${fragmentos.length})`);
+                
+                const mensaje = new SpeechSynthesisUtterance(fragmentos[indice]);
+                mensaje.lang = 'es-ES';
+                mensaje.rate = 0.85;
+                
+                mensaje.onend = function() {
+                    indice++;
+                    procesarFragmento();
+                };
+                
+                mensaje.onerror = function(e) {
+                    console.error('Error en fragmento:', e);
+                    indice++;
+                    procesarFragmento();
+                };
+                
+                window.speechSynthesis.speak(mensaje);
+            }
+            
+            procesarFragmento();
+        }
+        
+        // Dividir texto en fragmentos
+        function dividirTexto(texto, longitud) {
+            const oraciones = texto.split(/([.!?]+)\s+/);
+            const fragmentos = [];
+            let fragmentoActual = '';
+            
+            for (let i = 0; i < oraciones.length; i++) {
+                if (fragmentoActual.length + oraciones[i].length > longitud && fragmentoActual.length > 0) {
+                    fragmentos.push(fragmentoActual);
+                    fragmentoActual = '';
+                }
+                fragmentoActual += oraciones[i] + (i % 2 === 0 ? ' ' : '');
+            }
+            
+            if (fragmentoActual) fragmentos.push(fragmentoActual);
+            return fragmentos;
+        }
     </script>
 </body>
 </html>
