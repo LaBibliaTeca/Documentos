@@ -29,10 +29,16 @@
             padding: 20px;
             border-radius: 5px;
         }
+        #status {
+            color: #d32f2f;
+            font-weight: bold;
+            margin-top: 10px;
+        }
     </style>
 </head>
 <body>
-    <button onclick="leerEnVozAlta()"><b>▶ Escuchar en Voz Alta</b></button>
+    <button onclick="iniciarLectura()"><b>▶ Escuchar en Voz Alta</b></button>
+    <div id="status"></div>
     
     <div id="contenido">Cargando documento...</div>
     
@@ -41,10 +47,12 @@
     <script>
         // ID del documento Google (reemplázalo con tu ID real)
         const DOC_ID = '1RLVq-ucjvKisoTe1_bvsuXOddCaCX93yCwrOE4SxsZ0';
+        let vocesCargadas = false;
         
         // Cargar el documento al iniciar
         document.addEventListener('DOMContentLoaded', function() {
             cargarDocumentoGoogle();
+            cargarVoces();
         });
 
         // Función para cargar el documento de Google
@@ -67,41 +75,98 @@
             }
         }
 
-        // Función para leer en voz alta
+        // Cargar las voces disponibles
+        function cargarVoces() {
+            // Forzar la carga de voces en Android
+            const voces = window.speechSynthesis.getVoices();
+            if (voces.length === 0) {
+                window.speechSynthesis.onvoiceschanged = function() {
+                    vocesCargadas = true;
+                    document.getElementById('status').textContent = 'Voces cargadas correctamente';
+                    console.log('Voces disponibles:', window.speechSynthesis.getVoices());
+                };
+                
+                // Truco para Android: hacer un speak vacío para activar el motor
+                const mensaje = new SpeechSynthesisUtterance(' ');
+                window.speechSynthesis.speak(mensaje);
+                window.speechSynthesis.cancel();
+            } else {
+                vocesCargadas = true;
+            }
+        }
+
+        // Función mejorada para iniciar la lectura
+        function iniciarLectura() {
+            if (!vocesCargadas) {
+                document.getElementById('status').textContent = 'Cargando voces... por favor espere';
+                setTimeout(() => {
+                    leerEnVozAlta();
+                }, 1000);
+                return;
+            }
+            leerEnVozAlta();
+        }
+
+        // Función principal de lectura
         function leerEnVozAlta() {
             const texto = document.getElementById('contenido').textContent;
             
             if (!texto.trim()) {
-                alert('No hay texto para leer o el documento no se cargó correctamente');
+                document.getElementById('status').textContent = 'No hay texto para leer';
                 return;
             }
             
             // Detener cualquier lectura previa
             window.speechSynthesis.cancel();
             
-            const mensaje = new SpeechSynthesisUtterance(texto);
-            mensaje.lang = 'es-ES';
-            mensaje.rate = 0.9;
+            // Dividir el texto en fragmentos para Android
+            const fragmentos = dividirTexto(texto, 200);
+            let indiceFragmento = 0;
             
-            // Seleccionar voz en español si está disponible
-            const voces = window.speechSynthesis.getVoices();
-            const vozEs = voces.find(voz => voz.lang.includes('es')) || null;
-            if (vozEs) {
-                mensaje.voice = vozEs;
+            function leerFragmento() {
+                if (indiceFragmento >= fragmentos.length) {
+                    document.getElementById('status').textContent = 'Lectura completada';
+                    return;
+                }
+                
+                const mensaje = new SpeechSynthesisUtterance(fragmentos[indiceFragmento]);
+                mensaje.lang = 'es-ES';
+                mensaje.rate = 0.9;
+                
+                // Seleccionar voz en español
+                const voces = window.speechSynthesis.getVoices();
+                const vozEs = voces.find(voz => voz.lang.includes('es')) || null;
+                if (vozEs) {
+                    mensaje.voice = vozEs;
+                }
+                
+                mensaje.onend = function() {
+                    indiceFragmento++;
+                    leerFragmento();
+                };
+                
+                mensaje.onerror = function(event) {
+                    console.error('Error en fragmento', indiceFragmento, ':', event.error);
+                    document.getElementById('status').textContent = `Error en fragmento ${indiceFragmento + 1}/${fragmentos.length}`;
+                    indiceFragmento++;
+                    leerFragmento(); // Continuar con el siguiente fragmento
+                };
+                
+                document.getElementById('status').textContent = `Leyendo fragmento ${indiceFragmento + 1}/${fragmentos.length}`;
+                window.speechSynthesis.speak(mensaje);
             }
             
-            window.speechSynthesis.speak(mensaje);
-            
-            mensaje.onerror = function(event) {
-                console.error('Error en síntesis de voz:', event.error);
-                alert('Error al leer el texto: ' + event.error);
-            };
+            leerFragmento();
         }
         
-        // Cargar las voces disponibles
-        window.speechSynthesis.onvoiceschanged = function() {
-            console.log('Voces cargadas:', window.speechSynthesis.getVoices());
-        };
+        // Función para dividir el texto en fragmentos
+        function dividirTexto(texto, longitudFragmento) {
+            const fragmentos = [];
+            for (let i = 0; i < texto.length; i += longitudFragmento) {
+                fragmentos.push(texto.substring(i, i + longitudFragmento));
+            }
+            return fragmentos;
+        }
     </script>
 </body>
 </html>
