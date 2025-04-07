@@ -57,4 +57,165 @@
             
             if (!id || id.length < 30) {
                 mostrarError('ID de documento no válido');
-                throw new Error
+                throw new Error('ID inválido');
+            }
+            
+            return id;
+        }
+
+        // 4. Cargar documento usando método alternativo
+        async function cargarDocumento() {
+            updateStatus('Cargando documento...');
+            
+            try {
+                // Método 1: Usar iframe temporal
+                const texto = await cargarConIframe();
+                document.getElementById('contenido').textContent = texto;
+                return;
+            } catch (error) {
+                console.log('Método iframe falló:', error.message);
+            }
+            
+            try {
+                // Método 2: Usar Google Apps Script como proxy
+                const texto = await cargarConGAS();
+                document.getElementById('contenido').textContent = texto;
+                return;
+            } catch (error) {
+                console.log('Método GAS falló:', error.message);
+            }
+            
+            throw new Error('No se pudo cargar el documento. Pruebe con un documento público.');
+        }
+
+        // 5. Método alternativo con iframe
+        function cargarConIframe() {
+            return new Promise((resolve, reject) => {
+                const iframe = document.createElement('iframe');
+                iframe.style.display = 'none';
+                iframe.src = `https://docs.google.com/document/d/${docId}/export?format=txt`;
+                
+                iframe.onload = () => {
+                    try {
+                        const doc = iframe.contentDocument || iframe.contentWindow.document;
+                        const texto = doc.body.innerText;
+                        if (texto) {
+                            resolve(texto);
+                        } else {
+                            reject(new Error('Documento vacío'));
+                        }
+                    } catch (e) {
+                        reject(e);
+                    } finally {
+                        document.body.removeChild(iframe);
+                    }
+                };
+                
+                iframe.onerror = () => reject(new Error('Error al cargar iframe'));
+                document.body.appendChild(iframe);
+            });
+        }
+
+        // 6. Método alternativo con Google Apps Script
+        async function cargarConGAS() {
+            const gasUrl = `https://script.google.com/macros/s/AKfycbzYqNJFfDZk8L_5W24X8J7n5J7Y7ZQ9XqjKjKjKjKjKjKjKjKjKjKj/exec?id=${docId}`;
+            const response = await fetch(gasUrl);
+            
+            if (!response.ok) {
+                throw new Error('Error en proxy GAS');
+            }
+            
+            return await response.text();
+        }
+
+        // 7. Cargar voces de síntesis
+        function cargarVoces() {
+            return new Promise((resolve) => {
+                const cargar = () => {
+                    vocesDisponibles = window.speechSynthesis.getVoices();
+                    if (vocesDisponibles.length > 0) {
+                        resolve();
+                    } else {
+                        window.speechSynthesis.onvoiceschanged = cargar;
+                        // Truco para Android
+                        const msg = new SpeechSynthesisUtterance(' ');
+                        window.speechSynthesis.speak(msg);
+                        window.speechSynthesis.cancel();
+                    }
+                };
+                cargar();
+            });
+        }
+
+        // 8. Función para leer el texto
+        function iniciarLectura() {
+            const texto = document.getElementById('contenido').textContent;
+            
+            if (!texto.trim()) {
+                mostrarError('No hay texto para leer');
+                return;
+            }
+            
+            leerTextoEnFragmentos(texto);
+        }
+
+        // 9. Lectura por fragmentos
+        function leerTextoEnFragmentos(texto) {
+            window.speechSynthesis.cancel();
+            
+            const fragmentos = dividirTexto(texto, 100);
+            let indice = 0;
+            
+            function leerFragmento() {
+                if (indice >= fragmentos.length) {
+                    updateStatus('Lectura completada');
+                    return;
+                }
+                
+                updateStatus(`Leyendo (${indice + 1}/${fragmentos.length})`);
+                
+                const utterance = new SpeechSynthesisUtterance(fragmentos[indice]);
+                utterance.lang = 'es-ES';
+                utterance.rate = 0.85;
+                
+                // Seleccionar mejor voz disponible
+                const vozEs = vocesDisponibles.find(v => v.lang.includes('es')) || 
+                              vocesDisponibles[0];
+                if (vozEs) utterance.voice = vozEs;
+                
+                utterance.onend = () => {
+                    indice++;
+                    setTimeout(leerFragmento, 200);
+                };
+                
+                utterance.onerror = (e) => {
+                    console.error('Error:', e);
+                    indice++;
+                    leerFragmento();
+                };
+                
+                window.speechSynthesis.speak(utterance);
+            }
+            
+            leerFragmento();
+        }
+
+        // 10. Funciones auxiliares
+        function dividirTexto(texto, maxChars) {
+            const regex = /[\s\S]{1," + maxChars + "}(?=\s|$)/g;
+            return texto.match(regex) || [texto];
+        }
+        
+        function updateStatus(mensaje) {
+            document.getElementById('status').textContent = mensaje;
+        }
+        
+        function mostrarError(mensaje) {
+            const errorBox = document.getElementById('errorBox');
+            errorBox.textContent = mensaje;
+            errorBox.classList.remove('hidden');
+            updateStatus('Error');
+        }
+    </script>
+</body>
+</html>
