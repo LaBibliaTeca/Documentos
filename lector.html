@@ -39,7 +39,7 @@
     // Leer en voz alta en fragmentos (mejor para Android)
     function leerEnVozAlta() {
       const texto = text;
-      const fragmentos = texto.match(/.{1,500}(\s|$)/g); // divide en partes de hasta 500 caracteres sin cortar palabras
+      const fragmentos = texto.match(/.{1,200}(\s|$)/g); // divide en partes de hasta 500 caracteres sin cortar palabras
       let index = 0;
 
       function hablarFragmento() {
@@ -47,7 +47,7 @@
           const mensaje = new SpeechSynthesisUtterance(fragmentos[index]);
           mensaje.lang = 'es-ES';
           mensaje.pitch = 1;
-          mensaje.rate = 0.85;
+          mensaje.rate = 0.7;
 
           mensaje.onend = function() {
             index++;
