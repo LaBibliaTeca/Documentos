@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lector de Documentos Google</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f7f4f4;
+            color: #070707;
+            line-height: 1.6;
+        }
+        button {
+            width: 200px; 
+            height: 50px;
+            background-color: #ffeb3b;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-bottom: 20px;
+        }
+        #contenido {
+            white-space: pre-wrap;
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <button onclick="leerEnVozAlta()"><b>▶ Escuchar en Voz Alta</b></button>
+    
+    <div id="contenido">Cargando documento...</div>
+    
+    <p><i>La Bibliateca - de Gustavo Uliarte</i></p>
+
+    <script>
+        // ID del documento Google (reemplázalo con tu ID real)
+        const DOC_ID = '1RLVq-ucjvKisoTe1_bvsuXOddCaCX93yCwrOE4SxsZ0';
+        
+        // Cargar el documento al iniciar
+        document.addEventListener('DOMContentLoaded', function() {
+            cargarDocumentoGoogle();
+        });
+
+        // Función para cargar el documento de Google
+        async function cargarDocumentoGoogle() {
+            try {
+                const url = `https://docs.google.com/document/d/${DOC_ID}/export?format=txt`;
+                const response = await fetch(url);
+                
+                if (!response.ok) {
+                    throw new Error(`Error al cargar el documento: ${response.status}`);
+                }
+                
+                const texto = await response.text();
+                document.getElementById('contenido').textContent = texto;
+                
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('contenido').textContent = 
+                    'Error al cargar el documento: ' + error.message;
+            }
+        }
+
+        // Función para leer en voz alta
+        function leerEnVozAlta() {
+            const texto = document.getElementById('contenido').textContent;
+            
+            if (!texto.trim()) {
+                alert('No hay texto para leer o el documento no se cargó correctamente');
+                return;
+            }
+            
+            // Detener cualquier lectura previa
+            window.speechSynthesis.cancel();
+            
+            const mensaje = new SpeechSynthesisUtterance(texto);
+            mensaje.lang = 'es-ES';
+            mensaje.rate = 0.9;
+            
+            // Seleccionar voz en español si está disponible
+            const voces = window.speechSynthesis.getVoices();
+            const vozEs = voces.find(voz => voz.lang.includes('es')) || null;
+            if (vozEs) {
+                mensaje.voice = vozEs;
+            }
+            
+            window.speechSynthesis.speak(mensaje);
+            
+            mensaje.onerror = function(event) {
+                console.error('Error en síntesis de voz:', event.error);
+                alert('Error al leer el texto: ' + event.error);
+            };
+        }
+        
+        // Cargar las voces disponibles
+        window.speechSynthesis.onvoiceschanged = function() {
+            console.log('Voces cargadas:', window.speechSynthesis.getVoices());
+        };
+    </script>
+</body>
+</html>
