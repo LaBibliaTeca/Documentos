@@ -107,7 +107,8 @@
             return new Promise(async (resolve, reject) => {
                 try {
                     // Opción 1: Usar CORS proxy para evitar problemas en Android
-                    const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+                    const proxyUrl = 'https://api.codetabs.com/v1/proxy/?quest=';
+                    //const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
                     const targetUrl = `https://docs.google.com/document/d/${docId}/export?format=txt`;
                     
                     // Opción 2: Intentar primero sin proxy
