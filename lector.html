@@ -7,7 +7,7 @@
 <body>
   <h2>Texto cargado:</h2>
   <div id="contenido" style="display:none; white-space: pre-wrap;"></div>
-  <button onclick="leerEnVozAlta()">Leer en voz alta</button>
+ <button style="width: 200px; height: 50px;background-color: yellow;font-size: 16px;" onclick="leerEnVozAlta()"><b>Tocar para Escuchar en Voz Alta</b></button>
 
   <script>
     let text = ""; // global
@@ -47,7 +47,7 @@
           const mensaje = new SpeechSynthesisUtterance(fragmentos[index]);
           mensaje.lang = 'es-ES';
           mensaje.pitch = 1;
-          mensaje.rate = 0.7;
+          mensaje.rate = 0.5;
 
           mensaje.onend = function() {
             index++;
