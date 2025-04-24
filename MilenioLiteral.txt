@@ -1,3 +1,5 @@
+"ARTICULO EN REVISION DE LAS FUENTES"
+
 La idea de el milenio de Apocalipsis por definición tendría un valor literal, sin embargo no fue tratado así por la mayoría de los teólogos entre el siglo 2 y 4.
 En el segundo siglo, uno de los principales exponentes de una interpretación absolutamente literal de los mil años en Apocalipsis fue el teólogo cristiano primitivo, Melitón de Sardes (c. 65-170 d.C.).
 
@@ -14,11 +16,7 @@ Obras de Melitón
 3. "Tratado sobre la resurrección" (c. 160 d.C.).
 
 Influencia y críticas
-Melitón influyó en la teología cristiana primitiva, pero su interpretación literal fue criticada por otros teólogos, como:
-
-1. Ireneo de Lión (c. 130-202 d.C.).
-2. Justino Mártir (c. 100-165 d.C.).
-3. Hipólito de Roma (c. 170-235 d.C.).
+Melitón influyó en la teología cristiana primitiva.
 
 
 La interpretación literal de Melitón contribuyó a la discusión sobre la naturaleza del milenio y la venida de Cristo, influyendo en la teología cristiana posterior. Sin embargo, su enfoque literal fue superado por interpretaciones más simbólicas y espirituales.
@@ -60,10 +58,6 @@ Influencia y críticas
 2. La teología ortodoxa se desarrolló en respuesta a estas ideas.
 3. La discusión sobre el milenio continuó en la teología cristiana posterior.
 
-Fuentes primarias
-1. Eusebio de Cesarea, "Historia Ecclesiástica".
-2. Hipólito de Roma, "Refutación de las herejías".
-3. Ireneo de Lión, "Adversus Haereses".
-4. Justino Mártir, "Dialogo con Trifón" y "Primera Apología".
+
 
 Busca los archivos en labiblioteca.github.io/main/ : "Libroteca"
