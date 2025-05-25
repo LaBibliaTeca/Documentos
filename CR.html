@@ -27,7 +27,7 @@
 <body>
        
 
-    	<button style="width: 200px; height: 50px;background-color: yellow;font-size: 16px;" onclick="leerEnVozAlta()">Presionar para Escuchar en Voz Alta</button>
+    	
 <div class="contenido">
  <img src="rc1569.png" class="imagen1"/>
     <h3><i>Traducción del <br>Latín al<br> Español <br>del prefacio de <br>la Biblia del Oso.</i></h3>
@@ -674,33 +674,7 @@ son solo consultivos y tenían por misión primaria asesorar al papa en el tema 
 
 </h5>
 </div>
-<script>
-     function leerEnVozAlta() {
-    // Obtener el texto del elemento con la clase "contenido-texto"
-    var texto = document.querySelector('.contenido').innerText;
 
-    // Dividir el texto en segmentos más pequeños
-    var partes = dividirTextoEnPartes(texto, 510); // Por ejemplo, 200 caracteres por parte
-
-    // Leer cada parte secuencialmente
-    partes.forEach((parte) => {
-        var mensaje = new SpeechSynthesisUtterance(parte);
-        mensaje.lang = 'es-ES';
-        mensaje.pitch = 1;
-        mensaje.rate = 1;
-        window.speechSynthesis.speak(mensaje);
-    });
-}
-
-function dividirTextoEnPartes(texto, tamano) {
-    var partes = [];
-    for (var i = 0; i < texto.length; i += tamano) {
-        partes.push(texto.slice(i, i + tamano));
-    }
-    return partes;
-}
-
-    </script>
 
 
 
