@@ -66,7 +66,7 @@ El tzelem צֶלֶם (imagen en griego : χαρακτήρ (kharaktēr) Heb 1:3) 
 La kabod (gloria) no es una parte de Dios, sino su impacto perceptible. El Logos es esa gloria 'hecha' palabra.   
 
 ## El Texto permite distinguir tres actores o  tres sujetos que ejecutan acciones independientemente. 
-Eso es lo que nosotros decimos en nuestra jerga : Personas. En latín y griego koiné significa "apariencia" , "representación".  
+Eso es lo que nosotros decimos en nuestra jerga : Personas como si fueran individuos pero en latín y griego koiné significa "apariencia" , "representación".  
 Ahora bien ,distinguimos en  1Co 12:4-6: “.....  hay diversidad de dones, pero el **Espíritu** es el mismo. Y hay diversidad de ministerios, pero el **Señor** es el mismo. Y hay diversidad de operaciones, pero **Dios**, que hace todas las cosas en todos, es el mismo”.   
 
 Pero tenemos que reconocer que al introducir la palabra PERSONA estamos haciendo uso de un término que en latín tiene connotación de Rol o Representación y que Tertuliano que incorpora el término en Adversus Práxeas NO la redefine  y  **es una palabra extrabíblica** , puedo usarla en español como una actor pero el sentido latino es otro.      
