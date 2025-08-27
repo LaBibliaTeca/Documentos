@@ -45,10 +45,10 @@ Substancia.
 
 ## Paso 2 : Recuperar LEXICO BIBLICO 
 Hebreo y Griego  
-Kabod δοξα   Doxa      Gloria  Manifestación
-Ruaj πνευμα Pneuma    Espíritu Presencia
-Tzelem χαρακτήρ Karacter Imagen,   Lo visible          
-dabar (דָּבָר). y Λόγος Logos    Palabra ,Expresión  
+Kabod δοξα   Doxa      Gloria  Manifestación.  
+Ruaj πνευμα Pneuma    Espíritu Presencia.  
+Tzelem χαρακτήρ Karacter Imagen,   Lo visible .           
+dabar (דָּבָר). y Λόγος Logos    Palabra ,Expresión .   
 Salmo 33:6: "Por la palabra (dabar) del Señor fueron hechos los cielos, y todo el ejército de ellos por el aliento de su boca."
 Jn 1:3: “Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho.”
 𝐄𝐬𝐭𝐞 𝐦𝐨𝐝𝐞𝐥𝐨 𝐧𝐨 𝐞𝐬 𝐟𝐫𝐚𝐠𝐦𝐞𝐧𝐭𝐚𝐫𝐢𝐨 𝐧𝐨 𝐝𝐢𝐯𝐢𝐝𝐞, 𝐬𝐨𝐥𝐨 𝐝𝐞𝐜𝐥𝐚𝐫𝐚.  
