@@ -3,7 +3,7 @@
 
 *A pesar que las Iglesias y los comentarios Bíblicos y Exegéticos pretenden explicar como que el Verbo era Dios, existe una especie de trastienda donde la explicaciones académicas son otras.* 
 
-**Esta es la afirmación que exponen: “La frase θεός  εστινο λόγος no busca resolver la ontología (identidad) divina , sino introducir al lector en una comprensión relacional y funcional del Logos. La ausencia del artículo en θεός sugiere que Juan no pretende una identificación absoluta, sino una afirmación de naturaleza.”**
+**Esta es la afirmación que exponen: “La frase θεός  εστινο λόγος no busca resolver la ontología, (identidad), divina , sino introducir al lector en una comprensión relacional y funcional del Logos. La ausencia del artículo en θεός sugiere que Juan no pretende una identificación absoluta, sino una afirmación de naturaleza.”**
 ## Si la idea es acaso presentar que El logos no es Dios en el sentido Ontológico, ¿por qué no lo decimos en los púlpitos abiertamente? . 
 
 ## Posturas históricas.
@@ -11,7 +11,7 @@ La Vulgata traduce et Deus erat Verbum, manteniendo la ambigüedad pero incliná
 Orígenes ve en λόγος una existencia relacional, no una identidad ontológica(referida del ser) cerrada.
 Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.
 Testigos de Jehová y otros grupos no trinitarios traducen “un dios”, basándose en la ausencia del artículo ,TOTALMENTE INJUSTIFICADO.
-Los teólogos y traductores (no me refiero a los maestros) no  afirman abiertamente que “El logos era Dios” y aún las notas al pie de muchas biblias sugiere “el Verbo era divino”.
+Los  traductores no  afirman abiertamente que “El logos era Dios” y aún las notas al pie de muchas biblias sugiere “el Verbo era divino”.
 
  ## A ver,... si digo (en koiné): 
 **Ο Σίλας ἦν Σιλουανός [el] Silas era Silvano**, establezco una identidad .
