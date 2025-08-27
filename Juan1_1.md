@@ -14,7 +14,7 @@ Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino
 Los  traductores no  afirman abiertamente que “El logos era Dios” sino “**el Verbo era divino**”.
 
  ## A ver,... si digo (en koiné): 
-**Ο Σίλας ἦν Σιλουανός [el] Silas era Silvano**,   establezco una identidad .
+**Ο Σίλας ἦν Σιλουανός [el] Silas era Silvano**  ,   establezco una identidad .
 El artículo el no se repite en el predicado , y sigue siendo un nombre propio.
 Aunque el supuesto teólogo, en el caso de θεός Dios se rehusa a admitir una identidad.
 Si dentro de mi modelo expreso :
