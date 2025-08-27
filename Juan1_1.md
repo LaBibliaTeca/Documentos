@@ -22,7 +22,8 @@ Si dentro de mi modelo expreso :
 Pero con mi viejo concepto: ¿Cómo podría ser Logos = Dios y “El Padre= Dios”? [Esto es el DILEMA ONTOLÖGICO] ¿Qué hacer?.
 **¿que ocurre cuando los modelos no cierran?.**  
 La respuesta, entonces es, “**no puede partir de definiciones filosóficas, **sino de declaraciones bíblicas (teológicas) puras**”.  
-Bajemos un cambio :PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS
+## Bajemos un cambio :
+**PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS**
 Volvamos al texto bíblico:
 Hebreos 1:3 dice que el Hijo es “el resplandor de su gloria y la imagen misma de su sustancia” (χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ). Esto implica:
 El Logos no es una parte de Dios, sino su expresión plena.
