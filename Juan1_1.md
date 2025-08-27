@@ -34,7 +34,8 @@ Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia.
 ## Aquí viene la propuesta:
 Vacía tu vocabulario de expresiones preexistentes sobre: existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
 ## Paso 1 : Vaciar el LÉXICO HEREDADO.  
-**Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:**
+**Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:** 
+
 *Persona , en el sentido latino de representación , o hypostasis en el sentido griego de sustancia , prosopon de apariencia).*  
 Identidad.  
 Ontología .  
