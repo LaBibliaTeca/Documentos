@@ -65,18 +65,19 @@ El tzelem צֶלֶם (imagen en griego : χαρακτήρ (kharaktēr) Heb 1:3) 
 La kabod no es una parte de Dios, sino su impacto perceptible. El Logos es esa gloria hecha palabra.  
 **El Texto permite distinguir TRES ACTORES O SEA GRAMATICALMENTE TRES SUJETOS QUE EJECUTAN ACCIÓN.**  
 Ahora bien ,distinguimos en  1Co 12:4-6: “.....  hay diversidad de dones, pero el Espíritu es el mismo. Y hay diversidad de ministerios, pero el Señor es el mismo. Y hay diversidad de operaciones, pero Dios, que hace todas las cosas en todos, es el mismo”.  
-Pero tenemos que reconocer que al introducir la palabra PERSONA estamos haciendo uso de un término que en latín tiene connotación de Rol o Representación y que Tertuliano en Adversus Práxeas NO la redefine  y  𝐞𝐬 𝐮𝐧𝐚 𝐩𝐚𝐥𝐚𝐛𝐫𝐚 𝐞𝐱𝐭𝐫𝐚𝐛𝐢́𝐛𝐥𝐢𝐜𝐚, puedo usarla en español como una actor pero el sentilenguajedo latino es otro.
-𝐏𝐚𝐫𝐚 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐥𝐚 𝐥𝐢́𝐧𝐞𝐚 𝐝𝐞 𝐧𝐮𝐞𝐬𝐭𝐫𝐨 𝐌𝐎𝐃𝐄𝐋𝐎, 𝐝𝐞𝐛𝐞𝐦𝐨𝐬 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐟𝐮𝐞𝐫𝐚 𝐏𝐑𝐄𝐂𝐎𝐍𝐂𝐄𝐏𝐓𝐎𝐒 𝐈𝐍𝐇𝐈𝐁𝐈𝐃𝐎𝐑𝐄𝐒.
-Preconcepto : “Persona” en Latín (Tertuliano) /”Hipostasis” en griego(Concilio de Nicea ). 
-Problema:  Introduce división ontológica no presente en el texto .
-Preconcepto : Esencia/subtancia οὐσία (ousía). Concilio  de Nicea.
-Problema: Impone Categorías Aristotélicas
-Ontología Trinitaria, este concepto NO es el mismo que lo que plantea Justino 1ra Apología cap 6:”  a Él, y al Hijo (que salió de Él y nos enseñó estas cosas, y al Espíritu profético, los adoramos y los conocemos en razón y verdad”, sino que incluye el concepto de “persona como representación” que incorpora por ejemplo Tertuliano (210dc) que no significa lo mismo que en español (ver abajo).
-Relacionalidad filosófica : Este concepto se sumó al anterior para justificar “la unidad” en lugar de aceptar “la manifestación como una unidad”, (cita de la definición que se menciona :”la expresión el verbo era dios es relacional, no ontológica, es decir el verbo era divino”).
+Pero tenemos que reconocer que al introducir la palabra PERSONA estamos haciendo uso de un término que en latín tiene connotación de Rol o Representación y que Tertuliano en Adversus Práxeas NO la redefine  y  𝐞𝐬 𝐮𝐧𝐚 𝐩𝐚𝐥𝐚𝐛𝐫𝐚 𝐞𝐱𝐭𝐫𝐚𝐛𝐢́𝐛𝐥𝐢𝐜𝐚, puedo usarla en español como una actor pero el sentilenguajedo latino es otro.    
+𝐏𝐚𝐫𝐚 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐥𝐚 𝐥𝐢́𝐧𝐞𝐚 𝐝𝐞 𝐧𝐮𝐞𝐬𝐭𝐫𝐨 𝐌𝐎𝐃𝐄𝐋𝐎, 𝐝𝐞𝐛𝐞𝐦𝐨𝐬 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐟𝐮𝐞𝐫𝐚 **CONCEPTOS EXTRAÑOS AL TEXTO**.
+Preconcepto : “Persona” en Latín (Tertuliano) /”Hipostasis” en griego(Concilio de Nicea ).   
+Problema:  Introduce división ontológica no presente en el texto .  
+Preconcepto : Esencia/subtancia οὐσία (ousía). Concilio  de Nicea.  
+Problema: Impone Categorías Aristotélicas.  
+**Ontología Trinitaria**, este concepto NO es el mismo que lo que plantea Justino 1ra Apología cap 6: **”a Él, y al Hijo (que salió de Él y nos enseñó estas cosas, y al Espíritu profético, los adoramos y los conocemos en razón y verdad”**, sino que incluye el **concepto de “persona como representación”** que incorpora por ejemplo Tertuliano (210dc) que no significa lo mismo que en español (ver abajo).
+**Relacionalidad filosófica :** Este concepto se sumó al anterior para justificar “la unidad” en lugar de aceptar “la manifestación como una unidad”, (cita de la definición que se menciona :”la expresión el verbo era dios es relacional, no ontológica, es decir el verbo era divino”).
+
 Bibliografia:
 Textos griegos y hebreos bíblicos.
 Tertuliano contra Práxeas.
 Apología  de Justino.
 Carta de Eusebio de Cesarea a su Diócesis de Cesarea.
 IMPORTANTE:
-La premisa fundamental: la comprensión del mensaje bíblico debe surgir exclusivamente del texto, sin la interferencia de conceptos externos. Para ello, se propone una metodología de lectura que prescinde de todo marco filosófico, doctrinal o psicológico ajeno al léxico bíblico original hebreo y griego.
+## La premisa fundamental: la comprensión del mensaje bíblico debe surgir exclusivamente del texto, sin la interferencia de conceptos externos. Para ello, se propone una metodología de lectura que prescinde de todo marco filosófico, doctrinal o psicológico ajeno al léxico bíblico original hebreo y griego.
