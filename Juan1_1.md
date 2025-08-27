@@ -53,18 +53,18 @@ Hebreo y Griego : PALABRA
 dabar (דָּבָר). y Λόγος Logos: 
 Salmo 33:6: "Por la palabra (dabar) del Señor fueron hechos los cielos, y todo el ejército de ellos por el aliento de su boca."
 Jn 1:3: “Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho.”
-𝐄𝐬𝐭𝐞 𝐦𝐨𝐝𝐞𝐥𝐨 𝐧𝐨 𝐞𝐬 𝐟𝐫𝐚𝐠𝐦𝐞𝐧𝐭𝐚𝐫𝐢𝐨 𝐧𝐨 𝐝𝐢𝐯𝐢𝐝𝐞, 𝐬𝐨𝐥𝐨 𝐝𝐞𝐜𝐥𝐚𝐫𝐚.
-🔹 Afirmación 1: Dios no se define, se manifiesta
-En el texto bíblico, Dios no se presenta como una “persona” en sentido filosófico latino , sino como una presencia (kabod) y su espíritu  actúa (ruaj).
-🔹 Afirmación 2: El Logos no es otro (Dios), sino expresión de Dios
-El Logos es la expresión plena de Dios.
- Como χαρακτήρ imagen  (kharaktēr) (Heb 1:3), es el sello de lo que Dios es, sin ser otro.
-🔹 Afirmación 3: La imagen no divide, revela
-El tzelem צֶלֶם (imagen en griego : χαρακτήρ (kharaktēr) Heb 1:3) no separa a Dios de su manifestación, sino que permite que lo invisible se vuelva visible sin perder unidad.
-🔹 Afirmación 4: La gloria no fragmenta
-La kabod no es una parte de Dios, sino su impacto perceptible. El Logos es esa gloria hecha palabra.
-El Texto permite distinguir TRES ACTORES O SEA GRAMATICALMENTE TRES SUJETOS QUE EJECUTAN ACCIÓN.
-Ahora bien ,distinguimos en  1Co 12:4-6: “.....  hay diversidad de dones, pero el Espíritu es el mismo. Y hay diversidad de ministerios, pero el Señor es el mismo. Y hay diversidad de operaciones, pero Dios, que hace todas las cosas en todos, es el mismo.”
+𝐄𝐬𝐭𝐞 𝐦𝐨𝐝𝐞𝐥𝐨 𝐧𝐨 𝐞𝐬 𝐟𝐫𝐚𝐠𝐦𝐞𝐧𝐭𝐚𝐫𝐢𝐨 𝐧𝐨 𝐝𝐢𝐯𝐢𝐝𝐞, 𝐬𝐨𝐥𝐨 𝐝𝐞𝐜𝐥𝐚𝐫𝐚.  
+🔹 Afirmación 1: Dios no se define, se manifiesta.  
+En el texto bíblico, Dios no se presenta como una “persona” en sentido filosófico latino , sino como una presencia (kabod) y su espíritu  actúa (ruaj).  
+🔹 Afirmación 2: El Logos no es otro (Dios), sino expresión de Dios.  
+El Logos es la expresión plena de Dios.  
+ Como χαρακτήρ imagen  (kharaktēr) (Heb 1:3), es el sello de lo que Dios es, sin ser otro.  
+🔹 Afirmación 3: La imagen no divide, revela.  
+El tzelem צֶלֶם (imagen en griego : χαρακτήρ (kharaktēr) Heb 1:3) no separa a Dios de su manifestación, sino que permite que lo invisible se vuelva visible sin perder unidad.  
+🔹 Afirmación 4: La gloria no fragmenta.  
+La kabod no es una parte de Dios, sino su impacto perceptible. El Logos es esa gloria hecha palabra.  
+**El Texto permite distinguir TRES ACTORES O SEA GRAMATICALMENTE TRES SUJETOS QUE EJECUTAN ACCIÓN.**  
+Ahora bien ,distinguimos en  1Co 12:4-6: “.....  hay diversidad de dones, pero el Espíritu es el mismo. Y hay diversidad de ministerios, pero el Señor es el mismo. Y hay diversidad de operaciones, pero Dios, que hace todas las cosas en todos, es el mismo”.  
 Pero tenemos que reconocer que al introducir la palabra PERSONA estamos haciendo uso de un término que en latín tiene connotación de Rol o Representación y que Tertuliano en Adversus Práxeas NO la redefine  y  𝐞𝐬 𝐮𝐧𝐚 𝐩𝐚𝐥𝐚𝐛𝐫𝐚 𝐞𝐱𝐭𝐫𝐚𝐛𝐢́𝐛𝐥𝐢𝐜𝐚, puedo usarla en español como una actor pero el sentilenguajedo latino es otro.
 𝐏𝐚𝐫𝐚 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐥𝐚 𝐥𝐢́𝐧𝐞𝐚 𝐝𝐞 𝐧𝐮𝐞𝐬𝐭𝐫𝐨 𝐌𝐎𝐃𝐄𝐋𝐎, 𝐝𝐞𝐛𝐞𝐦𝐨𝐬 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐟𝐮𝐞𝐫𝐚 𝐏𝐑𝐄𝐂𝐎𝐍𝐂𝐄𝐏𝐓𝐎𝐒 𝐈𝐍𝐇𝐈𝐁𝐈𝐃𝐎𝐑𝐄𝐒.
 Preconcepto : “Persona” en Latín (Tertuliano) /”Hipostasis” en griego(Concilio de Nicea ). 
