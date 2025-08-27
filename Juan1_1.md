@@ -19,8 +19,8 @@ El artículo el no se repite en el predicado , y sigue siendo un nombre propio.
 Aunque el supuesto teólogo, en el caso de θεός Dios se rehusa a admitir una identidad.
 Si dentro de mi modelo expreso :
 Ο Λόγος εστιν Θεός. El Verbo era Dios , ambos son nombres propios entonces establezco una identidad .
-Pero con mi viejo concepto: ¿Cómo podría ser Logos = Dios y “El Padre= Dios”? [Esto es el DILEMA ONTOLÖGICO] ¿Qué hacer?
-**¿que ocure cuando los modelos no cierran?.**
+Pero con mi viejo concepto: ¿Cómo podría ser Logos = Dios y “El Padre= Dios”? [Esto es el DILEMA ONTOLÖGICO] ¿Qué hacer?.
+**¿que ocurre cuando los modelos no cierran?.**
 La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
 Bajemos un cambio :PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS
 Volvamos al texto bíblico:
