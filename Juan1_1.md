@@ -35,7 +35,7 @@ En el contexto hebreo, kabod (gloria) habla de Dios sin definir su esencia (ου
 Sin entrar en detalles hemos definido la trilogía sin necesidad de divisiones .
 Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia.he
 ## Aquí viene la propuesta:
-Vacía tu vocabulario de expresiones preexistentes sobre: existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
+Vacía tu vocabulario de expresiones extrabíblicas como : existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
 ## Paso 1 : Vaciar el LÉXICO HEREDADO.  
 **Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:** 
 
