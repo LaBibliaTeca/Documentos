@@ -14,12 +14,12 @@ Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino
 Los  traductores no  afirman abiertamente que “El logos era Dios” sino “**el Verbo era divino**”.
 
  ## A ver,... si digo (en koiné): 
-**Ο Σίλας ἦν Σιλουανός [el] Silas era Silvano**  ,   establezco una identidad .
+**Ο Σίλας ἦν Σιλουανός [el] Silas era Silvano**  ,   establezco una identidad .  
 El artículo EL no se repite en el predicado , y sigue siendo un nombre propio.
-Aunque el supuesto teólogo, en el caso de θεός Dios se rehusa a admitir una identidad.
+Aunque el supuesto teólogo, en el caso de θεός Dios se rehusa a admitir una identidad.  
 Si dentro de mi modelo expreso :
-**Ο Λόγος εστιν Θεός**. El Verbo era Dios , ambos son nombres propios entonces establezco una identidad .
-Pero con mi viejo concepto: ¿Cómo podría ser Logos = Dios y “El Padre= Dios”? [Esto es el DILEMA ONTOLÖGICO] ¿Qué hacer?.
+**Ο Λόγος εστιν Θεός**. El Verbo era Dios , ambos son nombres propios entonces establezco una identidad .  
+Pero con mi viejo concepto: ¿Cómo podría ser Logos = Dios y “El Padre= Dios”? [Esto es el DILEMA ONTOLÖGICO] ¿Qué hacer?.  
 **¿que ocurre cuando los modelos no cierran?.**  
 La respuesta, entonces es, “**no puede partir de definiciones filosóficas, **sino de declaraciones bíblicas (teológicas) puras**”.  
 ## Bajemos un cambio :
