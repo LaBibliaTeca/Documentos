@@ -27,7 +27,7 @@ La respuesta, entonces es, “**no puede partir de definiciones filosóficas, **
 Volvamos al texto bíblico:
 Hebreos 1:3 dice que el Hijo es “el resplandor de su gloria y la imagen misma de su sustancia” (χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ). Esto implica:
 El Logos no es una parte de Dios, sino su expresión plena.
-La “imagen” no es una copia , es la imagen de su gloria.
+La “imagen” no es una parte , es la imagen de su gloria.
 En el contexto hebreo, kabod (gloria) habla de Dios sin definir su esencia (ουσια) como lo hace el concepto Niceno.
 Sin entrar en detalles hemos definido la trilogía sin necesidad de divisiones .
 Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia.
