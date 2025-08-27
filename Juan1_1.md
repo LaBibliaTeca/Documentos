@@ -32,8 +32,8 @@ En el contexto hebreo, kabod (gloria) habla de Dios sin definir su esencia (ου
 Sin entrar en detalles hemos definido la trilogía sin necesidad de divisiones .
 Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia.
 ## Aquí viene la propuesta:
-Vacía tu vocabulario de expresiones preexistentes sobre: existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.
-𝐏𝐚𝐬𝐨 𝟏: 𝐕𝐚𝐜𝐢𝐚𝐫 𝐞𝐥 𝐥𝐞́𝐱𝐢𝐜𝐨 𝐡𝐞𝐫𝐞𝐝𝐚𝐝𝐨
+Vacía tu vocabulario de expresiones preexistentes sobre: existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
+𝐏𝐚𝐬𝐨 𝟏: 𝐕𝐚𝐜𝐢𝐚𝐫 𝐞𝐥 𝐥𝐞́𝐱𝐢𝐜𝐨 𝐡𝐞𝐫𝐞𝐝𝐚𝐝𝐨.  
 **Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:**
 Persona (latín persona, hypostasis, prosopon)
 Identidad
@@ -41,10 +41,10 @@ Ontología
 Relacionalidad
 Esencia o  Naturaleza (no φυσις como en Stgo 3:7)
 Substancia
-*No porque sean inútiles, sino porque han condicionado la lectura más allá del texto.*
+*No porque sean inútiles, sino porque han condicionado la lectura más allá del texto*.  
 
-📜 𝐏𝐚𝐬𝐨 𝟐: 𝐑𝐞𝐜𝐮𝐩𝐞𝐫𝐚𝐫 𝐞𝐥 𝐥𝐞́𝐱𝐢𝐜𝐨 𝐛𝐢́𝐛𝐥𝐢𝐜𝐨
-Hebreo y Griego
+📜 𝐏𝐚𝐬𝐨 𝟐: 𝐑𝐞𝐜𝐮𝐩𝐞𝐫𝐚𝐫 𝐞𝐥 𝐥𝐞́𝐱𝐢𝐜𝐨 𝐛𝐢́𝐛𝐥𝐢𝐜𝐨.  
+Hebreo y Griego  
 Término Hebreo y Griego     Significado         Implicación Teológica
 כָּבוֹד Kabod δοξα   Doxa      Gloria         Dios se manifiesta
 רוּחַ Ruaj πνευμα Pneuma    Espíritu    No sustancia
