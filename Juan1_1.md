@@ -15,13 +15,13 @@ Los  traductores no  afirman abiertamente que “El logos era Dios” sino “**
 
  ## A ver,... si digo (en koiné): 
 **Ο Σίλας ἦν Σιλουανός [el] Silas era Silvano**  ,   establezco una identidad .
-El artículo el no se repite en el predicado , y sigue siendo un nombre propio.
+El artículo EL no se repite en el predicado , y sigue siendo un nombre propio.
 Aunque el supuesto teólogo, en el caso de θεός Dios se rehusa a admitir una identidad.
 Si dentro de mi modelo expreso :
-Ο Λόγος εστιν Θεός. El Verbo era Dios , ambos son nombres propios entonces establezco una identidad .
+**Ο Λόγος εστιν Θεός**. El Verbo era Dios , ambos son nombres propios entonces establezco una identidad .
 Pero con mi viejo concepto: ¿Cómo podría ser Logos = Dios y “El Padre= Dios”? [Esto es el DILEMA ONTOLÖGICO] ¿Qué hacer?.
 **¿que ocurre cuando los modelos no cierran?.**
-La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
+La respuesta, entonces es, “**no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
 Bajemos un cambio :PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS
 Volvamos al texto bíblico:
 Hebreos 1:3 dice que el Hijo es “el resplandor de su gloria y la imagen misma de su sustancia” (χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ). Esto implica:
