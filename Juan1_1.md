@@ -12,13 +12,14 @@ Orígenes ve en λόγος una existencia relacional, no una identidad ontológi
 Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.
 Testigos de Jehová y otros grupos no trinitarios traducen “un dios”, basándose en la ausencia del artículo ,TOTALMENTE INJUSTIFICADO.
 Los teólogos y traductores (no me refiero a los maestros) no  afirman abiertamente que “El logos era Dios” y aún las notas al pie de muchas biblias sugiere “el Verbo era divino”.
- A ver,... si digo (en koiné): 
-Ο Σίλας ἦν Σιλουανός [el] Silas era Silvano, establezco una identidad .
+
+ ## A ver,... si digo (en koiné): 
+**Ο Σίλας ἦν Σιλουανός [el] Silas era Silvano**, establezco una identidad .
 El artículo el no se repite en el predicado , y sigue siendo un nombre propio.
 Aunque el supuesto teólogo, en el caso de θεός Dios se rehusa a admitir una identidad.
 Si dentro de mi modelo expreso :
 Ο Λόγος εστιν Θεός. El Verbo era Dios , ambos son nombres propios entonces establezco una identidad .
-Pero con mi viejo concepto: ¿Cómo podría ser Logos = Dios y “El Padre= Dios”? [ 𝐄𝐬𝐭𝐨 𝐞𝐬 𝐞𝐥 𝐃𝐢𝐥𝐞𝐦𝐚 𝐎𝐍𝐓𝐎𝐋𝐎́𝐆𝐈𝐂𝐎] ¿Qué hacer?
+Pero con mi viejo concepto: ¿Cómo podría ser Logos = Dios y “El Padre= Dios”? [Esto es el DILEMAONTOLÖGICO] ¿Qué hacer?
 ¿𝐐𝐮𝐞́ 𝐨𝐜𝐮𝐫𝐫𝐞 𝐜𝐮𝐚𝐧𝐝𝐨 𝐥𝐨𝐬 𝐦𝐨𝐝𝐞𝐥𝐨𝐬 𝐧𝐨 𝐜𝐨𝐢𝐧𝐜𝐢𝐝𝐞𝐧?.
 La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
 Bajemos un cambio :PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS
