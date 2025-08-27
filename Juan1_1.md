@@ -43,7 +43,7 @@ Esencia del griego *ουσια* o  Naturaleza (no φυσις como en Stgo 3:7).
 Substancia.  
 *No porque sean inútiles, sino porque han condicionado la lectura más allá del texto*.    
 
-📜## Pasao2 : Recuperar LEXICO BIBLICO 
+## Paso 2 : Recuperar LEXICO BIBLICO 
 Hebreo y Griego  
 Término Hebreo y Griego     Significado         Implicación Teológica
 
