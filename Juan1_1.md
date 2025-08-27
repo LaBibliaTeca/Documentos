@@ -7,11 +7,11 @@
 ## Si la idea es acaso presentar que El logos no es Dios en el sentido Ontológico, ¿por qué no lo decimos en los púlpitos abiertamente? . 
 
 ## Posturas históricas.
-La Vulgata traduce et Deus erat Verbum, manteniendo la ambigüedad pero inclinándose hacia una afirmación fuerte de divinidad.  
-Orígenes ve en λόγος una existencia relacional, no una identidad ontológica(referida del ser) cerrada.
-Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.  
+La Vulgata traduce et Deus erat Verbum,  inclinándose hacia una afirmación fuerte de divinidad.    
+Orígenes ve en λόγος una existencia relacional, no una identidad ontológica(referida del ser) cerrada.  
+Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.    
 
-Los  traductores no  afirman abiertamente que “El logos era Dios” sino “**el Verbo era divino**”.
+Los  traductores no  afirman abiertamente que “El logos era Dios” sino “**el Verbo era divino**”.  
 
  ## A ver,... si digo (en koiné): 
 **Ο Σίλας ἦν Σιλουανός [el] Silas era Silvano**  ,   establezco una identidad .  
