@@ -41,13 +41,13 @@ Ontología
 Relacionalidad
 Esencia o  Naturaleza (no φυσις como en Stgo 3:7)
 Substancia
-*No porque sean inútiles, sino porque han condicionado la lectura más allá del texto*.  
+*No porque sean inútiles, sino porque han condicionado la lectura más allá del texto*.    
 
-📜 𝐏𝐚𝐬𝐨 𝟐: 𝐑𝐞𝐜𝐮𝐩𝐞𝐫𝐚𝐫 𝐞𝐥 𝐥𝐞́𝐱𝐢𝐜𝐨 𝐛𝐢́𝐛𝐥𝐢𝐜𝐨.  
+📜 𝐏𝐚𝐬𝐨 𝟐: 𝐑𝐞𝐜𝐮𝐩𝐞𝐫𝐚𝐫 𝐞𝐥 𝐥𝐞́𝐱𝐢𝐜𝐨 𝐛𝐢́𝐛𝐥𝐢𝐜𝐨.    
 Hebreo y Griego  
 Término Hebreo y Griego     Significado         Implicación Teológica
-כָּבוֹד Kabod δοξα   Doxa      Gloria         Dios se manifiesta
-רוּחַ Ruaj πνευμα Pneuma    Espíritu    No sustancia
+כָּבוֹד .  Kabod δοξα   Doxa      Gloria         Dios se manifiesta
+רוּחַ .  Ruaj πνευμα Pneuma    Espíritu    No sustancia
 צֶלֶם  Tzelem χαρακτήρ Karacter Imagen,   Lo visible
 Hebreo y Griego : PALABRA
 dabar (דָּבָר). y Λόγος Logos: 
