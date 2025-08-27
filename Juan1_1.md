@@ -45,7 +45,6 @@ Substancia.
 
 ## Paso 2 : Recuperar LEXICO BIBLICO 
 Hebreo y Griego  
-Término Hebreo y Griego     Significado         Implicación Teológica
 
 כָּבוֹד .  Kabod δοξα   Doxa      Gloria         Dios se manifiesta
 רוּחַ .  Ruaj πνευμα Pneuma    Espíritu    No sustancia
