@@ -35,17 +35,18 @@ Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia.
 Vacía tu vocabulario de expresiones preexistentes sobre: existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
 ## Paso 1 : Vaciar LEXICO HEREDADO.  
 **Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:**
-Persona (latín persona, hypostasis, prosopon)
-Identidad
-Ontología
-Relacionalidad
-Esencia o  Naturaleza (no φυσις como en Stgo 3:7)
-Substancia
+*Persona , en el sentido latino de representación , o hypostasis en el sentido griego de sustancia , prosopon de apariencia).*  
+Identidad.  
+Ontología .  
+Relacionalidad.  
+Esencia del griego *ουσια* o  Naturaleza (no φυσις como en Stgo 3:7).  
+Substancia.  
 *No porque sean inútiles, sino porque han condicionado la lectura más allá del texto*.    
 
 📜## Pasao2 : Recuperar LEXICO BIBLICO 
 Hebreo y Griego  
 Término Hebreo y Griego     Significado         Implicación Teológica
+
 כָּבוֹד .  Kabod δοξα   Doxa      Gloria         Dios se manifiesta
 רוּחַ .  Ruaj πνευμα Pneuma    Espíritu    No sustancia
 צֶלֶם  Tzelem χαρακτήρ Karacter Imagen,   Lo visible
