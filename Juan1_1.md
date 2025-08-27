@@ -64,7 +64,7 @@ El Logos es la expresión plena de Dios.
  Como χαρακτήρ imagen  (kharaktēr) (Heb 1:3), es el sello de lo que Dios es, sin ser otro.  
 **🔹 Afirmación 3: La imagen no es una parte , es su revelación**.   
 El tzelem צֶלֶם (imagen en griego : χαρακτήρ (kharaktēr) Heb 1:3) no separa a Dios de su manifestación, sino que permite que lo invisible se vuelva visible sin perder unidad.  
-**🔹 Afirmación 4: La gloria no una parte**.  
+**🔹 Afirmación 4: La gloria no es una parte**.  
 La kabod (gloria) no es una parte de Dios, sino su impacto perceptible. El Logos es esa gloria 'hecha' palabra.   
 
 ## El Texto permite distinguir tres actores o  tres sujetos que ejecutan acciones independientemente. 
