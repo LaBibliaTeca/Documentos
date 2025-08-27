@@ -1,6 +1,5 @@
 # 𝐈𝐧𝐭𝐞𝐫𝐩𝐫𝐞𝐭𝐚𝐜𝐢ó𝐧 𝐝𝐞 𝐉𝐮𝐚𝐧 𝟏:𝟏.
-
-𝑬𝑺𝑻𝑬 𝑬𝑵𝑺𝑨𝒀𝑶 𝑵𝑶 𝑰𝑵𝑻𝑬𝑵𝑻𝑨 𝑻𝑶𝑴𝑨𝑹 𝑷𝑶𝑺𝑻𝑼𝑹𝑨𝑺 𝑻𝑹𝑰𝑵𝑰𝑻𝑨𝑹𝑰𝑨𝑺 𝑶 “𝑨𝑵𝑻𝑰” 𝑺𝑰𝑵𝑶 𝑳𝑰𝑴𝑷𝑰𝑨𝑹 𝑬𝑳 𝑳É𝑿𝑰𝑪𝑶 𝑫𝑬 𝑬𝑿𝑷𝑹𝑬𝑺𝑰𝑶𝑵𝑬𝑺 𝑬𝑿𝑻𝑹𝑨𝑩Í𝑩𝑳𝑰𝑪𝑨𝑺 𝑶 𝐅𝐈𝐋𝐎𝐒Ó𝐅𝐈𝐂𝐀𝐒. 
+Este ensayo NO intenta tomar posturas Trinitarias o "Anti" . sno limpiar nuestro léxico o vocabulario de expresiones estrabiblicas o Filosóficas.
 
 A pesar que las Iglesias y los comentarios Bíblicos y Exegéticos pretenden explicar como que el Verbo era Dios, existe una especie de trastienda donde la explicaciones académicas son otras.
 Esta es la afirmación que exponen: “La frase θεός  εστινο λόγος no busca resolver la ontología (identidad divina , sino introducir al lector en una comprensión relacional y funcional del Logos. La ausencia del artículo en θεός sugiere que Juan no pretende una identificación absoluta, sino una afirmación de naturaleza.”
