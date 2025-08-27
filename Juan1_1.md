@@ -64,7 +64,7 @@ El tzelem צֶלֶם (imagen en griego : χαρακτήρ (kharaktēr) Heb 1:3) 
 **🔹 Afirmación 4: La gloria no una parte**.  
 La kabod (gloria) no es una parte de Dios, sino su impacto perceptible. El Logos es esa gloria 'hecha' palabra.   
 
-## El Texto permite distinguir TRES ACTORES O SEA GRAMATICALMENTE TRES SUJETOS QUE EJECUTAN ACCIÓN.**  
+## El Texto permite distinguir TRES ACTORES O SEA GRAMATICALMENTE TRES SUJETOS QUE EJECUTAN ACCIÓN.   
 Ahora bien ,distinguimos en  1Co 12:4-6: “.....  hay diversidad de dones, pero el Espíritu es el mismo. Y hay diversidad de ministerios, pero el Señor es el mismo. Y hay diversidad de operaciones, pero Dios, que hace todas las cosas en todos, es el mismo”.   
 
 Pero tenemos que reconocer que al introducir la palabra PERSONA estamos haciendo uso de un término que en latín tiene connotación de Rol o Representación y que Tertuliano en Adversus Práxeas NO la redefine  y  **es una palabra extrabíblica** , puedo usarla en español como una actor pero el sentilenguajedo latino es otro.      
