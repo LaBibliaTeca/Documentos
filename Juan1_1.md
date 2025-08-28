@@ -44,11 +44,11 @@ Vacía tu vocabulario de expresiones extrabíblicas como : existencia, ser, pers
 Identidad.  
 Ontología .  
 Relacionalidad.  
-Esencia del griego *ουσια* o  Naturaleza (no φυσις como en Stgo 3:7).  
+Esencia del griego *ουσια* o  Naturaleza (no φυσις como en Santiago 3:7).   
 Substancia.  
 *No porque sean inútiles, sino porque han condicionado la lectura más allá del texto*.    
 
-## Paso 2 : Recuperar LEXICO BIBLICO 
+## Paso 2 : Recuperar LÉXICO BIBLICO 
 Hebreo y Griego  
 Kabod      δοξα   Doxa         Gloria  Manifestación.  
 Ruaj       πνευμα Pneuma       Espíritu Presencia.  
