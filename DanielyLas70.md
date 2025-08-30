@@ -1,8 +1,8 @@
-## Daniel y las setenta semanas: una lectura de hipótesis probable1
+## Daniel y las setenta semanas: una lectura de hipótesis probable.  
 
 
 
-El siguiente ensayo tiene por objetivo, en primer lugar, dar un esbozo de ideas respetuosas sin dar lugar a una discusión o atentar a creencias ya consolidadas. En segundo lugar, la idea de este ensayo es proponer una hipótesis, la cual articula y sostiene que Daniel 9: 24-27
+El siguiente ensayo tiene por objetivo, en primer lugar, dar un esbozo de ideas respetuosas sin dar lugar a una discusión o atentar a creencias ya consolidadas. En segundo lugar, la idea de este ensayo es proponer una hipótesis, la cual articula y sostiene que Daniel 9: 24-27  
 
 describe un marco temporal autocontenido, las setenta semanas, cuyo clímax se cumple en el ministerio del Mesías y en el testimonio apostólico dirigido a Israel, sin necesidad de arrastrar el cómputo hasta la destrucción del templo en el año 70 d. C., evento histórico posterior y consecuente, pero no parte de las semanas mencionadas. Asimismo, de arrastrar una lectura de cumplimiento de lo expuesto en el pasaje a siglos posteriores2. Esta lectura se apoya en tres pilares: la gramática del hebreo masorético3, la estructura temporal del pasaje  7 + 62 + 1  y la correlación razonable con la cronología del Nuevo Testamento , (Finegan, s. f.; Steinmann, s. f.).
 
