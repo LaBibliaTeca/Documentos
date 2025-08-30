@@ -2,16 +2,16 @@
 
 
 
-El siguiente ensayo tiene por objetivo, en primer lugar, dar un esbozo de ideas respetuosas sin dar lugar a una discusión o atentar a creencias ya consolidadas. En segundo lugar, la idea de este ensayo es proponer una hipótesis, la cual articula y sostiene que Daniel 9:24-27
+El siguiente ensayo tiene por objetivo, en primer lugar, dar un esbozo de ideas respetuosas sin dar lugar a una discusión o atentar a creencias ya consolidadas. En segundo lugar, la idea de este ensayo es proponer una hipótesis, la cual articula y sostiene que Daniel 9: 24-27
 
 describe un marco temporal autocontenido, las setenta semanas, cuyo clímax se cumple en el ministerio del Mesías y en el testimonio apostólico dirigido a Israel, sin necesidad de arrastrar el cómputo hasta la destrucción del templo en el año 70 d. C., evento histórico posterior y consecuente, pero no parte de las semanas mencionadas. Asimismo, de arrastrar una lectura de cumplimiento de lo expuesto en el pasaje a siglos posteriores2. Esta lectura se apoya en tres pilares: la gramática del hebreo masorético3, la estructura temporal del pasaje  7 + 62 + 1  y la correlación razonable con la cronología del Nuevo Testamento , (Finegan, s. f.; Steinmann, s. f.).
 
 
 ##  El sujeto que favorece la continuidad
 
-El nudo exegético suele ubicarse en 9:26-27: el texto introduce dos referentes masculinos singulares, el Mashíaj “cortado” y “el pueblo de un príncipe que ha de venir”, esto luego desencadena en verbos en tercera persona sin repetir el sujeto. En hebreo, la cadena con waw4
+El nudo exegético suele ubicarse en 9: 26-27 : el texto introduce dos referentes masculinos singulares, el Mashíaj “cortado” y “el pueblo de un príncipe que ha de venir”, esto luego desencadena en verbos en tercera persona sin repetir el sujeto. En hebreo, la cadena con waw4
 
-consecutivo normalmente mantiene el mismo sujeto mientras no se marque un cambio explícito (Biblia Hebraica Stuttgartensia, 1997). La mención “el pueblo de un príncipe que ha de venir” funciona como inciso agente para la destrucción de la ciudad y del santuario; no reasigna automáticamente el sujeto de las acciones subsiguientes. En consecuencia, la lectura más natural es que el mismo sujeto de 9:26 —El Mesías— sigue actuando en 9:27:
+consecutivo normalmente mantiene el mismo sujeto mientras no se marque un cambio explícito (Biblia Hebraica Stuttgartensia, 1997). La mención “el pueblo de un príncipe que ha de venir” funciona como inciso agente para la destrucción de la ciudad y del santuario; no reasigna automáticamente el sujeto de las acciones subsiguientes. En consecuencia, la lectura más natural es que el mismo sujeto de 9: 26 —El Mesías— sigue actuando en 9: 27:
 
 “confirmará el pacto” y “a la mitad de la semana hará cesar sacrificio y ofrenda”. La ambigüedad no desaparece por completo, puesto que el hebreo permite otra lectura, pero la continuidad es gramaticalmente sólida y semánticamente congruente con el desarrollo del relato (Hipólito de Roma, ca. 204/2000).
 
@@ -27,12 +27,12 @@ consecutivo normalmente mantiene el mismo sujeto mientras no se marque un cambio
 
 Daniel 9 organiza el tiempo profético en tres bloques: siete semanas, sesenta y dos semanas, y una semana final partida por la mitad. Tomar como punto de partida el decreto de Artajerjes (457 a. C., Esdras 7), que otorga autoridad real y cultural para restaurar Jerusalén, produce un ajuste sensato con el desarrollo histórico: siete semanas (49 años): período de reconstrucción de la ciudad “en tiempos angustiosos”. No se limita al templo como edificio, sino a la rehabilitación de la vida cívico-sagrada de Jerusalén. A su vez, sesenta y dos semanas (434 años): tramo intermedio hasta la aparición del Mesías. El total de 7+62 = 69 semanas (483 años) desde 457 a. C. llevan al 26 d. C., fecha que dialoga con el “año quince de Tiberio” en Lucas capítulo 3 (Finegan, s. f.; Steinmann, s. f.). Según el modo de cómputo que se adopte: la corregencia con Augusto “el princeps” o el poder pleno como emperador.
 
-La última semana, la semana setenta está dividida en dos mitades. La primera corresponde al ministerio público de Jesús; “a la mitad” se produce la cesación del sacrificio y la ofrenda, entendida cómo esa muerte que consuma el sacrificio definitivo e invalida teológicamente el sistema templario (Sociedades Bíblicas Unidas, 1960, Heb. 10:14). Esto no niega que el rito físico siguió hasta el 70 d.C, pero estando ya invalidado por el sacrificio de Cristo. La segunda mitad corresponde al testimonio apostólico enfocado en Israel (Hechos 2–7), que culmina en un rechazo nacional (Esteban) y marca la apertura explícita a gentiles (Cornelio; la vocación de Pablo).
+La última semana, la semana setenta está dividida en dos mitades. La primera corresponde al ministerio público de Jesús; “a la mitad” se produce la cesación del sacrificio y la ofrenda, entendida cómo esa muerte que consuma el sacrificio definitivo e invalida teológicamente el sistema templario (Sociedades Bíblicas Unidas, 1960, Heb. 10: 14). Esto no niega que el rito físico siguió hasta el 70 d.C, pero estando ya invalidado por el sacrificio de Cristo. La segunda mitad corresponde al testimonio apostólico enfocado en Israel (Hechos 2–7), que culmina en un rechazo nacional (Esteban) y marca la apertura explícita a gentiles (Cornelio; la vocación de Pablo).
 
 **Este marco y lectura deja fuera de la semana el asedio y la destrucción de Jerusalén (66–70 d. C.): no por irrelevantes, sino porque Daniel los sitúa “después” del corte del Mesías, con un agente distinto (“el pueblo del príncipe que ha de venir”).**  
 
 >5.Sentido de “hará cesar sacrificio y ofrenda”
-El verbo hebreo yašbît (hifil)6 puede denotar tanto cesación fáctica como inutilización o abrogación funcional (Biblia Hebraica Stuttgartensia, 1997; Sociedades Bíblicas Unidas, 1960, Heb. 10:14). En la hipótesis aquí defendida, la “mitad de la semana” no es el año 70 o algo mucho más prospectivo, sino la crucifixión: el sacrificio de Cristo clausura el valor expiatorio de los sacrificios levíticos. El templo siguió operando por décadas, pero, desde la 5 Según la hipótesis aquí sostenida, este personaje corresponde al general Tito, hijo del emperador Vespasiano.  
+El verbo hebreo yašbît (hifil)6 puede denotar tanto cesación fáctica como inutilización o abrogación funcional (Biblia Hebraica Stuttgartensia, 1997; Sociedades Bíblicas Unidas, 1960, Heb. 10: 14). En la hipótesis aquí defendida, la “mitad de la semana” no es el año 70 o algo mucho más prospectivo, sino la crucifixión: el sacrificio de Cristo clausura el valor expiatorio de los sacrificios levíticos. El templo siguió operando por décadas, pero, desde la 5 Según la hipótesis aquí sostenida, este personaje corresponde al general Tito, hijo del emperador Vespasiano.  
 >6 Hifil es una etiqueta gramatical hebrea que indica algo causativo.
 
 
@@ -43,7 +43,7 @@ perspectiva teológica del Nuevo Testamento, especialmente Hebreos 9–10, su ef
 
 El año quince de Tiberio y la aparición del Mesías
 
-Lucas 3:1 ancla el inicio del ministerio con un dato cronológico: el 15.º año de Tiberio. La práctica administrativa romana contaba los años de reinado desde el gobierno efectivo (14 d.
+Lucas 3: 1 ancla el inicio del ministerio con un dato cronológico: el 15.º año de Tiberio. La práctica administrativa romana contaba los años de reinado desde el gobierno efectivo (14 d.
 
 C.), lo que arroja 28/29 d. C.; otros cálculos antiguos y algunos esquemas proféticos consideran la corregencia (12 d. C.), dando 26/27 d. C (Suetonio, ca. 121/2003; Tácito, ca.
 
@@ -66,7 +66,7 @@ En este sentido, la presente lectura de Daniel 9 no pretende clausurar el debate
 >Bibliografía:
 
 >Sociedades Bíblicas Unidas. (1960). La Santa Biblia: Reina-Valera 1960 [Versión en español]. Miami: Sociedades Bíblicas Unidas.
-Biblia Hebraica Stuttgartensia. (1997). Daniel 9:24–27 [Texto Masorético, siglo X]. Stuttgart: Deutsche Bibelgesellschaft.  
+Biblia Hebraica Stuttgartensia. (1997). Daniel 9: 24–27 [Texto Masorético, siglo X]. Stuttgart: Deutsche Bibelgesellschaft.  
 Suetonio. (2003). Vidas de los doce Césares: Julio, Augusto, Tiberio (Traducción de C.  
 Casares). Madrid: Gredos. (Trabajo original ca. 121 d.C.).  
 Tácito. (2006). Anales (Traducción de M. Alonso). Madrid: Gredos. (Trabajo original ca. 116d.C.).  
