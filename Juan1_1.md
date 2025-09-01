@@ -75,9 +75,9 @@ Ahora bien ,distinguimos en  1Co 12:4-6: “.....  hay diversidad de dones, pero
 Pero tenemos que reconocer que al introducir la palabra PERSONA estamos haciendo uso de un término que en latín tiene connotación de Rol o Representación y que Tertuliano que incorpora el término en Adversus Práxeas NO la redefine  y  **es una palabra extrabíblica** , puedo usarla en español como una actor pero el sentido latino es otro.      
 𝐏𝐚𝐫𝐚 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐥𝐚 𝐥𝐢́𝐧𝐞𝐚 𝐝𝐞 𝐧𝐮𝐞𝐬𝐭𝐫𝐨 𝐌𝐎𝐃𝐄𝐋𝐎, 𝐝𝐞𝐛𝐞𝐦𝐨𝐬 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐟𝐮𝐞𝐫𝐚 **CONCEPTOS EXTRAÑOS AL TEXTO**.
 Preconcepto : “Persona” en Latín (Tertuliano) /”Hipostasis” en griego(Concilio de Nicea ).   
-Problema:  Introduce división ontológica(del ser) no presente en el texto .  
+Problema:  Introduce división ontológica(del ser) no presente en el texto .Esto comprometió la afirmación del Logos, olvidando la unión de Juan 10_30.
 Preconcepto : Esencia/subtancia οὐσία (ousía). Concilio  de Nicea.  
-Problema: Impone Categorías Aristotélicas.  
+Problema: Impone Categorías Aristotélicas como si fueran capas ontológicas : Sustancia + Atributos.    
 **Ontología Trinitaria**, este concepto NO es el mismo que lo que plantea Justino 1ra Apología cap 6: **”a Él, y al Hijo (que salió de Él y nos enseñó estas cosas, y al Espíritu profético, los adoramos y los conocemos en razón y verdad”**, sino que incluye el **concepto de “persona como representación”** que incorpora por ejemplo Tertuliano (210dc) que no significa lo mismo que en español (ver abajo).
 **Relacionalidad filosófica :** Este concepto se sumó al anterior para justificar “la unidad” en lugar de aceptar “la manifestación como una unidad”, (cita de la definición que se menciona :”la expresión el verbo era dios es relacional, no ontológica, es decir el verbo era divino”).
 
