@@ -1,3 +1,4 @@
+Este no es untexto de catequesis 
 # Interpretación de Juan 1:1 .  
 **Este ensayo NO intenta tomar posturas Trinitarias o "Anti"  sino limpiar nuestro léxico o vocabulario de expresiones extrabiblicas o Filosóficas** .  
 
@@ -5,7 +6,7 @@
 
 **Esta es la afirmación que exponen: “La frase θεός  εστιν ο λόγος no busca resolver la ontología (identidad) divina , sino introducir al lector en una comprensión relacional y funcional del Logos. 
 La ausencia del artículo en θεός sugiere que Juan no pretende una identificación absoluta, sino una afirmación de naturaleza.”**
-## Si la idea es acaso presentar que El logos no es Dios en un sentido distinto de identidad, ¿por qué no lo decimos en los púlpitos abiertamente? . 
+## Si la idea es acaso presentar que El logos  es Dios en un sentido distinto de identidad, ¿por qué no lo decimos en los púlpitos abiertamente? . 
 
 ## Posturas históricas.
 La Vulgata traduce et Deus erat Verbum,  inclinándose hacia una afirmación fuerte de divinidad.    
@@ -58,21 +59,21 @@ dabar      Λόγος Logos       Palabra ,Expresión .
 Salmo 33:6: "Por la palabra (dabar) del Señor fueron hechos los cielos, y todo el ejército de ellos por el aliento de su boca."
 Jn 1:3: “Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho”.  
 ## Este modelo no Fragmenta.    
-**🔹 Afirmación 1: Dios se manifiesta en su gloria.**  
+** Afirmación 1: Dios se manifiesta en su gloria.**  
 En el texto bíblico, Dios no se presenta como una “persona ” en sentido filosófico latino o griego de apariencia , **sino como una presencia (kabod)** y su espíritu  actúa (ruaj).    
-**🔹 Afirmación 2: El Logos no es otro (Dios), sino expresión de Dios**.  
+** Afirmación 2: El Logos no es otro (Dios), sino expresión de Dios**.  
 El Logos es la expresión plena de Dios.  
  Como χαρακτήρ imagen  (kharaktēr) (Heb 1:3), es el sello de lo que Dios es, sin ser otro.  
-**🔹 Afirmación 3: La imagen no es una parte , es su revelación**.   
+** Afirmación 3: La imagen no es una parte , es su revelación**.   
 El tzelem צֶלֶם (imagen en griego : χαρακτήρ (kharaktēr) Heb 1:3) no separa a Dios de su manifestación, sino que permite que lo invisible se vuelva visible sin perder unidad.  
-**🔹 Afirmación 4: La gloria no es una parte**.  
+** Afirmación 4: La gloria no es una parte**.  
 La kabod (gloria) no es una parte de Dios, sino su impacto perceptible. El Logos es esa gloria 'hecha' palabra.   
 
 ## El Texto permite distinguir tres actores o  tres sujetos que ejecutan acciones independientemente. 
 Eso es lo que nosotros decimos en nuestra jerga : Personas como si fueran individuos pero en latín y griego koiné significa "apariencia" , "representación".  
 Ahora bien ,distinguimos en  1Co 12:4-6: “.....  hay diversidad de dones, pero el **Espíritu** es el mismo. Y hay diversidad de ministerios, pero el **Señor** es el mismo. Y hay diversidad de operaciones, pero **Dios**, que hace todas las cosas en todos, es el mismo”.   
 
-Pero tenemos que reconocer que al introducir la palabra PERSONA estamos haciendo uso de un término que en latín tiene connotación de Rol o Representación y que Tertuliano que incorpora el término en Adversus Práxeas NO la redefine  y  **es una palabra extrabíblica** , puedo usarla en español como una actor pero el sentido latino es otro.      
+Pero tenemos que reconocer que al introducir la palabra PERSONA estamos haciendo uso de un término que en latín tiene connotación de Rol o Representación y que Tertuliano que incorpora el término en su libro Adversus Práxeas NO la redefine  y  **es una palabra extrabíblica** , puedo usarla en español como una actor pero el sentido latino es otro.      
 𝐏𝐚𝐫𝐚 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐥𝐚 𝐥𝐢́𝐧𝐞𝐚 𝐝𝐞 𝐧𝐮𝐞𝐬𝐭𝐫𝐨 𝐌𝐎𝐃𝐄𝐋𝐎, 𝐝𝐞𝐛𝐞𝐦𝐨𝐬 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐟𝐮𝐞𝐫𝐚 **CONCEPTOS EXTRAÑOS AL TEXTO**.
 Preconcepto : “Persona” en Latín (Tertuliano) /”Hipostasis” en griego(Concilio de Nicea ).   
 Problema:  Introduce división ontológica(del ser) no presente en el texto .Esto comprometió la afirmación del Logos, olvidando la unión de Juan 10_30.
