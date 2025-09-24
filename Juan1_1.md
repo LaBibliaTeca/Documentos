@@ -43,7 +43,7 @@ Vacía tu vocabulario de expresiones extrabíblicas como : existencia, ser, pers
 ## Paso 1 : Vaciar el LÉXICO HEREDADO.  
 **Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:** 
 
-*Persona , en el sentido latino de representación , o hypostasis en el sentido griego de sustancia , prosopon = apariencia).*  
+*Persona , en el sentido latino de representación , o hypostasis en el sentido niceno de sustancia , prosopon = apariencia).*  
 Identidad.  
 Ontología .  
 Relacionalidad.  
