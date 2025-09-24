@@ -10,50 +10,56 @@ La ausencia del artículo en θεός sugiere que Juan no pretende una identific
 ## Posturas históricas.
 La Vulgata traduce et Deus erat Verbum,  inclinándose hacia una afirmación fuerte de divinidad.    
 Orígenes ve en λόγος una **existencia relacional**, no una identidad ontológica cerrada  .  
-## Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.     
+### Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.     
 
 *Los  traductores no  afirman abiertamente que “El logos era Dios” sino “el Verbo era divino”.*   
-
+---
  ## A ver ,     si digo (en koiné): 
 **Ο Σίλας ἦν, Σιλουανός ,[el], Silas era Silvano**  ,   establezco una identidad .  
 En  koiné el artículo EL no se repite en el predicado , y sigue siendo un nombre propio.
 Aunque el supuesto teólogo, en el caso de θεός Dios se rehusa a admitir una identidad.  
 Si dentro de mi modelo expreso :
 **Ο Λόγος εστιν Θεός**. El Verbo era Dios , ambos son nombres propios entonces SI establezco una identidad .  
->Pero con mi viejo concepto: ¿Cómo podría ser Logos = Dios y “El Padre= Dios”?.
+*Pero con mi viejo concepto: ¿Cómo podría ser **Logos = Dios** y **“El Padre= Dios”**?*.
 
 --- 
 [Esto es el DILEMA ONTOLÓGICO] ¿Qué hacer?.  
 **¿que ocurre cuando los modelos no cierran?.**  
-La respuesta, entonces es, “**no puede partir de definiciones filosóficas, **sino de declaraciones bíblicas (teológicas) puras**”.  
+La respuesta, entonces es, “**no puede partir de definiciones filosóficas, **sino de declaraciones bíblicas (teológicas) puras**”.
+---
 ## Bajemos un cambio :
 **PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS**.  
 Volvamos al texto bíblico:
-Hebreos 1:3 dice que el Hijo es “el resplandor de su gloria y la imagen misma de su sustancia” (χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ). Esto implica:
-El Logos no es una parte de Dios, sino su expresión plena.
-La “imagen” no es una parte , es la imagen de su gloria.
-En el contexto hebreo, kabod (gloria) habla de Dios sin definir su esencia (ουσια) como lo hace el concepto Niceno.
-Sin entrar en detalles hemos definido la trilogía sin necesidad de divisiones .
-Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia.  
+Hebreos 1:3 dice que el Hijo es **“el resplandor de su gloria y la imagen misma de su sustancia”** (χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ) ,sustancia como lo que subyace o subsiste .  
+Esto implica:
+El Logos no es una **parte** de Dios, sino su expresión plena. 
+La “imagen” no es una **parte** , es la imagen de su gloria.
+En el contexto hebreo, kabod (gloria) habla de Dios sin definir su esencia (ουσια) como lo hace el concepto Niceno. 
+Sin entrar en detalles hemos definido la trilogía sin necesidad de divisiones . 
+*Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia*.  
 ## Aquí viene la propuesta:
 Vacía tu vocabulario de expresiones extrabíblicas como : existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
 ## Paso 1 : Vaciar el LÉXICO HEREDADO.  
 **Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:** 
 
-*Persona , en el sentido latino de representación , o hypostasis en el sentido griego de sustancia , prosopon de apariencia).*  
+*Persona , en el sentido latino de representación , o hypostasis en el sentido griego de sustancia , prosopon = apariencia).*  
 Identidad.  
 Ontología .  
 Relacionalidad.  
-Esencia del griego *ουσια* o  Naturaleza (no φυσις como en Santiago 3:7).   
-Substancia.  
+Esencia del griego *ουσια* o  Naturaleza (no fisis:φυσις como en Santiago 3:7).   
+Substancia como ουσια (Aristóteles en sustancia primera y sustancia segunda).  
 *No porque sean inútiles, sino porque han condicionado la lectura más allá del texto*.    
 
 ## Paso 2 : Recuperar LÉXICO BIBLICO 
 Hebreo y Griego  
-Kabod      δοξα   Doxa         Gloria  Manifestación.  
-Ruaj       πνευμα Pneuma       Espíritu Presencia.  
-Tzelem     χαρακτήρ Karacter   Imagen,   Lo visible .           
-dabar      Λόγος Logos       Palabra ,Expresión .   
+Kabod  δοξα:Doxa =Gloria . 
+  como   Manifestación.  
+Ruaj  πνευμα:Pneuma=Espíritu.  
+   como Presencia.   
+Tzelem  χαρακτήρ:Karacter=Imagen, 
+     como Lo visible .           
+dabar Λόγος:Logos=Palabra , 
+    como Expresión .   
 
 Salmo 33:6: "Por la palabra (dabar) del Señor fueron hechos los cielos, y todo el ejército de ellos por el aliento de su boca."
 Jn 1:3: “Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho”.  
@@ -72,10 +78,11 @@ La kabod (gloria) no es una parte de Dios, sino su impacto perceptible. El Logos
 Eso es lo que nosotros decimos en nuestra jerga : Personas como si fueran individuos pero en latín y griego koiné significa "apariencia" , "representación".  
 Ahora bien ,distinguimos en  1Co 12:4-6: “.....  hay diversidad de dones, pero el **Espíritu** es el mismo. Y hay diversidad de ministerios, pero el **Señor** es el mismo. Y hay diversidad de operaciones, pero **Dios**, que hace todas las cosas en todos, es el mismo”.   
 
-Pero tenemos que reconocer que al introducir la palabra PERSONA estamos haciendo uso de un término que en latín tiene connotación de Rol o Representación y que Tertuliano que incorpora el término en su libro Adversus Práxeas NO la redefine  y  **es una palabra extrabíblica** , puedo usarla en español como una actor pero el sentido latino es otro.      
-𝐏𝐚𝐫𝐚 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐥𝐚 𝐥𝐢́𝐧𝐞𝐚 𝐝𝐞 𝐧𝐮𝐞𝐬𝐭𝐫𝐨 𝐌𝐎𝐃𝐄𝐋𝐎, 𝐝𝐞𝐛𝐞𝐦𝐨𝐬 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐟𝐮𝐞𝐫𝐚 **CONCEPTOS EXTRAÑOS AL TEXTO**.
-Preconcepto : “Persona” en Latín (Tertuliano) /”Hipostasis” en griego(Concilio de Nicea ).   
-Problema:  Introduce división ontológica(del ser) no presente en el texto .Esto comprometió la afirmación del Logos, olvidando la unión de Juan 10_30.
+Pero tenemos que reconocer que al introducir la palabra latina PERSONA le damos un sentido de Rol o Representación y que Tertuliano que incorpora el término en su libro Adversus Práxeas NO la redefinío como individuo  y  **es una palabra extrabíblica** , puedo usarla en español como una actor pero el sentido latino es otro.      
+Para mantener la linea de nuestro MDELO, debemos mantener fuera **CONCEPTOS EXTRAÑOS AL TEXTO**. 
+Preconcepto : “Persona” en Latín (Tertuliano) /”Hipostasis” en griego( usado para definir persona No subyacencia- Concilio de Nicea ).   
+Problema:  Introduce división del ser (ontológica) no presente en el texto . 
+Esto comprometió la afirmación del Logos, olvidando la unión de Juan 10 30 (El Padre y Yo ...).  
 Preconcepto : Esencia/subtancia οὐσία (ousía). Concilio  de Nicea.  
 Problema: Impone Categorías Aristotélicas como si fueran capas ontológicas : Sustancia + Atributos.    
 **Ontología Trinitaria**, este concepto NO es el mismo que lo que plantea Justino 1ra Apología cap 6: **”a Él, y al Hijo (que salió de Él y nos enseñó estas cosas, y al Espíritu profético, los adoramos y los conocemos en razón y verdad”**, sino que incluye el **concepto de “persona como representación”** que incorpora por ejemplo Tertuliano (210dc) que no significa lo mismo que en español (ver abajo).
