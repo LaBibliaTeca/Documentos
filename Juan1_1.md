@@ -75,7 +75,7 @@ Salmo 33: 6: "Por la palabra (dabar) del Señor fueron hechos los cielos, y todo
 Juan 1: 3: “Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho”.  
 ## Este modelo no Fragmenta.    
 ** Afirmación 1:. Dios se manifiesta en su gloria.**  
-En el texto bíblico, Dios no se presenta como una “persona ” en sentido formal latino o griego de apariencia , **sino como una presencia (kabod)** y su espíritu  actúa (ruaj).    
+En el texto bíblico, Dios no se presenta como una “persona ” en sentido formal latino o griego de apariencia , **sino como una presencia (kabod)** y su espíritu , ruaj ,  actúa (1 Corintios 12:7a9).    
 ** Afirmación 2:, El Logos no es otro (Dios), sino expresión de Dios**.  
 El Logos es la expresión plena de Dios.  
  Como χαρακτήρ imagen  (kharaktēr) (Heb 1:3), es el sello de lo que Dios es, sin ser otro.  
