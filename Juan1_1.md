@@ -24,7 +24,7 @@ Si dentro de mi modelo expreso :
 *Pero con mi viejo concepto: ¿Cómo podría ser **Logos = Dios** y **“El Padre= Dios”**?*.
 
 --- 
-###[Esto es el DILEMA ONTOLÓGICO] ¿Qué hacer?.  
+### [Esto es el DILEMA ONTOLÓGICO] ¿Qué hacer?.  
 ¿que ocurre cuando los modelos no cierran?.  
 La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
 ---
