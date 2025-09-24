@@ -43,7 +43,7 @@ En el contexto hebreo, kabod (gloria) habla de Dios sin definir su esencia (ου
 Sin entrar en detalles hemos definido la trilogía sin necesidad de divisiones . 
 *Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia*.  
 ## Aquí viene la propuesta:
-Vacía tu vocabulario de expresiones extrabíblicas derivadas de la filosofía como : existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
+Vacía tu vocabulario de expresiones extrabíblicas derivadas de la filosofía como : existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos o sus equivalentes en español, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
 Muchos términos provienen de la época patrística. que alteró o inventó el significado de palabras griegas y otras que hoy heredamos del latín , algunas también inventadas para definiciones teológicas.  
 Bueno , **o nos movemos en un entorno griego o en uno latino**.  
 ## Paso 1 : Vaciar el LÉXICO HEREDADO.  
@@ -80,7 +80,7 @@ En el texto bíblico, Dios no se presenta como una “persona ” en sentido for
 El Logos es la expresión plena de Dios.  
  Como χαρακτήρ imagen  (kharaktēr) (Heb 1:3), es el sello de lo que Dios es, sin ser otro.  
 ** Afirmación 3:, La imagen no es una parte , es su revelación**.   
-El tzelem צֶלֶם (imagen en griego : χαρακτήρ (kharaktēr) Heb 1:3) no separa a Dios de su manifestación, sino que permite que lo invisible se vuelva visible sin perder unidad.  
+El tzelem צֶלֶם (imagen en griego : χαρακτήρ (kharaktēr) Hebreos 1:3) no separa a Dios de su manifestación, sino que permite que lo invisible se vuelva visible sin perder unidad.  
 ** Afirmación 4:, La gloria no es una parte**.  
 La kabod (gloria) no es una parte de Dios, sino su impacto perceptible. El Logos es esa gloria 'hecha' palabra.   
 
