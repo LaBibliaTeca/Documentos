@@ -35,8 +35,8 @@ La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino
 **PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS**.  
 Volvamos al texto bíblico:
 Hebreos 1:3 dice que el Hijo es **“el resplandor de su gloria y la imagen misma de su sustancia”** (χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ) ,sustancia como lo que subyace o subsiste .  
-Esto implica:
-El Logos no es una **parte** de Dios, sino su expresión plena. 
+Esto implica:,
+El Logos no es una **parte** de Dios, sino su expresión plena.    
 La “imagen” no es una **parte** , es la imagen de su gloria.
 En el contexto hebreo, kabod (gloria) habla de Dios sin definir su esencia (ουσια) como lo hace el concepto Niceno. 
 Sin entrar en detalles hemos definido la trilogía sin necesidad de divisiones . 
@@ -46,7 +46,7 @@ Vacía tu vocabulario de expresiones extrabíblicas derivadas de la filosofía c
 Muchos términos proviene de la época patrística. que alteró o inventó el significado de palabras griegas y otras que hoy heredamos del latín , algunas también inventadas para definiciones teológicas.  
 Bueno , **o nos movemos en un entorno griego o en uno latino**.  
 ## Paso 1 : Vaciar el LÉXICO HEREDADO.  
-**Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:** 
+**Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:** .  
 
 *Persona , en el sentido latino de representación , o hypostasis como equivalente a persona.*  
 Identidad.  
