@@ -53,12 +53,12 @@ Identidad.
 Ontología .  
 Relacionalidad.  
 Esencia del griego *ουσια* o  Naturaleza (no fisis:φυσις como en Santiago 3:7).   
-Substancia como ουσια (Aristóteles en sustancia primera y sustancia segunda).  
+Substancia como ουσια como define Aristóteles , sustancia primera ,y sustancia segunda).  
 *No porque sean inútiles, sino porque han condicionado la lectura más allá del texto bíblico*.  
 
-
-*-hypostasis =suyacente,fundación o subestructura.
--prosopon similar a persona en latín.*  
+Nota:.
+ *-hypostasis =suyacente,fundación o subestructura.
+ -prosopon similar a persona en latín.*  
 ## Paso 2 : Recuperar LÉXICO BIBLICO 
 Hebreo y Griego  
 Kabod  δοξα:Doxa =Gloria . 
