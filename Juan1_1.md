@@ -1,34 +1,37 @@
 # Interpretación de Juan 1:1 .  
 [**TOCAR PARA PREGUNTAR AL AUTOR**](Q2g.html) .   
-**Este ensayo NO intenta tomar posturas Trinitarias o "Anti"  sino limpiar nuestro léxico o vocabulario de expresiones extrabiblicas o Filosóficas** .       
-*A pesar que las Iglesias y los comentarios Bíblicos y Exegéticos pretenden explicar como que **el Verbo era Dios**, existe una especie de trastienda donde la explicaciones académicas son otras.* 
+**Este ensayo NO intenta tomar posturas Trinitarias o "Anti"  sino limpiar nuestro vocabulario de expresiones extrabiblicas o Filosóficas** .       
+*A pesar que las Iglesias y los comentarios Bíblicos y Exegéticos pretenden explicar como que **el Verbo era Dios**, existe una especie de trastienda donde la explicaciones académicas son otras.*  
+El verbo ser funciona como el signo igual = entre dos nombres o sustantivos , o sea una identidad. 
 
-**Esta es la afirmación que exponen: “La frase θεός  εστιν ο λόγος no busca resolver la ontología (identidad) divina , sino introducir al lector en una comprensión relacional y funcional del Logos. 
-La ausencia del artículo en θεός sugiere que Juan no pretende una identificación absoluta, sino una afirmación de naturaleza.”**
-## Si la idea es acaso presentar que El logos  es Dios en un sentido distinto de identidad, ¿por qué no lo decimos en los púlpitos abiertamente? . 
+**Esta es la afirmación que exponen:, “La frase θεός  εστιν ο λόγος no busca resolver la ontología (identidad) divina , sino introducir al lector en una comprensión relacional y funcional del Logos. 
+La ausencia del artículo en θεός sugiere que Juan no pretende una identificación absoluta, sino una afirmación de naturaleza.”**  
+Bueno , esto no es cierto para el koiné.  
+## Si la idea es acaso presentar que El logos  es Dios en un sentido distinto de identidad ¿por qué no lo decimos en los púlpitos abiertamente? . 
 
 ## Posturas históricas.
 La Vulgata traduce et Deus erat Verbum,  inclinándose hacia una afirmación fuerte de divinidad.    
-Orígenes ve en λόγος una **existencia relacional**, no una identidad ontológica cerrada  .  
+Orígenes ve en λόγος una **existencia relacional**, no una identidad ontológica cerrada , o sea para el logos no es igual dios  .  
 ### Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.     
 
 *Los  traductores no  afirman abiertamente que *El logos era Dios” sino “el Verbo era divino”.*  
 
 ---
- ## A ver ,     si digo (en koiné): 
-**Ο Σίλας ἦν, Σιλουανός ,[el], Silas era Silvano**  ,   establezco una identidad .  
-En  koiné el artículo EL no se repite en el predicado , y sigue siendo un nombre propio.
-Aunque el supuesto teólogo, en el caso de θεός Dios se rehusa a admitir una identidad.  
-Si dentro de mi modelo expreso :
+ ## A ver ,     si digo , en koiné: ,
+**Ο Σίλας ἦν, Σιλουανός ,[el], Silas era, Silvano**  ,   establezco una identidad . Silas = Silvano.   
+En  koiné el artículo ÉL no se repite en el predicado , y sigue siendo un nombre propio. 
+Aunque el supuesto teólogo, en el caso de θεός Dios,  se rehusa a admitir una identidad.  
+Si dentro de mi modelo expreso :,
 **Ο Λόγος εστιν Θεός**. El Verbo era Dios , ambos son nombres propios entonces SI establezco una identidad .  
 *Pero con mi viejo concepto: ¿Cómo podría ser **Logos = Dios** y **“El Padre= Dios”**?*.
+En otras palabras si digo:, **L = D**  y  **P = D** , entonces estaría diciendo por caracter transitivo que ¿¿**Logos=Padre**??.    
 
 --- 
 ### [Esto es el DILEMA ONTOLÓGICO] ¿Qué hacer?.  
 ¿que ocurre cuando los modelos no cierran?.  
 La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
 ---
-## Bajemos un cambio :
+## Bajemos un cambio :,
 **PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS**.  
 Volvamos al texto bíblico:
 Hebreos 1:3 dice que el Hijo es **“el resplandor de su gloria y la imagen misma de su sustancia”** (χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ) ,sustancia como lo que subyace o subsiste .  
@@ -39,18 +42,23 @@ En el contexto hebreo, kabod (gloria) habla de Dios sin definir su esencia (ου
 Sin entrar en detalles hemos definido la trilogía sin necesidad de divisiones . 
 *Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia*.  
 ## Aquí viene la propuesta:
-Vacía tu vocabulario de expresiones extrabíblicas como : existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
+Vacía tu vocabulario de expresiones extrabíblicas derivadas de la filosofía como : existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
+Muchos términos proviene de la época patrística. que alteró o inventó el significado de palabras griegas y otras que hoy heredamos del latín , algunas también inventadas para definiciones teológicas.  
+Bueno , **o nos movemos en un entorno griego o en uno latino**.  
 ## Paso 1 : Vaciar el LÉXICO HEREDADO.  
 **Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:** 
 
-*Persona , en el sentido latino de representación , o hypostasis en el sentido niceno de sustancia , prosopon = apariencia).*  
+*Persona , en el sentido latino de representación , o hypostasis como equivalente a persona.*  
 Identidad.  
 Ontología .  
 Relacionalidad.  
 Esencia del griego *ουσια* o  Naturaleza (no fisis:φυσις como en Santiago 3:7).   
 Substancia como ουσια (Aristóteles en sustancia primera y sustancia segunda).  
-*No porque sean inútiles, sino porque han condicionado la lectura más allá del texto*.    
+*No porque sean inútiles, sino porque han condicionado la lectura más allá del texto bíblico*.  
 
+
+*-hypostasis =suyacente,fundación o subestructura.
+-prosopon similar a persona en latín.*  
 ## Paso 2 : Recuperar LÉXICO BIBLICO 
 Hebreo y Griego  
 Kabod  δοξα:Doxa =Gloria . 
@@ -62,8 +70,8 @@ Tzelem  χαρακτήρ:Karacter=Imagen,
 dabar Λόγος:Logos=Palabra , 
     como Expresión .   
 
-Salmo 33:6: "Por la palabra (dabar) del Señor fueron hechos los cielos, y todo el ejército de ellos por el aliento de su boca."
-Jn 1:3: “Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho”.  
+Salmo 33: 6: "Por la palabra (dabar) del Señor fueron hechos los cielos, y todo el ejército de ellos por el aliento de su boca."
+Juan 1: 3: “Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho”.  
 ## Este modelo no Fragmenta.    
 ** Afirmación 1: Dios se manifiesta en su gloria.**  
 En el texto bíblico, Dios no se presenta como una “persona ” en sentido fformal latino o griego de apariencia , **sino como una presencia (kabod)** y su espíritu  actúa (ruaj).    
