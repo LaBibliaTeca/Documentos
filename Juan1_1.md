@@ -52,7 +52,7 @@ Bueno , **o nos movemos en un entorno griego o en uno latino**.
 Identidad.  
 Ontología .  
 Relacionalidad.  
-Esencia del griego *ουσια* o  Naturaleza (no fisis:φυσις como en Santiago 3:7).   
+Esencia del griego *ουσια* o  Naturaleza (no :φυσις como en Santiago 3:7).   
 Substancia como ουσια como define Aristóteles , sustancia primera ,y sustancia segunda).  
 *No porque sean inútiles, sino porque han condicionado la lectura más allá del texto bíblico*.  
 
