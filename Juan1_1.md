@@ -1,5 +1,5 @@
 # Interpretación de Juan 1:1 .  
-[**TOCAR PARA PREGUNTAR AL AUTOR**](Q2g.html) .   
+[**TOCAR PARA PREGUNTAR AL AUTOR**](Qg.html) .   
 **Este ensayo NO intenta tomar posturas Trinitarias o "Anti"  sino limpiar nuestro vocabulario de expresiones extrabiblicas o Filosóficas** .       
 *A pesar que las Iglesias y los comentarios Bíblicos y Exegéticos pretenden explicar como que **el Verbo era Dios**, existe una especie de trastienda donde la explicaciones académicas son otras.*  
 El verbo ser, funciona como el signo  = entre dos nombres o sustantivos , o sea una identidad. 
@@ -27,7 +27,7 @@ Si dentro de mi modelo expreso :,
 En otras palabras si digo:, **Verbo = Dios**  y  **Padre = Dios** , entonces estaría diciendo por caracter transitivo que ¿¿**Logos=Padre**??.    
 
 --- 
-### [Esto es el DILEMA ONTOLÓGICO] , ¿Qué hacer?.  
+### [Esto es el DILEMA ONTOLÓGICO] , , ¿Qué hacer?.  
 ¿que ocurre cuando los modelos no cierran?.  
 La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
 ---
