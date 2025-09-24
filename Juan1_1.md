@@ -1,7 +1,6 @@
-Este no es untexto de catequesis 
 # Interpretación de Juan 1:1 .  
-**Este ensayo NO intenta tomar posturas Trinitarias o "Anti"  sino limpiar nuestro léxico o vocabulario de expresiones extrabiblicas o Filosóficas** .  
-
+[**TOCAR PARA PREGUNTAR AL AUTOR**](Q2g.html) .
+**Este ensayo NO intenta tomar posturas Trinitarias o "Anti"  sino limpiar nuestro léxico o vocabulario de expresiones extrabiblicas o Filosóficas** .       
 *A pesar que las Iglesias y los comentarios Bíblicos y Exegéticos pretenden explicar como que el Verbo era Dios, existe una especie de trastienda donde la explicaciones académicas son otras.* 
 
 **Esta es la afirmación que exponen: “La frase θεός  εστιν ο λόγος no busca resolver la ontología (identidad) divina , sino introducir al lector en una comprensión relacional y funcional del Logos. 
