@@ -18,13 +18,13 @@ Orígenes ve en λόγος una **existencia relacional**, no una identidad ontol
 
 ---
  ## A ver ,     si digo , en koiné: ,
-**Ο Σίλας ἦν, Σιλουανός ,[el], Silas era, Silvano**  ,   establezco una identidad . Silas = Silvano.   
+**O Σίλας ἦν, Σιλουανός ,[el], Silas era, Silvano**  ,   establezco una identidad . Silas = Silvano.   
 En  koiné el artículo ÉL no se repite en el predicado , y sigue siendo un nombre propio. 
 Aunque el supuesto teólogo, en el caso de θεός Dios,  se rehusa a admitir una identidad.  
 Si dentro de mi modelo expreso :,
-**Ο Λόγος εστιν Θεός**. El Verbo era Dios , ambos son nombres propios entonces SI establezco una identidad .  
+**O Λόγος εστιν Θεός**. El Verbo era Dios , ambos son nombres propios entonces SI establezco una identidad .  
 *Pero con mi viejo concepto: ¿Cómo podría ser **Logos = Dios** y **“El Padre= Dios”**?*.
-En otras palabras si digo:, **L = D**  y  **P = D** , entonces estaría diciendo por caracter transitivo que ¿¿**Logos=Padre**??.    
+En otras palabras si digo:, **Verbo = Dios**  y  **Padre = Dios** , entonces estaría diciendo por caracter transitivo que ¿¿**Logos=Padre**??.    
 
 --- 
 ### [Esto es el DILEMA ONTOLÓGICO] ¿Qué hacer?.  
