@@ -73,19 +73,19 @@ dabar Λόγος:Logos=Palabra ,
 Salmo 33: 6: "Por la palabra (dabar) del Señor fueron hechos los cielos, y todo el ejército de ellos por el aliento de su boca."
 Juan 1: 3: “Todas las cosas por él fueron hechas, y sin él nada de lo que ha sido hecho, fue hecho”.  
 ## Este modelo no Fragmenta.    
-** Afirmación 1: Dios se manifiesta en su gloria.**  
+** Afirmación 1:. Dios se manifiesta en su gloria.**  
 En el texto bíblico, Dios no se presenta como una “persona ” en sentido fformal latino o griego de apariencia , **sino como una presencia (kabod)** y su espíritu  actúa (ruaj).    
-** Afirmación 2: El Logos no es otro (Dios), sino expresión de Dios**.  
+** Afirmación 2:, El Logos no es otro (Dios), sino expresión de Dios**.  
 El Logos es la expresión plena de Dios.  
  Como χαρακτήρ imagen  (kharaktēr) (Heb 1:3), es el sello de lo que Dios es, sin ser otro.  
-** Afirmación 3: La imagen no es una parte , es su revelación**.   
+** Afirmación 3:, La imagen no es una parte , es su revelación**.   
 El tzelem צֶלֶם (imagen en griego : χαρακτήρ (kharaktēr) Heb 1:3) no separa a Dios de su manifestación, sino que permite que lo invisible se vuelva visible sin perder unidad.  
-** Afirmación 4: La gloria no es una parte**.  
+** Afirmación 4:, La gloria no es una parte**.  
 La kabod (gloria) no es una parte de Dios, sino su impacto perceptible. El Logos es esa gloria 'hecha' palabra.   
 
 ## El Texto permite distinguir tres actores o  tres sujetos que ejecutan acciones independientemente. 
 Eso es lo que nosotros decimos en nuestra jerga : Personas como si fueran individuos pero en latín y griego koiné significa "apariencia" , "representación".  
-Ahora bien ,distinguimos en  1Co 12:4-6: “.....  hay diversidad de dones, pero el **Espíritu** es el mismo. Y hay diversidad de ministerios, pero el **Señor** es el mismo. Y hay diversidad de operaciones, pero **Dios**, que hace todas las cosas en todos, es el mismo”.   
+Ahora bien ,distinguimos en  1Corintios 12:4-6: “.....  hay diversidad de dones, pero el **Espíritu** es el mismo. Y hay diversidad de ministerios, pero el **Señor** es el mismo. Y hay diversidad de operaciones, pero **Dios**, que hace todas las cosas en todos, es el mismo”.   
 
 Pero tenemos que reconocer que al introducir la palabra latina PERSONA le damos un sentido de Rol o Representación y que Tertuliano que incorpora el término en su libro Adversus Práxeas NO la redefinío como individuo  y  **es una palabra extrabíblica** , puedo usarla en español como una actor pero el sentido latino es otro.      
 Para mantener la linea de nuestro MDELO, debemos mantener fuera **CONCEPTOS EXTRAÑOS AL TEXTO**. 
