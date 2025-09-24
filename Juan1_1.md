@@ -43,7 +43,7 @@ Sin entrar en detalles hemos definido la trilogía sin necesidad de divisiones .
 *Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia*.  
 ## Aquí viene la propuesta:
 Vacía tu vocabulario de expresiones extrabíblicas derivadas de la filosofía como : existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
-Muchos términos proviene de la época patrística. que alteró o inventó el significado de palabras griegas y otras que hoy heredamos del latín , algunas también inventadas para definiciones teológicas.  
+Muchos términos provienen de la época patrística. que alteró o inventó el significado de palabras griegas y otras que hoy heredamos del latín , algunas también inventadas para definiciones teológicas.  
 Bueno , **o nos movemos en un entorno griego o en uno latino**.  
 ## Paso 1 : Vaciar el LÉXICO HEREDADO.  
 **Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:** .  
