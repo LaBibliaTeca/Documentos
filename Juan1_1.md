@@ -89,14 +89,14 @@ Eso es lo que nosotros decimos en nuestra jerga : Personas como si fueran indivi
 Ahora bien ,distinguimos en  1Corintios 12:4-6: “.....  hay diversidad de dones, pero el **Espíritu** es el mismo. Y hay diversidad de ministerios, pero el **Señor** es el mismo. Y hay diversidad de operaciones, pero **Dios**, que hace todas las cosas en todos, es el mismo”.   
 
 Pero tenemos que reconocer que al introducir la palabra latina PERSONA le damos un sentido de Rol o Representación, y que Tertuliano que incorpora el término en su libro Adversus Práxeas, NO la redefinío como individuo  y  **es una palabra extrabíblica** , puedo usarla en español como una actor pero el sentido latino es otro.      
-Para mantener la linea de nuestro MDELO, debemos mantener fuera **CONCEPTOS EXTRAÑOS AL TEXTO**. 
+Para mantener la linea de nuestro **modelo**, debemos mantener fuera **CONCEPTOS EXTRAÑOS AL TEXTO**. 
 Preconcepto : “Persona” en Latín (Tertuliano) /”Hipostasis” en griego( usado para definir persona No subyacencia- Concilio de Nicea ).   
 Problema:  Introduce división del ser (ontológica) no presente en el texto . 
 Esto comprometió la afirmación del Logos, olvidando la unión de Juan 10 30 (El Padre y Yo ...).  
-Preconcepto : Esencia/subtancia οὐσία (ousía). Concilio  de Nicea.  
-Problema: Impone Categorías Aristotélicas como si fueran capas ontológicas : Sustancia + Atributos.    
-**Ontología Trinitaria**, este concepto NO es el mismo que lo que plantea Justino 1ra Apología cap 6: **”a Él, y al Hijo (que salió de Él y nos enseñó estas cosas, y al Espíritu profético, los adoramos y los conocemos en razón y verdad”**, sino que incluye el **concepto de “persona como representación”** que incorpora por ejemplo Tertuliano (210dc) que no significa lo mismo que en español .
-**Relacionalidad filosófica :** Este concepto se sumó al anterior para justificar “la unidad” ,en lugar de aceptar “la manifestación como una unidad”, (repitiendo la definición que se menciona :,”la expresión el verbo era dios es relacional, no ontológica, es decir el verbo era divino”).
+Preconcepto :, Esencia/subtancia οὐσία (ousía). Concilio  de Nicea.  
+Problema:, Impone Categorías Aristotélicas como si fueran capas ontológicas : Sustancia + Atributos.    
+**Ontología Trinitaria**, este concepto NO es el mismo que lo que plantea Justino 1ra Apología capítulo 6: **”a Él, y al Hijo (que salió de Él y nos enseñó estas cosas, y al Espíritu profético, los adoramos y los conocemos en razón y verdad”**, sino que incluye el **concepto de “persona como representación”** que del que habla Tertuliano (210dc) ,y no como en español que se refiere a individuo.
+**Relacionalidad filosófica :,** Este concepto se sumó al anterior para justificar “la unidad” ,en lugar de aceptar “la manifestación como una unidad”. 
 
 Bibliografía:
 Textos griegos y hebreos bíblicos.
