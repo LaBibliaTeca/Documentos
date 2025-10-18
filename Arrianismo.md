@@ -45,7 +45,7 @@ Como condiscípulo en la escuela de Luciano y como hombre verdaderamente
 piadoso que eres, no olvides nuestros sufrimientos. **Fin.**
 \
 ## Las acusaciones de Atanasio Diácono en Alejandría (319 dc) sobre "la Thalia ,(himno o poema que presenta teología,)" de Arrio .
-(No se conserva una versión de Arrio, así que ésta puede estar sesgada):.*\
+"la Thalia".(No se conserva una versión de Arrio, así que ésta puede estar sesgada):.*\
 \
 **Atanasio enuncia su crítica al siguiente \"poema\" de Arrio.**. 
  El que no tiene comienzo hizo al Hijo, comienzo de las cosas
