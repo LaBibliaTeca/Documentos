@@ -13,7 +13,7 @@ bíblica??!!)\*
 
 ¿Por qué “trinitarismo” no basta en griego?
 El término Trinitas es latino, con raíces en la lógica jurídica y numérica: tres “personae” en una “substantia”. 
-En cambio, **Atanasio y los teólogos griegos**del siglo 4, no partían de una lógica numérica ni jurídica, sino de una coexistencia (ontología) relacional y una interpretación bíblica . 
+En cambio, **Atanasio y los teólogos griegos del siglo 4**, no partían de una lógica numérica ni jurídica, sino de una coexistencia (ontología) relacional y una interpretación bíblica . 
 Para Atanasio, el Hijo es génito (engendrado) del Padre, no por decisión ni por subordinación, sino por participación en su existencia plena: ὁμοούσιος (igual escencia) . 
 El Espíritu Santo es “de Dios” (ἐκ Θεοῦ), no como tercero añadido, sino como expresión relacional del ser divino. 
 
