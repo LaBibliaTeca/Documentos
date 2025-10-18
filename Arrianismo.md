@@ -1,7 +1,7 @@
 **LaBibliateca.GIT. De Gustavo Uliarte.**
 ## Las locuras del Arrianismo.
 
-*Lenguaje dificil ,para entender algunas expresiones*. 
+*Lenguaje dificil de entender en algunas expresiones*. 
 
 ::: 
 **Comentario:** Observen el extraño concepto de los "trinitarios" de
