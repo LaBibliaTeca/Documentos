@@ -9,8 +9,8 @@ Alejandría o más bien en términos griegos ,*Teología de las Trias*:."El
 Hijo está siendo siempre engendrado ...".(Dónde estará la cita
 bíblica??!!)\*
 :::   
-> Aunque se denomina al pensamiento alejandrino del siglo 4 como **Trinitario**
-en términos griegos, esto no es exacto . Trinidad y Persona son conceptos latinos
+### Aunque se denomina al pensamiento alejandrino del siglo 4 como **Trinitario**\
+\en términos griegos, esto no es exacto . Trinidad y Persona son conceptos latinos
 que difieren del concepto griego del concilio de Nicea.
 
 ¿Por qué “trinitarismo” no basta en griego?
