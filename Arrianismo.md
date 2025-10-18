@@ -94,6 +94,7 @@ hermano y Atanasio vuelve en el 346 dc , Cuando Constancio 2 muere
 Atanasio vuelve a ser perseguido. En ese período , ambas facciones
 :ortodoxas y arrianas , se valían de imposiciones , persecuciones y
 tácticas por influencias políticas para consolidar posiciones .  
+
 **Nota :** *la afirmación del "engendramiento" perpetuo, (usando: "el
 Hijo que está en el seno del Padre") es una extrapolación que aleja
 conclusión de la premisa bíblica, transformándola en un postulado ([ver
