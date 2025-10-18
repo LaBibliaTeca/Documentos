@@ -13,13 +13,13 @@ bíblica??!!)\*
 
 ¿Por qué “trinitarismo” no basta en griego?
 El término Trinitas es latino, con raíces en la lógica jurídica y numérica: tres “personae” en una “substantia”. 
-En cambio, Atanasio y los teólogos griegos no partían de una lógica numérica ni jurídica, sino de una ontología relacional y una exégesis bíblica simbólica. 
-Para Atanasio, el Hijo es génito del Padre, no por decisión ni por subordinación, sino por participación ontológica plena: ὁμοούσιος. 
+En cambio, Atanasio y los teólogos griegos no partían de una lógica numérica ni jurídica, sino de una coexistencia (ontología) relacional y una interpretación bíblica simbólica. 
+Para Atanasio, el Hijo es génito (engendrado) del Padre, no por decisión ni por subordinación, sino por participación en su existencia plena: ὁμοούσιος (igual escencia) . 
 El Espíritu Santo es “de Dios” (ἐκ Θεοῦ), no como tercero añadido, sino como expresión relacional del ser divino. 
 
-Atanasio no usa persona ni substantia en sentido latino. Su lenguaje es bíblico y ontológico: el Hijo es luz de luz, Dios verdadero de Dios verdadero.
-Su defensa del homoousios no implica tres “individuos”, sino una única fuente divina que se expresa en tres modos subsistentes.
-
+Atanasio no usa persona  **substantia** en sentido latino. Su lenguaje es bíblico y **ontológico** (sobre la existencia): el Hijo es **luz de luz, Dios verdadero de Dios verdadero** ,(ver el credo del concilio de Nicea de siglo 4).
+Su defensa del homoousios (igual escencia) no implica tres “individuos”, sino una única fuente divina que se expresa en tres modos subsistentes (hipostasis).
+[ver Credo de Nicea](https://labibliateca.github.io/main/principal.html?texto=https://labibliateca.github.io/Documentos/credo.html)
 
 ### El Arrianismo según Arrio.
 
