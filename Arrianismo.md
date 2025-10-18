@@ -4,7 +4,7 @@
 *Lenguaje dificil de entender en algunas expresiones*. 
 
 
-##### Aunque se denomina al pensamiento alejandrino del siglo 4 como "Trinitario", en términos griegos, esto no es exacto . Trinitas y tres Personae(representación) en una substantia son conceptos latinos, que difieren del concepto griego del concilio de Nicea  .En términos griegos sería "Teología de las Trias (conjunto de tres).
+##### Aunque se denomina al pensamiento alejandrino del siglo 4 como "Trinitario", en términos griegos, esto no es exacto . Trinitas y tres Personae(representación) en una substantia son conceptos latinos, que difieren del concepto griego del concilio de Nicea  .En términos griegos sería "Teología de las Trias" (conjunto de tres).
 
 ¿Por qué “trinitarismo” no basta en griego?
 
