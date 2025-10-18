@@ -95,8 +95,7 @@ Atanasio vuelve a ser perseguido. En ese período , ambas facciones
 :ortodoxas y arrianas , se valían de imposiciones , persecuciones y
 tácticas por influencias políticas para consolidar posiciones .  
 
-**Nota :** *la afirmación del "engendramiento" perpetuo, (usando: "el
-Hijo que está en el seno del Padre") es una extrapolación que aleja
+**Nota :** *la afirmación del "engendramiento" perpetuo, es una extrapolación que aleja la
 conclusión de la premisa bíblica, transformándola en un postulado ([ver
 Postulados](https://labibliateca.github.io/main/principal.html?texto=Declaracion.html). 
  "Si alguien está siendo gestado perpetuamente,
