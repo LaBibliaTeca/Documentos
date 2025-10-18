@@ -8,13 +8,13 @@
 
 ¿Por qué “trinitarismo” no basta en griego?
 
-**Atanasio y los teólogos griegos del siglo 4**, no partían de una lógica numérica ni jurídica, sino de una coexistencia  relacional y una interpretación bíblica . 
+**Atanasio y los teólogos griegos del siglo 4**, no partían de una lógica numérica ni jurídica, sino de una coexistencia   y una interpretación bíblica . 
 Para Atanasio, el Hijo es engendrado del Padre (,ver **Nota 2**), no por decisión ni por subordinación, sino por participación en su existencia plena: ὁμοούσιος (misma escencia) . 
 El Espíritu Santo es “de Dios” (ἐκ Θεοῦ). 
 
 Atanasio no usa persona  **substantia** en sentido latino. Su lenguaje es bíblico y **ontológico** (sobre la existencia): el Hijo es **luz de luz, Dios verdadero de Dios verdadero** ,(ver el credo del concilio de Nicea de siglo 4).   
-Su defensa en griego es  **1  escencia (homoousios )  3  subsistencias (hipostasis)** , hoy en día decimos "personas" pero en latín no es lo mismo).  
-**Nota** : Distinto del "sabelismo" del siglo 3 que afirma una sola hipostasis, donde el hijo y el espíritu no existen sino como "modalidades".
+Su defensa en griego es  **1  escencia (homoousios )  3  subsistencias (hipostasis)** .  
+**Nota** : Distinto del "sabelismo" del siglo 3 que afirma una sola hipostasis.
 [ver Credo de Nicea](https://labibliateca.github.io/main/principal.html?texto=https://labibliateca.github.io/Documentos/credo.html)
 
 ### El Arrianismo según Arrio.
