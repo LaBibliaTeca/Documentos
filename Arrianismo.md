@@ -4,7 +4,7 @@
 *Lenguaje dificil ,para entender algunas expresiones*. 
 
 ::: 
-**Comentario:** Observen el extraño concepto de los trinitarios de
+**Comentario:** Observen el extraño concepto de los "trinitarios" de
 Alejandría o más bien en términos griegos ,*Teología de las Trias*:."El
 Hijo está siendo siempre engendrado ...".(Dónde estará la cita
 bíblica??!!)\*
@@ -13,7 +13,7 @@ bíblica??!!)\*
 
 ¿Por qué “trinitarismo” no basta en griego?
 El término Trinitas es latino, con raíces en la lógica jurídica y numérica: tres “personae” en una “substantia”. 
-En cambio, Atanasio y los teólogos griegos no partían de una lógica numérica ni jurídica, sino de una coexistencia (ontología) relacional y una interpretación bíblica . 
+En cambio, **Atanasio y los teólogos griegos** no partían de una lógica numérica ni jurídica, sino de una coexistencia (ontología) relacional y una interpretación bíblica . 
 Para Atanasio, el Hijo es génito (engendrado) del Padre, no por decisión ni por subordinación, sino por participación en su existencia plena: ὁμοούσιος (igual escencia) . 
 El Espíritu Santo es “de Dios” (ἐκ Θεοῦ), no como tercero añadido, sino como expresión relacional del ser divino. 
 
@@ -100,9 +100,9 @@ Postulados](https://labibliateca.github.io/main/principal.html?texto=Declaracion
  "Si alguien está siendo gestado perpetuamente,
 nunca terminó de gestar". Este tipo de afirmaciones empezaron con
 "Orígenes de Alejandría" (siglo 3) para contrarrestar las ideas pre-
-Arrianistas.Un posición de entender una gestación (ser engendrado) antes
+Arrianistas.Una forma de entender una gestación (ser engendrado) antes
 de la venida en carne , usa el Salmo 2:.7 como un relato y no como una
 profecía. " Él es la imagen del Dios invisible (Colosenses 1:.5)" , "Mas
 del hijo dice: Tu trono oh Dios , por los siglos de los siglos (Hebreos
-1:8)". "En la Bibliateca también : Carta de Eusebio de Cesarea desde
-Nicea a su Iglesia en Cesarea."*
+1:8)". "En la Bibliateca también : [Carta de Eusebio de Cesarea desde
+Nicea a su Iglesia en Cesarea](https://labibliateca.github.io/main/principal.html?texto=EusebioLetter.html)."*
