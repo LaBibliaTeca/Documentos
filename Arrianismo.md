@@ -1,6 +1,6 @@
-**LaBibliateca.GIT. De Gustavo Uliarte.**\
+**LaBibliateca.GIT. De Gustavo Uliarte.**
 ## Las locuras del Arrianismo.
-\
+
 *Lenguaje dificil ,para entender algunas expresiones*. 
 
 ::: 
@@ -23,10 +23,9 @@ Atanasio no usa persona ni substantia en sentido latino. Su lenguaje es bíblico
 Su defensa del homoousios no implica tres “individuos”, sino una única fuente divina que se expresa en tres modos subsistentes.
 
 
-### El Arrianismo según Arrio.\
-\
-\
-**La Carta de Arrio al Obispo de Nicodemia,Bitinia.**\
+### El Arrianismo según Arrio.
+
+**La Carta de Arrio al Obispo de Nicodemia,Bitinia.**
 "Arrio, injustamente perseguido por el obispo Alejandro a causa de
 aquella verdad, victoriosa en todos los respectos, que tú mismo
 profesaste, envía sus saludos en el Señor a su queridísimo señor, hombre
@@ -44,13 +43,13 @@ esto nos persiguen; y, asimismo, porque decimos que es de la nada. Y
 esto lo decimos porque Él no es ni parte de Dios ni (está hecho) de otra
 materia subyacente. Por esto nos persiguen; lo demás ya lo sabes. Adiós.
 Como condiscípulo en la escuela de Luciano y como hombre verdaderamente
-piadoso que eres, no olvides nuestros sufrimientos. **Fin.**\
+piadoso que eres, no olvides nuestros sufrimientos. **Fin.**
 \
 ## Las acusaciones de Atanasio Diácono en Alejandría (319 dc) sobre "la Thalia ,(himno o poema que presenta teología,)" de Arrio .
 (No se conserva una versión de Arrio, así que ésta puede estar sesgada):.*\
 \
-**Atanasio enuncia su crítica al siguiente \"poema\" de Arrio.**\
-... El que no tiene comienzo hizo al Hijo, comienzo de las cosas
+**Atanasio enuncia su crítica al siguiente \"poema\" de Arrio.**. 
+ El que no tiene comienzo hizo al Hijo, comienzo de las cosas
 creadas, y se lo ofreció a Sí mismo como Hijo y lo adoptó. Nada tiene
 propio de Dios según su propia subsistencia, ya que no es igual ni
 consubstancial con Él... Hay pruebas evidentes de que Dios es invisible
@@ -81,24 +80,22 @@ Hijo, existió en realidad por voluntad del Padre. ¿Qué argumento hay
 para afirmar que quien procede del Padre no pueda conocer a su propio
 padre por comprensión? Porque es evidente que uno que haya tenido
 comienzo no puede entender o comprender, tal como es, al que no tuvo
-principio . **fin** , , ,\
-\
-**\
-Nota:** *"El principal motivo por el cual fueron perseguidos los
+principio . **fin**.  
+
+**Nota:** *"El principal motivo por el cual fueron perseguidos los
 cristianos en el siglo 2 y 3 a mano de los romanos, esto es que El
 Cristo es Dios , los Arrianos lo echan por tierra y quizá eran un
-porcentaje considerable de la iglesia de oriente."*\
-\
+porcentaje considerable de la iglesia de oriente."*
+
 SEGÚN LA HISTORIA. El emperador Constantino muere en el 337 dc. Su hijo
 Constancio 2 es Arriano , Atanasio que ya había sido acusado falsamente
-por delitos , en el 335 es depuesto y exiliado varias veces .\
+por delitos , en el 335 es depuesto y exiliado varias veces .
 Constante 2 que tenía a cargo el imperio en occidente presiona a su
 hermano y Atanasio vuelve en el 346 dc , Cuando Constancio 2 muere
 Atanasio vuelve a ser perseguido. En ese período , ambas facciones
 :ortodoxas y arrianas , se valían de imposiciones , persecuciones y
-tácticas por influencias políticas para consolidar posiciones .\
-**\
-\*Nota :** *la afirmación del "engendramiento" perpetuo, (usando: "el
+tácticas por influencias políticas para consolidar posiciones .
+**Nota :** *la afirmación del "engendramiento" perpetuo, (usando: "el
 Hijo que está en el seno del Padre") es una extrapolación que aleja
 conclusión de la premisa bíblica, transformándola en un postulado (ver
 definiciones de lógica). "Si alguien está siendo gestado perpetuamente,
