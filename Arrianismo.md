@@ -4,18 +4,17 @@
 *Lenguaje dificil de entender en algunas expresiones*. 
 
 ::: 
-**Comentario:** Observen el extraño concepto de los "trinitarios" de
-Alejandría o más bien en términos griegos ,*Teología de las Trias*:."El
-Hijo está siendo siempre engendrado ...".(Dónde estará la cita
+**Comentario:** Observen el extraño concepto  de
+Alejandríno :."El Hijo está siendo siempre engendrado ...".(Dónde estará la cita
 bíblica??!!)\*
 :::   
-##### Aunque se denomina al pensamiento alejandrino del siglo 4 como Trinitario, en términos griegos, esto no es exacto . Trinitas y Personae son conceptos latinos, que difieren del concepto griego del concilio de Nicea  .En términos griegos sería "Teología de las Trias (conjunto de tres).
+##### Aunque se denomina al pensamiento alejandrino del siglo 4 como "Trinitario", en términos griegos, esto no es exacto . Trinitas y Personae(representación) son conceptos latinos, que difieren del concepto griego del concilio de Nicea  .En términos griegos sería "Teología de las Trias (conjunto de tres).
 
 ¿Por qué “trinitarismo” no basta en griego?
 El término Trinitas es latino, con raíces en la lógica jurídica y numérica: tres “personae” en una “substantia”. 
-En cambio, **Atanasio y los teólogos griegos del siglo 4**, no partían de una lógica numérica ni jurídica, sino de una coexistencia (ontología) relacional y una interpretación bíblica . 
+En cambio, **Atanasio y los teólogos griegos del siglo 4**, no partían de una lógica numérica ni jurídica, sino de una coexistencia  relacional y una interpretación bíblica . 
 Para Atanasio, el Hijo es engendrado del Padre, no por decisión ni por subordinación, sino por participación en su existencia plena: ὁμοούσιος (igual escencia) . 
-El Espíritu Santo es “de Dios” (ἐκ Θεοῦ), no como tercero añadido, sino como expresión relacional del ser divino. 
+El Espíritu Santo es “de Dios” (ἐκ Θεοῦ). 
 
 Atanasio no usa persona  **substantia** en sentido latino. Su lenguaje es bíblico y **ontológico** (sobre la existencia): el Hijo es **luz de luz, Dios verdadero de Dios verdadero** ,(ver el credo del concilio de Nicea de siglo 4).   
 Su defensa en griego es  **1  escencia (homoousios )  3  subsistencias (hipostasis)** , hoy en día decimos "personas" pero en latín no es lo mismo).  
