@@ -8,7 +8,7 @@
 
 ¿Por qué “trinitarismo” no basta en griego?
 
-En cambio, **Atanasio y los teólogos griegos del siglo 4**, no partían de una lógica numérica ni jurídica, sino de una coexistencia  relacional y una interpretación bíblica . 
+**Atanasio y los teólogos griegos del siglo 4**, no partían de una lógica numérica ni jurídica, sino de una coexistencia  relacional y una interpretación bíblica . 
 Para Atanasio, el Hijo es engendrado del Padre (,ver **Nota 2**, no por decisión ni por subordinación, sino por participación en su existencia plena: ὁμοούσιος (igual escencia) . 
 El Espíritu Santo es “de Dios” (ἐκ Θεοῦ). 
 
