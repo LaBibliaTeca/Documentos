@@ -78,7 +78,7 @@ Hijo, existió en realidad por voluntad del Padre. ¿Qué argumento hay
 para afirmar que quien procede del Padre no pueda conocer a su propio
 padre por comprensión? Porque es evidente que uno que haya tenido
 comienzo no puede entender o comprender, tal como es, al que no tuvo
-principio . **fin**.  
+principio . **fin**.   
 
 **Nota:** *"El principal motivo por el cual fueron perseguidos los
 cristianos en el siglo 2 y 3 a mano de los romanos, esto es que El
@@ -92,11 +92,12 @@ Constante 2 que tenía a cargo el imperio en occidente presiona a su
 hermano y Atanasio vuelve en el 346 dc , Cuando Constancio 2 muere
 Atanasio vuelve a ser perseguido. En ese período , ambas facciones
 :ortodoxas y arrianas , se valían de imposiciones , persecuciones y
-tácticas por influencias políticas para consolidar posiciones .
+tácticas por influencias políticas para consolidar posiciones .  
 **Nota :** *la afirmación del "engendramiento" perpetuo, (usando: "el
 Hijo que está en el seno del Padre") es una extrapolación que aleja
-conclusión de la premisa bíblica, transformándola en un postulado (ver
-definiciones de lógicas). "Si alguien está siendo gestado perpetuamente,
+conclusión de la premisa bíblica, transformándola en un postulado ([ver
+Postulados](https://labibliateca.github.io/main/principal.html?texto=Declaracion.html). 
+ "Si alguien está siendo gestado perpetuamente,
 nunca terminó de gestar". Este tipo de afirmaciones empezaron con
 "Orígenes de Alejandría" (siglo 3) para contrarrestar las ideas pre-
 Arrianistas.Un posición de entender una gestación (ser engendrado) antes
