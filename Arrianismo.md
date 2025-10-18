@@ -9,7 +9,7 @@
 ¿Por qué “trinitarismo” no basta en griego?
 
 En cambio, **Atanasio y los teólogos griegos del siglo 4**, no partían de una lógica numérica ni jurídica, sino de una coexistencia  relacional y una interpretación bíblica . 
-Para Atanasio, el Hijo es engendrado del Padre, no por decisión ni por subordinación, sino por participación en su existencia plena: ὁμοούσιος (igual escencia) . 
+Para Atanasio, el Hijo es engendrado del Padre (,ver **Nota 2**, no por decisión ni por subordinación, sino por participación en su existencia plena: ὁμοούσιος (igual escencia) . 
 El Espíritu Santo es “de Dios” (ἐκ Θεοῦ). 
 
 Atanasio no usa persona  **substantia** en sentido latino. Su lenguaje es bíblico y **ontológico** (sobre la existencia): el Hijo es **luz de luz, Dios verdadero de Dios verdadero** ,(ver el credo del concilio de Nicea de siglo 4).   
@@ -90,7 +90,7 @@ Atanasio vuelve a ser perseguido. En ese período , ambas facciones
 :ortodoxas y arrianas , se valían de imposiciones , persecuciones y
 tácticas por influencias políticas para consolidar posiciones .  
 
-**Nota :** *la afirmación del "engendramiento" perpetuo, es una extrapolación que aleja la
+**Nota 2:** *la afirmación del "engendramiento" perpetuo, es una extrapolación que aleja la
 conclusión de la premisa bíblica, transformándola en un postulado ([ver
 Postulados](https://labibliateca.github.io/main/principal.html?texto=Declaracion.html). 
  "Si alguien está siendo gestado perpetuamente,
