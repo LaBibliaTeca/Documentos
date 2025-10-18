@@ -26,7 +26,7 @@ Su defensa del homoousios no implica tres “individuos”, sino una única fuen
 ### El Arrianismo según Arrio.\
 \
 \
-**La Carta de Arrio al Obipo de Nicodemia,Bitinia.**\
+**La Carta de Arrio al Obispo de Nicodemia,Bitinia.**\
 "Arrio, injustamente perseguido por el obispo Alejandro a causa de
 aquella verdad, victoriosa en todos los respectos, que tú mismo
 profesaste, envía sus saludos en el Señor a su queridísimo señor, hombre
