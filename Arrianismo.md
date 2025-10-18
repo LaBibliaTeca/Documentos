@@ -9,11 +9,11 @@ Alejandría o más bien en términos griegos ,*Teología de las Trias*:."El
 Hijo está siendo siempre engendrado ...".(Dónde estará la cita
 bíblica??!!)\*
 :::   
-##### Aunque se denomina al pensamiento alejandrino del siglo 4 como Trinitario, en términos griegos, esto no es exacto . Trinitas y Personae son conceptos latinos, que difieren del concepto griego del concilio de Nicea.
+##### Aunque se denomina al pensamiento alejandrino del siglo 4 como Trinitario, en términos griegos, esto no es exacto . Trinitas y Personae son conceptos latinos, que difieren del concepto griego del concilio de Nicea.En términos griegos sería "Teología de las Trias (conjunto de tres).
 
 ¿Por qué “trinitarismo” no basta en griego?
 El término Trinitas es latino, con raíces en la lógica jurídica y numérica: tres “personae” en una “substantia”. 
-En cambio, **Atanasio y los teólogos griegos** no partían de una lógica numérica ni jurídica, sino de una coexistencia (ontología) relacional y una interpretación bíblica . 
+En cambio, **Atanasio y los teólogos griegos**del siglo 4, no partían de una lógica numérica ni jurídica, sino de una coexistencia (ontología) relacional y una interpretación bíblica . 
 Para Atanasio, el Hijo es génito (engendrado) del Padre, no por decisión ni por subordinación, sino por participación en su existencia plena: ὁμοούσιος (igual escencia) . 
 El Espíritu Santo es “de Dios” (ἐκ Θεοῦ), no como tercero añadido, sino como expresión relacional del ser divino. 
 
