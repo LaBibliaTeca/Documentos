@@ -15,7 +15,7 @@ El Espíritu Santo es “de Dios” (ἐκ Θεοῦ).
 Atanasio no usa persona  **substantia** en sentido latino. Su lenguaje se arraiga en la Escritura y en la teología de la esencia (ουσια). **El Hijo es engendrado de la misma-esencia del Padre**: luz (nacida) de la luz, Dios verdadero (nacido) de Dios verdadero.,(ver el credo del concilio de Nicea de siglo 4).   
 Su defensa en griego es  **1  misma-esencia (homoousios )  3  subsistencias (hipostasis)** .  
 **Nota** : Distinto del "sabelismo" del siglo 3 que afirma una sola hipostasis.
-[ver Credo de Nicea](https://labibliateca.github.io/main/principal.html?texto=https://labibliateca.github.io/Documentos/credo.html)
+
 
 ### El Arrianismo según Arrio.
 
@@ -91,8 +91,7 @@ Atanasio vuelve a ser perseguido. En ese período , ambas facciones
 tácticas por influencias políticas para consolidar posiciones .  
 
 **Nota 2:** *la afirmación del "engendramiento" perpetuo, es una extrapolación que aleja la
-conclusión de la premisa bíblica, transformándola en un postulado ([ver
-Postulados](https://labibliateca.github.io/main/principal.html?texto=Declaracion.html). 
+conclusión de la premisa bíblica, transformándola en un postulado (ver Postulados).
  "Si alguien está siendo gestado perpetuamente,
 nunca terminó de gestar". Este tipo de afirmaciones empezaron con
 "Orígenes de Alejandría" (siglo 3) para contrarrestar las ideas pre-
@@ -100,5 +99,8 @@ Arrianistas.Una forma de entender una gestación (ser engendrado) antes
 de la venida en carne , usa el Salmo 2:.7 como un relato y no como una
 profecía. " Él es la imagen del Dios invisible (Colosenses 1:.5)" , "Mas
 del hijo dice: Tu trono oh Dios , por los siglos de los siglos (Hebreos
-1:8)". "En la Bibliateca también : [Carta de Eusebio de Cesarea desde
+1:8)". 
+* [ver Credo de Nicea](https://labibliateca.github.io/main/principal.html?texto=https://labibliateca.github.io/Documentos/credo.html) .
+**  [ver Postulados](https://labibliateca.github.io/main/principal.html?texto=Declaracion.html). 
+"En la Bibliateca también : [Carta de Eusebio de Cesarea desde
 Nicea a su Iglesia en Cesarea](https://labibliateca.github.io/main/principal.html?texto=EusebioLetter.html)."*
