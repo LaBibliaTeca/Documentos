@@ -12,7 +12,7 @@
 Para Atanasio, el Hijo es engendrado del Padre (,ver **Nota 2**), no por decisión ni por subordinación, sino por participación en su existencia plena: ὁμοούσιος (misma esencia) . 
 El Espíritu Santo es “de Dios” (ἐκ Θεοῦ). 
 
-Atanasio no usa persona  **substantia** en sentido latino. Su lenguaje es bíblico y **ontológico** (sobre la existencia): el Hijo es **luz de luz, Dios verdadero de Dios verdadero** ,(ver el credo del concilio de Nicea de siglo 4).   
+Atanasio no usa persona  **substantia** en sentido latino. Su lenguaje se arraiga en la Escritura y en la teología de la esencia. **El Hijo es engendrado de la misma-esencia del Padre**: luz nacida de la luz, Dios verdadero nacido de Dios verdadero.,(ver el credo del concilio de Nicea de siglo 4).   
 Su defensa en griego es  **1  misma-esencia (homoousios )  3  subsistencias (hipostasis)** .  
 **Nota** : Distinto del "sabelismo" del siglo 3 que afirma una sola hipostasis.
 [ver Credo de Nicea](https://labibliateca.github.io/main/principal.html?texto=https://labibliateca.github.io/Documentos/credo.html)
