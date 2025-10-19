@@ -101,6 +101,6 @@ profecía. " Él es la imagen del Dios invisible (Colosenses 1:.5)" , "Mas
 del hijo dice: Tu trono oh Dios , por los siglos de los siglos (Hebreos
 1:8)". 
 * [ver Credo de Nicea](https://labibliateca.github.io/main/principal.html?texto=https://labibliateca.github.io/Documentos/credo.html) .
-**  [ver Postulados](https://labibliateca.github.io/main/principal.html?texto=Declaracion.html). 
+**  [ver Postulados](https://labibliateca.github.io/main/principal.html?texto=Declaracion.html).  
 "En la Bibliateca también : [Carta de Eusebio de Cesarea desde
 Nicea a su Iglesia en Cesarea](https://labibliateca.github.io/main/principal.html?texto=EusebioLetter.html)."*
