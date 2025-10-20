@@ -1,11 +1,10 @@
-**ORIGEN DE LA PALABRA OBISPO:**
+**ORIGEN DE LA PALABRA OBISPO:**. 
 
 Podemos rastrear su uso en la versión griega  del Antiguo Testamento
-(SEPTUAGINTA ).\
+(SEPTUAGINTA ).
 Luego buscamos su correspondiente en la versión Hebrea (Masorética).
 
-[*Aviso: tu teléfono o tablet no leerá las palabras en hebreo, tendras
-que leerlas por tí mismo.*]{.underline}
+md
 
 **Aqui están las referencias mas importantes:**
 
