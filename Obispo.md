@@ -113,4 +113,5 @@ Job34:.9. הֵאִיר  עֵינַיִם , Isaías 23:.17. פָּקַד \"paqu�
 
 Para el año 130 Los Obispos ya no eran casados ,probablemente por la crueldad de la persecución romana drante el siglo 2 y 3.  
 El presbiterio deja de ser progresivamente el cuerpo de ancianos respaldado por una familia y pasa a ser  **"sacerdotes"** encomendados que secundan al obispo .  
-Para el siglo 4 en donde el estado interviene en los temas de unidad , los presbíteros y los obispos son cada vez menos nombrados por la iglesias donde gobiernan sino mas bien por influencias muchas veces para evitar competencia. (casos similares :Agustín de Hipona , África y Orígenes de Alejandría a Cesarea). En el siglo 4 Asia y Alejandría queda practicamente perforada por la presencia Arriana.
+Para el siglo 4 en donde el estado interviene en los temas de unidad , los presbíteros y los obispos son cada vez menos nombrados por la iglesias donde gobiernan sino mas bien por influencias muchas veces para evitar competencia. (casos similares :Agustín de Hipona , África y Orígenes de Alejandría a Cesarea). En el siglo 4 Asia y Alejandría queda practicamente perforada por la presencia Arriana.  
+Fin.  
