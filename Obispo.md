@@ -84,8 +84,8 @@ AHORA VAMOS AL NUEVO TESTAMENTO.
 ADMINISTRADOR DE LA CASA DE DIOS.**\
 1Pedro 2:.25  Porque vosotros erais como ovejas descarriadas, pero ahora
 habéis vuelto al Pastor y Obispo de vuestras almas.\
-Referencia del Lexicon:  ἐπίσκοπος (episkopos), ου (ou), ὁ (ho):
-s.masc.;  guardián, supervisor, cuidador (1Pedro 2:.25); 2. líder de la
+Referencia del Lexicon:  ἐπίσκοπος (episkopos),
+;  guardián, supervisor, cuidador (1Pedro 2:.25); 2. líder de la
 iglesia, obispo (Hechos20:.28; Filipenses1:1; 1Timoteo3:2; Tito1:7) 
 Otro caso:, 
 Tito 1:.7  Porque es necesario que el obispo ἐπίσκοπος epískopos sea
