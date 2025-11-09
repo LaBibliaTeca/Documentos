@@ -1,6 +1,5 @@
-# "Qué es un APÓSTOL".
+## "Qué es un APÓSTOL".
 --------------------
-
 ##### *LaBibliateca.GIT. de Gustavo Uliarte.*
 
 Cuando queremos saber el significado de un término en la Biblia, buscamos el pasaje que lo defina... .
