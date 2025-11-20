@@ -19,7 +19,10 @@ primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως**
 Revisemos lo que hasta ahora se traducía por "Con-Ciencia" (no es conciencia moral, sino Con-conocimiento), : **συν** (con**junto**) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
 Armemos todos resumido ;  **la solicitud "A" Dios del conocimiento# bueno por medio de la resurrección de Cristo**.  
 #### 1Pedro 3 :22  : sino (es) la solicitud a Dios del conocimiento bueno por la resurrección de Cristo.   
- 
+
+ La tendencia a traducir :**Apelación a una conciencia buena hacia Dios** es una influencia directa del sentido jurídico de la vulgata latina:
+
+ *1Ptr 3:21: "Quod et vos nunc similis formæ salvos fecit baptisma: non carnis depositio sordium, sed **conscientiæ bonæ interrogatio in Deum** per resurrectionem Jesu Christi."*
 Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas allá de las que Pablo haya citado. y **No hay porqué forzar coincidencias**.  
 
 Sobre el tema bautismal para encontrar indicios, se puede ver que en el Nuevo Testamento, que cuando el verbo está en forma activa, la persona es bautizada  en forma "trinitaria" o sea en el nombre del Padre del Hijo y del Espíritu Santo. Pero cuando está el verbo en forma pasiva se relaciona solo con Jesús (revisar morfología griega).  
