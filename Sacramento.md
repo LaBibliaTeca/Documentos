@@ -25,7 +25,7 @@ Armemos todos resumido ;  **la solicitud "A" Dios del buen conocimiento# por med
 #### 1Pedro 3 :22  : sino (es) la solicitud a Dios del buen conocimiento por la resurrección de Cristo.   
 Para Filón de Alejandría , en "Sobre las Leyes especiales " ,**συνειδήσεως**  es  la conciencia intelectual del alma , el conocimiento conciente.  
 
-Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas allá de las que Pablo haya citado. y **No hay porqué forzar coincidencias**.  
+Esta simple interpretación que otros evitaron , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas allá de las que Pablo haya citado. y **No hay porqué forzar coincidencias**.  
 
 Sobre el tema bautismal para encontrar indicios, se puede ver que en el Nuevo Testamento, que cuando el verbo está en forma activa, la persona es bautizada  en forma "trinitaria" o sea en el nombre del Padre del Hijo y del Espíritu Santo. Pero cuando está el verbo en forma pasiva se relaciona solo con Jesús (revisar morfología griega).  
 Si fuera por ese caso, el bautismo es una identificación con Cristo en su muerte y resurrección pero el "bautizador" invocaría la autoridad trinitaria. 
