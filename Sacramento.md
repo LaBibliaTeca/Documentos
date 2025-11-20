@@ -22,8 +22,7 @@ Armemos todos resumido ;  **la solicitud "A" Dios de un limpio co-conocimiento p
 
 ### Para sorpresa nuestra y de muchos hermeneutas: La frase de Pedro no apunta a decir que le demos algo a Dios sino que lo solicitemos con-ciencia por la resurrección de Cristo.   
 
-Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas halla de las que Pablo haya citado. y No hay porqué forzar coherencia.
-
+Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas halla de las que Pablo haya citado. y No hay porqué forzar coincidencias
 Sobre el tema bautismal para encontrar indicios, se puede ver que en el Nuevo Testamento, que cuando el verbo está en forma activa, la persona es bautizada  en forma "trinitaria" o sea en el nombre del Padre del Hijo y del Espíritu Santo. Pero cuando está el verbo en forma pasiva se relaciona solo con Jesús (revisar morfología griega).
 Si fuera por ese caso, el bautismo es una identificación con Cristo en su muerte y resurrección pero el "bautizador" invocaría la autoridad trinitaria. 
 
