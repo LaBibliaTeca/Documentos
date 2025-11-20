@@ -11,12 +11,12 @@ Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una limpia con
 
 ἐπερώτημα es un sustantivo que significa "apelación" , "solicitud", "inquisición", (requerimiento).  
 
-El problema que surge de esta interpretación, es que los teólogos  forzaron una hermeneútica para darle a la palabra el sentido de algo que el nuevo creyente quiera manifestarle a Dios.  Aunque parezca coherente, la frase griega NO SIGNIFICA DARLE A DIOS NADA , Sino por el contrario SOLiCITARLE.  
+El problema que surge de esta interpretación, es que los teólogos  forzaron una hermeneútica para darle a la palabra el sentido de algo que el nuevo creyente quiera manifestarle a Dios.  Aunque parezca coherente, la frase griega NO SiGNIFICA DaRLE A DIOS NADA , Sino por el contrario SOLiCITARLE.  
 
 El término ἐπερώτημα (eperótima) casi no aparece fuera del nuevo testamento y solo una vez dentro. SÍ aparece un verbo επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
 Ahora desarmemos toda la frase:.  
-primera Pedro 3 21  ἀλλὰ (sin embargo),  συνειδήσεως ([de]conocimiento conjunto), ἀγαθῆς([de]bueno), ἐπερώτημα (solicitud), εἰς(a:preposición de dirección),  Θεόν(Dios), δι᾽(por medio)  ἀναστάσεως Ἰησοῦ Χριστοῦ( de la resurrección de Jesucristo),"   .  
-### NO CONCIENCIA MORAL como han traducido  , sino CON-CIENCIA: CONOCiMIENTO CONJuNTO.      
+primera Pedro 3 21 , ἀλλὰ, (sin embargo),  συνειδήσεως ,([de]conocimiento conjunto), ἀγαθῆς, ([de]bueno), ἐπερώτημα, (solicitud), εἰς, (a:preposición de dirección),  Θεόν, (Dios), δι᾽,(por medio)  ἀναστάσεως Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
+### NO CONCIENCIA MORAL como han traducido  , sino CON-CiENCIA: CONOCiMIENTO CONJuNTO.      
 Revisemos lo que hasta ahora se traducía por Con-Ciencia (no conciencia moral sino Con-conocimiento), : συν (con [junto]) ειδή(de οιδα:conocer)  σεως( de σις para sustantivar el verbo) .  
 Armemos todos resumido ;  **la solicitud "A" Dios de un limpio co-conocimiento por medio de la resurrección de Cristo**.  
 
