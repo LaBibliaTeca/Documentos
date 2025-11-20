@@ -11,19 +11,19 @@ Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una limpia con
 
 ἐπερώτημα es un sustantivo que significa "apelación" , "solicitud", "inquisición", (requerir).  
 
-El problema que surge de esta interpretación es que los teólogos  forzaron una hermeneútica para darle a la palabra el sentido de algo que el nuevo creyente quiera manifestarle a Dios, aunque parezca coherente, la frase griega NO SIGNIFICA DARLE A DIOS NADA , Sino por el contrario SOLICITARLE.  
+El problema que surge de esta interpretación es que los teólogos  forzaron una hermeneútica para darle a la palabra el sentido de algo que el nuevo creyente quiera manifestarle a Dios, aunque parezca coherente, la frase griega NO SIGNIFICA DARLE A DIOS NADA , Sino por el contrario SOLiCITARLE.  
 
 El término ἐπερώτημα (eperótima) casi no aparece fuera del nuevo testamento y solo una vez dentro. SÍ aparece un verbo επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
 Ahora desarmemos toda la frase:.  
-primera Pedro 3 21  ἀλλὰ (sin embargo),  συνειδήσεως ([de]conocimiento conjunto) ἀγαθῆς([de]bueno) ἐπερώτημα (solicitud) εἰς(a:preposición de dirección)  Θεόν(Dios), δι᾽(por medio)  ἀναστάσεως Ἰησοῦ Χριστοῦ( de la resurrección de Jesucristo),"   .  
-### NO CONCIENCIA MORAL como han traducido  , sino CON-CIENCIA: CONOCIMIENTO CONJUNTO.    
+primera Pedro 3 21  ἀλλὰ (sin embargo),  συνειδήσεως ([de]conocimiento conjunto), ἀγαθῆς([de]bueno), ἐπερώτημα (solicitud), εἰς(a:preposición de dirección),  Θεόν(Dios), δι᾽(por medio)  ἀναστάσεως Ἰησοῦ Χριστοῦ( de la resurrección de Jesucristo),"   .  
+### NO CONCIENCIA MORAL como han traducido  , sino CON-CIENCIA: CONOCiMIENTO CONJuNTO.      
 Revisemos lo que hasta ahora se traducía por Con-Ciencia (no conciencia moral sino Con-conocimiento), : συν (con [junto]) ειδή(de οιδα:conocer)  σεως( de σις para sustantivar el verbo) .  
-Armemos todos resumido ;  **la solicitud "A" Dios de un limpio co-conocimiento por medio de la resurrección de Cristo**.
+Armemos todos resumido ;  **la solicitud "A" Dios de un limpio co-conocimiento por medio de la resurrección de Cristo**.  
 
 ### Para sorpresa nuestra y de muchos hermeneutas: La frase de Pedro no apunta a decir que le demos algo a Dios sino que lo solicitemos con-ciencia por la resurrección de Cristo.   
 
-Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas halla de las que Pablo haya citado. y No hay porqué forzar coincidencias
-Sobre el tema bautismal para encontrar indicios, se puede ver que en el Nuevo Testamento, que cuando el verbo está en forma activa, la persona es bautizada  en forma "trinitaria" o sea en el nombre del Padre del Hijo y del Espíritu Santo. Pero cuando está el verbo en forma pasiva se relaciona solo con Jesús (revisar morfología griega).
+Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas halla de las que Pablo haya citado. y No hay porqué forzar coincidencias.  
+Sobre el tema bautismal para encontrar indicios, se puede ver que en el Nuevo Testamento, que cuando el verbo está en forma activa, la persona es bautizada  en forma "trinitaria" o sea en el nombre del Padre del Hijo y del Espíritu Santo. Pero cuando está el verbo en forma pasiva se relaciona solo con Jesús (revisar morfología griega).  
 Si fuera por ese caso, el bautismo es una identificación con Cristo en su muerte y resurrección pero el "bautizador" invocaría la autoridad trinitaria. 
 
  fin.
