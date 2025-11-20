@@ -21,8 +21,8 @@ Ahora desarmemos toda la frase:.
 primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως** ,([de]conocimiento conjunto), **ἀγαθῆς**, ([de]bueno), **ἐπερώτημα**, (solicitud), **εἰς**, (a:preposición de dirección),  **Θεόν**,  (Dios),**δι᾽**,(por medio)  **ἀναστάσεως**Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
 ### NO CONCIENCIA MORAL como han traducido  , sino CON-CiENCIA: CONOCiMIENTO (Consciente).   
 Revisemos lo que hasta ahora se traducía por "Con-Ciencia" (no es conciencia moral, sino Con-conocimiento), : **συν** (con**junto**) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
-Armemos todos resumido ;  **la solicitud "A" Dios del conocimiento# bueno por medio de la resurrección de Cristo**.  
-#### 1Pedro 3 :22  : sino (es) la solicitud a Dios del conocimiento bueno por la resurrección de Cristo.   
+Armemos todos resumido ;  **la solicitud "A" Dios del buen conocimiento# por medio de la resurrección de Cristo**.  
+#### 1Pedro 3 :22  : sino (es) la solicitud a Dios del buen conocimiento por la resurrección de Cristo.   
 Para Filón de Alejandría , en "Sobre las Leyes especiales " ,**συνειδήσεως**  es  la conciencia intelectual del alma , el conocimiento conciente.  
 
 Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas allá de las que Pablo haya citado. y **No hay porqué forzar coincidencias**.  
