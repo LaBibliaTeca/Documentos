@@ -4,7 +4,7 @@ La palabra Sacramento proviene de **sacramentus** o juramento , es un término a
 Por supuesto es una palabra que podría ser elástica, ya que alguno podría comprometerse,  o en ese sentido juramentarse para otros actos delante de Dios.  
 No es un término que tenga origen en el griego bíblico , y con el tiempo para pasarlo al griego se utilizó la palabra mysterion (μυστεριον) (hablamos de la época patrística),  para explicar el misterio que implicaba el acto en el compromiso con Dios.  
 O sea el Sacramento pasaba a ser un misterio, y no un juramento como en la Roma militar.  
-La palabra griega orcos (Ὅρκος) para juramento, estaba relacionada con el verbo ὀμνύω , qué es el que cita el Señor Jesús en Mateo 5 34, pero esto no es lo que se usa más adelante, ya que de por sí "jurar" era no recomendado por el Señor si estaba basado sobre garantías celestiales o autoridades celestiales.  
+La palabra griega orcos (Ὅρκος) para juramento, estaba relacionada con el verbo omnio, (ὀμνύω) , qué es el que cita el Señor Jesús en Mateo 5 34, pero esto no es lo que se usa más adelante, ya que de por sí "jurar" era no recomendado por el Señor si estaba basado sobre garantías celestiales o autoridades celestiales.  
 En sí mismo la Biblia no define el bautismo como un Sacramentus .  
 Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una limpia conciencia". En realidad esta palabra es en griego: ἐπερώτημα.  
 .
