@@ -11,7 +11,7 @@ Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una limpia con
 
 ἐπερώτημα es un sustantivo que significa "apelación" , "solicitud", "inquisición", (requerir).  
 
-El problema que surge de esta interpretación es que los teólogos  forzaron una hermeneútica para darle a la palabra el sentido de algo que el nuevo creyente quiera manifestarle a Dios, aunque parezca coherente la frase griega NO SIGNIFICA DARLE A DIOS NADA , Sino por el contrario SOLICITARLE.  
+El problema que surge de esta interpretación es que los teólogos  forzaron una hermeneútica para darle a la palabra el sentido de algo que el nuevo creyente quiera manifestarle a Dios, aunque parezca coherente, la frase griega NO SIGNIFICA DARLE A DIOS NADA , Sino por el contrario SOLICITARLE.  
 
 El término ἐπερώτημα (eperótima) casi no aparece fuera del nuevo testamento y solo una vez dentro. SÍ aparece un verbo επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
 Ahora desarmemos toda la frase:.  
