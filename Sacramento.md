@@ -10,7 +10,11 @@ Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una limpia con
 .
 ἐπερώτημα es un sustantivo que significa "apelación" , "solicitud", "inquisición", (requerimiento).  
 
-El problema que surge de esta interpretación, es que los teólogos  forzaron una hermeneútica para darle a la palabra el sentido de algo que el nuevo creyente quiera manifestarle a Dios.  Aunque parezca coherente, la frase griega NO SiGNIFICA DaRLE A DIOS NADA , Sino por el contrario SOLiCITARLE.  
+ La tendencia a traducir :**Apelación a una conciencia buena hacia Dios** es una influencia directa del sentido jurídico de la vulgata latina:
+
+ *1Ptr 3:21: "Quod et vos nunc similis formæ salvos fecit baptisma: non carnis depositio sordium, sed **conscientiæ bonæ interrogatio in Deum** per resurrectionem Jesu Christi"*.  traduciendo "apelación de una buena conciencia hacia Dios" en lugar de "solicitar a Dios conocimiento conjunto."   
+
+ Aunque parezca coherente, la frase griega NO SiGNIFICA DaRLE A DIOS NADA , Sino por el contrario SOLiCITARLE.  
 
 El término ἐπερώτημα (eperótima) casi no aparece fuera del nuevo testamento y solo una vez dentro. SÍ aparece un verbo eperotao, επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
 Ahora desarmemos toda la frase:.  
@@ -20,10 +24,7 @@ Revisemos lo que hasta ahora se traducía por "Con-Ciencia" (no es conciencia mo
 Armemos todos resumido ;  **la solicitud "A" Dios del conocimiento# bueno por medio de la resurrección de Cristo**.  
 #### 1Pedro 3 :22  : sino (es) la solicitud a Dios del conocimiento bueno por la resurrección de Cristo.   
 
- La tendencia a traducir :**Apelación a una conciencia buena hacia Dios** es una influencia directa del sentido jurídico de la vulgata latina:
 
- *1Ptr 3:21: "Quod et vos nunc similis formæ salvos fecit baptisma: non carnis depositio sordium, sed **conscientiæ bonæ interrogatio in Deum** per resurrectionem Jesu Christi"*.  traduciendo "apelación de una buena conciencia hacia Dios" en lugar de "solicitar a Dios conocimiento conjunto."   
- 
 Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas allá de las que Pablo haya citado. y **No hay porqué forzar coincidencias**.  
 
 Sobre el tema bautismal para encontrar indicios, se puede ver que en el Nuevo Testamento, que cuando el verbo está en forma activa, la persona es bautizada  en forma "trinitaria" o sea en el nombre del Padre del Hijo y del Espíritu Santo. Pero cuando está el verbo en forma pasiva se relaciona solo con Jesús (revisar morfología griega).  
