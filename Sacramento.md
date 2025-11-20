@@ -24,11 +24,6 @@ Armemos todos resumido ;  **la solicitud "A" Dios de un limpio co-conocimiento p
 
 Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas halla de las que Pablo haya citado. y No hay porqué forzar coherencia.
 
-
-
-"El compromiso a una conciencia limpia" 1 Pedro 3 21 , o la **apelación** a una conciencia limpia, dado que la palabra juramento en el sentido griego no era apropiada, siguió entonces por tradición la palabra Sacramento como acto Santo, lo cual en realidad no es el significado original  en latín de juramento militar o civil. 
-Es aceptable la traducción **apelación** a una conciencia limpia o **compromiso** de una conciencia limpia para el que acaba de creer. 
-Entonces, salvando los problemas de traducción que se generan del griego al español ,podríamos optar por **compromiso** o una auto **apelación** ,(a sí mismo?). 
 Sobre el tema bautismal para encontrar indicios, se puede ver que en el Nuevo Testamento, que cuando el verbo está en forma activa, la persona es bautizada  en forma "trinitaria" o sea en el nombre del Padre del Hijo y del Espíritu Santo. Pero cuando está el verbo en forma pasiva se relaciona solo con Jesús (revisar morfología griega).
 Si fuera por ese caso, el bautismo es una identificación con Cristo en su muerte y resurrección pero el "bautizador" invocaría la autoridad trinitaria. 
 
