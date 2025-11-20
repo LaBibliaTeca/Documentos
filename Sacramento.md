@@ -20,7 +20,7 @@ primera Pedro 3 21 , ἀλλὰ, (sin embargo),  συνειδήσεως ,([de]c
 Revisemos lo que hasta ahora se traducía por Con-Ciencia (no conciencia moral sino Con-conocimiento), : συν (con [junto]) ειδή(de οιδα:conocer)  σεως( de σις para sustantivar el verbo) .  
 Armemos todos resumido ;  **la solicitud "A" Dios de un limpio co-conocimiento por medio de la resurrección de Cristo**.  
 
-### Para sorpresa nuestra y de muchos hermeneutas: La frase de Pedro no apunta a decir que le demos algo a Dios sino que lo solicitemos con-ciencia por la resurrección de Cristo.   
+### Para sorpresa nuestra y de muchos hermeneutas: La frase de Pedro no apunta a decir que le demos algo a Dios sino que le solicitemos con-ciencia por la resurrección de Cristo.   
 
 Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas halla de las que Pablo haya citado. y No hay porqué forzar coincidencias.  
 
