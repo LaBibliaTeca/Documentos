@@ -19,7 +19,7 @@ Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una limpia con
 El término ἐπερώτημα (eperótima) casi no aparece fuera del nuevo testamento y solo una vez dentro. SÍ aparece un verbo eperotao, επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
 Ahora desarmemos toda la frase:.  
 primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως** ,([de]conocimiento conjunto), **ἀγαθῆς**, ([de]bueno), **ἐπερώτημα**, (solicitud), **εἰς**, (a:preposición de dirección),  **Θεόν**,  (Dios),**δι᾽**,(por medio)  **ἀναστάσεως**Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
-### NO CONCIENCIA MORAL como han traducido  , sino CON-CiENCIA: CONOCiMIENTO CONJuNTO.      
+### NO CONCIENCIA MORAL como han traducido  , sino CON-CiENCIA: CONOCiMIENTO (Consciente).   
 Revisemos lo que hasta ahora se traducía por "Con-Ciencia" (no es conciencia moral, sino Con-conocimiento), : **συν** (con**junto**) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
 Armemos todos resumido ;  **la solicitud "A" Dios del conocimiento# bueno por medio de la resurrección de Cristo**.  
 #### 1Pedro 3 :22  : sino (es) la solicitud a Dios del conocimiento bueno por la resurrección de Cristo.   
