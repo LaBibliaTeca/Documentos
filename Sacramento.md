@@ -17,8 +17,8 @@ El término ἐπερώτημα (eperótima) casi no aparece fuera del nuevo tes
 Ahora desarmemos toda la frase:.  
 primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως** ,([de]conocimiento conjunto), **ἀγαθῆς**, ([de]bueno), **ἐπερώτημα**, (solicitud), **εἰς**, (a:preposición de dirección),  **Θεόν**,  (Dios),**δι᾽**,(por medio)  **ἀναστάσεως**Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
 ### NO CONCIENCIA MORAL como han traducido  , sino CON-CiENCIA: CONOCiMIENTO CONJuNTO.      
-Revisemos lo que hasta ahora se traducía por Con-Ciencia (no conciencia moral sino Con-conocimiento), : **συν** (con [junto]) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
-Armemos todos resumido ;  **la solicitud "A" Dios de un limpio co-conocimiento por medio de la resurrección de Cristo**.  
+Revisemos lo que hasta ahora se traducía por Con-Ciencia (no conciencia moral sino Con-conocimiento), : **συν** (con**junto**) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
+Armemos todos resumido ;  **la solicitud "A" Dios de un limpio conocimiento# por medio de la resurrección de Cristo**.  
 
 ### Para sorpresa nuestra y de muchos hermeneutas: La frase de Pedro no apunta a decir que le demos algo a Dios sino que le solicitemos con-ciencia por la resurrección de Cristo.   
 
