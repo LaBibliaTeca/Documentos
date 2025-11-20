@@ -9,8 +9,23 @@ En sí mismo la Biblia no define el bautismo como un Sacramentus .
 Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una limpia conciencia". En realidad esta palabra es en griego: ἐπερώτημα.  
 .
 
-ἐπερώτημα significa "preguntar" o "solicitar".  
-El problema que surge de esta interpretación, es que si es "la solicitud de una limpia conciencia", entonces el solicitante es un tercero, que no es el bautizante o bautizado. Por lo cual se tiende a interpretar que la palabra debe ser entendida por **compromiso**, lo que por supuesto está muy lejos de serlo en el sentido etimológico.  
+ἐπερώτημα es un sustantivo que significa "apelación" , "solicitud", "inquisición", (requerir).  
+
+El problema que surge de esta interpretación es que los teólogos  forzaron una hermeneútica para darle a la palabra el sentido de algo que el nuevo creyente quiera manifestarle a Dios, aunque parezca coherente la frase griega NO SIGNIFICA DARLE A DIOS NADA , Sino por el contrario SOLICITARLE.  
+
+El término ἐπερώτημα (eperótima) casi no aparece fuera del nuevo testamento y solo una vez dentro. SÍ aparece un verbo επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
+Ahora desarmemos toda la frase:.  
+primera Pedro 3 21  ἀλλὰ (sin embargo),  συνειδήσεως ([de]conocimiento conjunto) ἀγαθῆς([de]bueno) ἐπερώτημα (solicitud) εἰς(a:preposición de dirección)  Θεόν(Dios), δι᾽(por medio)  ἀναστάσεως Ἰησοῦ Χριστοῦ( de la resurrección de Jesucristo),"   .  
+### NO CONCIENCIA MORAL como han traducido  , sino CON-CIENCIA: CONOCIMIENTO CONJUNTO.    
+Revisemos lo que hasta ahora se traducía por Con-Ciencia (no conciencia moral sino Con-conocimiento), : συν (con [junto]) ειδή(de οιδα:conocer)  σεως( de σις para sustantivar el verbo) .  
+Armemos todos resumido ;  **la solicitud "A" Dios de un limpio co-conocimiento por medio de la resurrección de Cristo**.
+
+### Para sorpresa nuestra y de muchos hermeneutas: La frase de Pedro no apunta a decir que le demos algo a Dios sino que lo solicitamos por la resurrección de Cristo.   
+
+Esta simple interpretación que otros evitaron por usar preconceptos , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas halla de las que Pablo haya citado. y No hay porqué forzar coherencia.
+
+
+
 "El compromiso a una conciencia limpia" 1 Pedro 3 21 , o la **apelación** a una conciencia limpia, dado que la palabra juramento en el sentido griego no era apropiada, siguió entonces por tradición la palabra Sacramento como acto Santo, lo cual en realidad no es el significado original  en latín de juramento militar o civil. 
 Es aceptable la traducción **apelación** a una conciencia limpia o **compromiso** de una conciencia limpia para el que acaba de creer. 
 Entonces, salvando los problemas de traducción que se generan del griego al español ,podríamos optar por **compromiso** o una auto **apelación** ,(a sí mismo?). 
