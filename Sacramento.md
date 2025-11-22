@@ -1,4 +1,5 @@
 ## ¿Es el Bautismo un Sacramento?.  
+### 2da REVISIÓN.  
 ### Siguiendo el texto Griego.  
 La palabra Sacramento proviene de **sacramentus** o juramento , es un término adoptado en la época de Tertuliano, latino hablante de Cartago África de fines del siglo 2dc. , para los actos de compromiso de los creyentes.  
 Por supuesto es una palabra que podría ser elástica, ya que alguno podría comprometerse o juramentarse para otros actos delante de Dios.  
