@@ -6,13 +6,14 @@ No es un término que tenga origen en el griego bíblico , y con el tiempo para 
 O sea, según la patrística, el Sacramento pasaba a ser un misterio, y no un juramento como en la Roma militar.  
 La palabra griega orcos (**Ὅρκος**) para juramento, estaba relacionada con el verbo omnio, (**ὀμνύω**) , qué es el que cita el Señor Jesús en Mateo 5 34, pero esto no es lo que usa el griego de la patrística, de por sí "jurar" era no recomendado por el Señor si estaba basado sobre garantías celestiales o terrenales.  
 En sí misma la Biblia no define el bautismo como un **Sacramentus** .  
-Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una limpia conciencia". En realidad esta palabra es en griego: eperótima,ἐπερώτημα.  
+Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una buena conciencia". En realidad esta palabra es en griego: eperótima,ἐπερώτημα.  
 .
 ἐπερώτημα es un sustantivo que significa "apelación" , "solicitud", "inquisición", (requerimiento).  
 
- La tendencia a traducir :**Apelación a una conciencia buena hacia Dios** es una influencia directa del sentido jurídico de la vulgata latina:
+ La tendencia a traducir :**Apelación a una conciencia buena hacia Dios** es una influencia directa del sentido jurídico de la vulgata latina, **donde Jerónimo hace alusión una "declaración del derecho romano" al que Pedro dificilmente pudiera referir**:.  
 
- *1Ptr 3:21: "Quod et vos nunc similis formæ salvos fecit baptisma: non carnis depositio sordium, sed **conscientiæ bonæ interrogatio in Deum** per resurrectionem Jesu Christi"*.  traduciendo "apelación de una buena conciencia hacia Dios" en lugar de "solicitar a Dios conocimiento conjunto."   
+ *1Ptr 3:21: "Quod et vos nunc similis formæ salvos fecit baptisma: non carnis depositio sordium, sed **conscientiæ bonæ interrogatio in Deum** per resurrectionem Jesu Christi"*.
+ traduciendo "apelación de una buena conciencia hacia Dios" en lugar de "solicitar a Dios conocimiento conjunto."   
 
  Aunque parezca coherente, la frase griega NO SiGNIFICA DaRLE A DIOS NADA , Sino por el contrario SOLiCITARLE.  
 
