@@ -13,7 +13,7 @@ Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una buena conc
 
  La tendencia a traducir :**ASPiRACIÓN a una conciencia buena hacia Dios** es una influencia directa del sentido jurídico de la vulgata latina, **donde Jerónimo hace alusión una "declaración del derecho romano" al que Pedro dificilmente pudiera referir**:.  
 
- *1Petros 3 : 21  : "Quod et vos nunc similis formæ salvos fecit baptisma: non carnis depositio sordium, sed **conscientiæ bonæ interrogatio in Deum** per resurrectionem Jesu Christi"*.
+ *1Petros 3 : 21  : "Quod et vos nunc similis formæ salvos fecit baptisma: non carnis depositio sordium, sed **conscientiæ bonæ interrogatio in Deum** per resurrectionem Jesu Christi"*.  
  traduciendo "apelación de una buena conciencia hacia Dios" en lugar de "solicitar a Dios conocimiento conjunto."   
 
  Aunque parezca coherente, la frase griega NO SiGNIFICA DaRLE A DIOS NADA , Sino por el contrario SOLiCITARLE.  
