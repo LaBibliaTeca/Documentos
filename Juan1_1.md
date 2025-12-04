@@ -7,9 +7,9 @@ El verbo ser, funciona como el signo  = entre dos nombres o sustantivos , o sea 
 **Esta es la afirmación que exponen:, “La frase θεός  εστιν ο λόγος ,(El verbo era Dios) no busca resolver la ontología (identidad) divina , sino introducir al lector en una comprensión relacional y funcional del Logos.  
 La ausencia del artículo en θεός sugiere que Juan no pretende una identificación absoluta, sino una afirmación de naturaleza”** .    
 Bueno , esto no es cierto para el koiné.  
-## Si la idea es acaso presentar que El logos  es Dios en un sentido distinto de identidad ¿por qué no lo decimos en los púlpitos abiertamente? . 
+### Entonces , si la idea seŕa acaso presentar que El logos  es Dios en un sentido "distinto" de identidad ¿por qué no lo decimos en los púlpitos abiertamente? . 
 
-## Posturas históricas.
+### Posturas históricas.
 La Vulgata traduce et Deus erat Verbum,  inclinándose hacia una afirmación fuerte de divinidad.    
 Orígenes ve en λόγος una **existencia relacional**, no una identidad ontológica cerrada , o sea para él, logos no es igual dios  .  
 ### Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.     
@@ -17,8 +17,8 @@ Orígenes ve en λόγος una **existencia relacional**, no una identidad ontol
 *Los  traductores no  afirman abiertamente que *El logos era Dios” sino “el Verbo era divino”.*  
 **No podemos fraccionar el concepto de Dios en cuanto a Cristo por que sabemos Colosenses 2 9  : "Y en en habita toda la plenitud de la Deidad**
 ---
-## El problema de la identidad (ontología).  
- ## A ver ,     si digo , en koiné: ,
+### El problema de la identidad (ontología).  
+ ### A ver ,     si digo , en koiné: ,
 **O Σίλας ἦν, Σιλουανός ,[el], Silas era, Silvano**  ,   establezco una identidad . Silas = Silvano.   
 En  koiné el artículo ÉL no se repite en el predicado , y sigue siendo un nombre propio. 
 Aunque el supuesto teólogo, en el caso de θεός Dios,  se rehusa a admitir una identidad.  
