@@ -16,7 +16,7 @@ Orígenes ve en λόγος una **existencia relacional**, no una identidad ontol
 ---
 
 *Los  traductores no  afirman abiertamente que *El logos era Dios” sino “el Verbo era divino”.*  
-**No podemos fraccionar el concepto de Dios en cuanto a Cristo por que sabemos Colosenses 2 9  : "Y en en habita toda la plenitud de la Deidad**
+**No podemos fraccionar el concepto de Dios en cuanto a Cristo por que sabemos Colosenses 2 9  : "Y en el habita toda la plenitud de la Deidad**
 ---
 ### El problema de la identidad (ontología).  
  ### A ver ,     si digo , en koiné: ,
