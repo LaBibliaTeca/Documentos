@@ -15,8 +15,9 @@ Orígenes ve en λόγος una **existencia relacional**, no una identidad ontol
 ### Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.     
 
 *Los  traductores no  afirman abiertamente que *El logos era Dios” sino “el Verbo era divino”.*  
-
+**No podemos fraccionar el concepto de Dios en cuanto a Cristo por que sabemos Colosenses 2 9  : "Y en en habita toda la plenitud de la Deidad**
 ---
+## El problema de la identidad (ontología).  
  ## A ver ,     si digo , en koiné: ,
 **O Σίλας ἦν, Σιλουανός ,[el], Silas era, Silvano**  ,   establezco una identidad . Silas = Silvano.   
 En  koiné el artículo ÉL no se repite en el predicado , y sigue siendo un nombre propio. 
