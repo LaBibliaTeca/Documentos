@@ -7,6 +7,7 @@ No es un término que tenga origen en el griego bíblico , y con el tiempo para 
 O sea, según la patrística, el Sacramento pasaba a ser un misterio, y no un juramento como en la Roma legal.  
 ### El juramento en griego.  
 La palabra griega orcos (**Ὅρκος**): juramento, estaba relacionada con el verbo omnio, (**ὀμνύω**) , qué es el que cita el Señor Jesús en Mateo 5 34, pero esto no es lo que usa el griego de la patrística, de por sí "jurar" era no recomendado por el Señor si estaba basado sobre garantías celestiales o terrenales.  
+### El Bautismo. 
 En sí misma la Biblia no define el bautismo como un **Sacramentus** .  
 Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una buena conciencia". En realidad esta palabra es en griego: eperótima,ἐπερώτημα.  
 .
