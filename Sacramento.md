@@ -31,7 +31,8 @@ Para Filón de Alejandría , en "Sobre las Leyes especiales " ,**συνειδή
 
 Esta simple interpretación que otros evitaron , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas allá de las que Pablo haya citado. y **No hay porqué forzar coincidencias**.  
 
-Sobre el tema bautismal para encontrar indicios, se puede ver que en el Nuevo Testamento, que cuando el verbo está en forma activa, la persona es bautizada  en forma "trinitaria" o sea en el nombre del Padre del Hijo y del Espíritu Santo. Pero cuando está el verbo en forma pasiva se relaciona solo con Jesús (revisar morfología griega).  
+Sobre el tema bautismal para encontrar indicios, se puede ver que en el Nuevo Testamento, que cuando el verbo está en forma activa (Mateo 28 19, la persona es bautizada  en forma "trinitaria" o sea en el nombre del Padre del Hijo y del Espíritu Santo. 
+Pero cuando está el verbo en forma pasiva se relaciona solo con Jesús , Hechos 8 16,Hechos 10 48, Hechos 19 5,   +Gálatas 3 27 y Romanos 6:3 (Por comparacion con 1 Corintios 1 3 _ εις το ονομα (.  
 Si fuera por ese caso, el bautismo es una identificación con Cristo en su muerte y resurrección pero el "bautizador" invocaría la autoridad trinitaria. 
 
  fin.
