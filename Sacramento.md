@@ -1,28 +1,30 @@
 ## ¿Es el Bautismo un Sacramento?.  
-### 2da REVISIÓN.  
+### 3ra REVISIÓN.  
 ### Siguiendo el texto Griego.  
 La palabra Sacramento proviene de **sacramentus** o juramento , es un término adoptado en la época de Tertuliano, latino hablante de Cartago África de fines del siglo 2dc. , para los actos de compromiso de los creyentes.  
 Por supuesto es una palabra que podría ser elástica, ya que alguno podría comprometerse o juramentarse para otros actos delante de Dios.  
 No es un término que tenga origen en el griego bíblico , y con el tiempo para pasarlo al griego se utilizó la palabra mysterion (μυστεριον) (hablamos de la época patrística),  para explicar el misterio que implicaba el acto en el compromiso con Dios.  
-O sea, según la patrística, el Sacramento pasaba a ser un misterio, y no un juramento como en la Roma militar.  
-La palabra griega orcos (**Ὅρκος**) para juramento, estaba relacionada con el verbo omnio, (**ὀμνύω**) , qué es el que cita el Señor Jesús en Mateo 5 34, pero esto no es lo que usa el griego de la patrística, de por sí "jurar" era no recomendado por el Señor si estaba basado sobre garantías celestiales o terrenales.  
+O sea, según la patrística, el Sacramento pasaba a ser un misterio, y no un juramento como en la Roma legal.  
+### El juramento en griego.  
+La palabra griega orcos (**Ὅρκος**): juramento, estaba relacionada con el verbo omnio, (**ὀμνύω**) , qué es el que cita el Señor Jesús en Mateo 5 34, pero esto no es lo que usa el griego de la patrística, de por sí "jurar" era no recomendado por el Señor si estaba basado sobre garantías celestiales o terrenales.  
 En sí misma la Biblia no define el bautismo como un **Sacramentus** .  
 Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una buena conciencia". En realidad esta palabra es en griego: eperótima,ἐπερώτημα.  
 .
 ἐπερώτημα es un sustantivo que significa "apelación" , "solicitud", "inquisición", (requerimiento).  
 
- La tendencia a traducir :**ASPiRACIÓN a una conciencia buena hacia Dios** es una influencia directa del sentido jurídico de la vulgata latina, **donde Jerónimo hace alusión una "declaración del derecho romano" al que Pedro dificilmente pudiera referir**:.  
+ La tendencia a traducir :**ASPiRACIÓN a una conciencia buena hacia Dios** es una influencia directa del sentido jurídico de la vulgata latina, **donde Jerónimo hace alusión una "declaración del derecho romano" , el "interrogatio" como presentación de una declaración ,al que Pedro dificilmente pudiera referir**:.  
 
  *1Petros 3 : 21  : " sed **conscientiæ bonæ interrogatio in Deum** per resurrectionem Jesu Christi"*.  
- traduciendo "apelación de una buena conciencia hacia Dios" en lugar de "solicitar a Dios conocimiento conjunto."   
+ traduciendo "apelación de una buena conciencia hacia Dios" en lugar de "solicitar a Dios el conocimiento (compartido o conjunto) ."   
 
- Aunque parezca coherente, la frase griega NO SiGNIFICA DaRLE A DIOS NADA , Sino por el contrario SOLiCITARLE.  
-
-El término ἐπερώτημα (eperótima) casi no aparece fuera del nuevo testamento y solo una vez dentro. SÍ aparece un verbo eperotao, επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
+La frase griega NO SiGNIFICA DaRLE A DIOS ALGO , Sino por el contrario SOLiCITARLE.  
+El término ἐπερώτημα (eperótima) casi no aparece **fuera** del nuevo testamento y solo una vez **dentro*. SÍ aparece un verbo **eperotao**  επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
+ ## συνειδήσεως  : el conocimiento común o compartido.  
+ 
 Ahora desarmemos toda la frase:.  
-primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως** ,([de]conocimiento conjunto), **ἀγαθῆς**, ([de]bueno), **ἐπερώτημα**, (solicitud), **εἰς**, (a:preposición de dirección),  **Θεόν**,  (Dios),**δι᾽**,(por medio)  **ἀναστάσεως**Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
+primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως** ,([de]  común conocimiento), **ἀγαθῆς**, ([de]bueno), **ἐπερώτημα**, (solicitud), **εἰς**, (a:preposición de dirección),  **Θεόν**,  (Dios),**δι᾽**,(por medio)  **ἀναστάσεως**Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
 ### NO CONCIENCIA MORAL como han traducido  , sino CON-CiENCIA: CONOCiMIENTO (Consciente).   
-Revisemos lo que hasta ahora se traducía por "Con-Ciencia" (no es conciencia moral, sino Con-conocimiento), : **συν** (con**junto**) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
+Revisemos lo que hasta ahora se traducía por "Con-Ciencia" (no es conciencia moral, sino Común-conocimiento), : **συν** (con**junto**) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
 Armemos todos resumido ;  **la solicitud "A" Dios del buen conocimiento# por medio de la resurrección de Cristo**.  
 #### 1Pedro 3 :22  : sino (es) la solicitud a Dios del buen conocimiento por la resurrección de Cristo.   
 Para Filón de Alejandría , en "Sobre las Leyes especiales " ,**συνειδήσεως**  es  la conciencia intelectual del alma , el conocimiento conciente.  
