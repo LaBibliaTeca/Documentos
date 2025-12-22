@@ -20,7 +20,7 @@ Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una buena conc
 
 La frase griega NO SiGNIFICA DaRLE A DIOS ALGO , Sino por el contrario SOLiCITARLE.  
 El término ἐπερώτημα (eperótima) casi no aparece **fuera** del nuevo testamento y solo una vez **dentro*. SÍ aparece un verbo **eperotao**  επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
- ## συνειδήσεως  : según Filón de Alejandria el conocimiento común o compartido.  
+ ## συνειδήσεως  : según Filón de Alejandria el conocimiento conciente, con-ciencia.  
  
 Ahora desarmemos toda la frase:.  
 primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως** ,([deL]  común conocimiento), **ἀγαθῆς**, ([de]bueno), **ἐπερώτημα**, (solicitud), **εἰς**, (a:preposición de dirección),  **Θεόν**,  (Dios),**δι᾽**,(por medio)  **ἀναστάσεως**Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
