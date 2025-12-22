@@ -20,18 +20,17 @@ Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una buena conc
 
 La frase griega NO SiGNIFICA DaRLE A DIOS ALGO , Sino por el contrario SOLiCITARLE.  
 El término ἐπερώτημα (eperótima) casi no aparece **fuera** del nuevo testamento y solo una vez **dentro*. SÍ aparece un verbo **eperotao**  επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
- ## συνειδήσεως  : el conocimiento común o compartido.  
+ ## συνειδήσεως  : según Filón de Alejandria el conocimiento común o compartido.  
  
 Ahora desarmemos toda la frase:.  
 primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως** ,([deL]  común conocimiento), **ἀγαθῆς**, ([de]bueno), **ἐπερώτημα**, (solicitud), **εἰς**, (a:preposición de dirección),  **Θεόν**,  (Dios),**δι᾽**,(por medio)  **ἀναστάσεως**Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
 ###  CON-CiENCIA: CONOCiMIENTO (Consciente).   
 Revisemos lo que hasta ahora se traducía por "Con-Ciencia"  : **συν** (con**junto**) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
+Para Filón de Alejandría  40 dc. en "Leyes Especiales", **la συνείδησις** es el lugar donde están grabadas las leyes mas altas e invisibles ,**συνειδήσεως**  es  la conciencia intelectual del alma , el conocimiento conciente. 
 Armemos todos resumido ;  **la solicitud "A" Dios del buen conocimiento# por medio de la resurrección de Cristo**.  
 #### 1Pedro 3 :22  : sino (es) la solicitud a Dios del buen conocimiento por la resurrección de Cristo.   
-Para Filón de Alejandría , en "Sobre las Leyes especiales " ,**συνειδήσεως**  es  la conciencia intelectual del alma , el conocimiento conciente.  
 
 Esta simple interpretación que otros evitaron , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas allá de las que Pablo haya citado. y **No hay porqué forzar coincidencias**.  
-
 Sobre el tema bautismal para encontrar indicios, se puede ver que en el Nuevo Testamento, que cuando el verbo está en forma activa (Mateo 28 19, la persona es bautizada  en forma "trinitaria" o sea en el nombre del Padre del Hijo y del Espíritu Santo. 
 Pero cuando está el verbo en forma pasiva se relaciona solo con Jesús , Hechos 8 16,Hechos 10 48, Hechos 19 5,   +Gálatas 3 27 y Romanos 6:3 (Por comparacion con 1 Corintios 1 3 _ εις το ονομα (.  
 Si fuera por ese caso, el bautismo es una identificación con Cristo en su muerte y resurrección pero el "bautizador" invocaría la autoridad trinitaria. 
