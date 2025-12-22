@@ -21,12 +21,13 @@ Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una buena conc
 La frase griega NO SiGNIFICA DaRLE A DIOS ALGO , Sino por el contrario SOLiCITARLE.  
 El término ἐπερώτημα (eperótima) casi no aparece **fuera** del nuevo testamento y solo una vez **dentro*. SÍ aparece un verbo **eperotao**  επερώταω en textos extrabíblicos , algunos legales, antiguos como apelar , solicitar , requerir.  
  ## συνειδήσεως  : según Filón de Alejandria el conocimiento conciente, con-ciencia.  
- 
+ El nuevo testamento menciona 30 veces **συνείδησις**  , tomándo el Nuevo testamento como el universo semántico , la conciencia es un testigo interior , puede ser mala o buena, el recurso que defiende o acusa  son los razonamientos  λογισμος (logismos). Pedro solicita a Dios por el bautismo una buena conciencia o conocimiento interior.  
+ Para Filón de Alejandría  40 dc. en "Leyes Especiales", **la συνείδησις** es el lugar donde están grabadas las leyes mas altas e invisibles ,**συνειδήσεως**  es  la conciencia intelectual del alma , el conocimiento conciente. 
 Ahora desarmemos toda la frase:.  
 primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως** ,([deL]  común conocimiento), **ἀγαθῆς**, ([de]bueno), **ἐπερώτημα**, (solicitud), **εἰς**, (a:preposición de dirección),  **Θεόν**,  (Dios),**δι᾽**,(por medio)  **ἀναστάσεως**Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
 ###  CON-CiENCIA: CONOCiMIENTO (Consciente).   
 Revisemos lo que hasta ahora se traducía por "Con-Ciencia"  : **συν** (con**junto**) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
-Para Filón de Alejandría  40 dc. en "Leyes Especiales", **la συνείδησις** es el lugar donde están grabadas las leyes mas altas e invisibles ,**συνειδήσεως**  es  la conciencia intelectual del alma , el conocimiento conciente. 
+
 Armemos todos resumido ;  **la solicitud "A" Dios del buen conocimiento# por medio de la resurrección de Cristo**.  
 #### 1Pedro 3 :22  : sino (es) la solicitud a Dios del buen conocimiento por la resurrección de Cristo.   
 
