@@ -1,7 +1,7 @@
 ## ¿Esel bautismo un Sacramento?.  
 ### 4ta REVISIÓN.  
 ### Siguiendo el texto Griego.  
-La palabra Sacramento proviene de **sacramentus** o juramento , es un término adoptado en la época de Tertuliano, latino hablante de Cartago África de fines del siglo 2dc. , para los actos de compromiso de los creyentes.  
+La palabra Sacramento proviene de **sacramentum** o juramento , es un término adoptado en la época de Tertuliano, latino hablante de Cartago África de fines del siglo 2dc. , para los actos de compromiso de los creyentes.  
 Por supuesto es una palabra que podría ser elástica, ya que alguno podría comprometerse o juramentarse para otros actos delante de Dios.  
 No es un término que tenga origen en el griego bíblico , y con el tiempo para pasarlo al griego se utilizó la palabra mysterion (μυστεριον) (hablamos de la época patrística),  para explicar el misterio que implicaba el acto en el compromiso con Dios.  
 O sea, según la patrística, el Sacramento pasaba a ser un misterio, y no un juramento como en la Roma legal.  
