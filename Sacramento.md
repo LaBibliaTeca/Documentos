@@ -10,8 +10,7 @@ La palabra griega orcos (**Ὅρκος**): juramento, estaba relacionada con el 
 ### El Bautismo. 
 En sí misma la Biblia no define el bautismo como un **Sacramentum** .  
 Casiodoro de Reina traduce de la carta de Pedro "la aspiración a una buena conciencia". En realidad esta palabra es en griego: eperótima,ἐπερώτημα.  
-.
-ἐπερώτημα es un sustantivo que significa "apelación" , "solicitud", "inquisición", (requerimiento).  
+**ἐπερώτημα** es un sustantivo que significa "apelación" , "solicitud", "inquisición", (requerimiento).  
 
  La tendencia a traducir :**ASPiRACIÓN a una conciencia buena hacia Dios** es una influencia directa del sentido jurídico de la vulgata latina, **donde Jerónimo hace alusión una "declaración del derecho romano" , el "interrogatio" como presentación de una declaración ,al que Pedro dificilmente pudiera referir**:.  
 
