@@ -23,7 +23,7 @@ El término ἐπερώτημα (eperótima) casi no aparece **fuera** del nuevo
  #### El nuevo testamento menciona 30 veces **συνείδησις**  , *tomándo el Nuevo testamento como  universo semántico* , [la conciencia es un testigo interior , puede ser mala o buena], el recurso que defiende o acusa  por medio de los razonamientos  λογισμος (logismos). Pedro solicita a Dios por el bautismo una buena conciencia o conocimiento interior.  
  Para Filón de Alejandría  40 dc. en "Leyes Especiales", **la συνείδησις** es el lugar donde están grabadas las leyes mas altas e invisibles ,**συνειδήσεως**  es  la conciencia intelectual del alma , el conocimiento conciente. 
 Ahora desarmemos toda la frase:.  
-primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως** ,([deL]  común conocimiento), **ἀγαθῆς**, ([de]bueno), **ἐπερώτημα**, (solicitud), **εἰς**, (a:preposición de dirección),  **Θεόν**,  (Dios),**δι᾽**,(por medio)  **ἀναστάσεως**Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
+primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως** ,([deL]  común conocimiento), **ἀγαθῆς**,([de]bueno), **ἐπερώτημα**, (solicitud), **εἰς**, (a:preposición de dirección),  **Θεόν**,  (Dios),**δι᾽**,(por medio)  **ἀναστάσεως**Ἰησοῦ Χριστοῦ , ( de la resurrección de Jesucristo),"   .  
 ###  CON-CiENCIA: CONOCiMIENTO (Consciente).   
 Revisemos lo que hasta ahora se traducía por "Con-Ciencia"  : **συν** (con**junto**) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
 
