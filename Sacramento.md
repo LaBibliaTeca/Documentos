@@ -27,7 +27,7 @@ primera Pedro 3 21 , **ἀλλὰ**, (sin embargo),  **συνειδήσεως**
 ###  CON-CiENCIA: CONOCiMIENTO (Consciente).   
 Revisemos lo que hasta ahora se traducía por "Con-Ciencia"  : **συν** (con**junto**) **ειδή**(de οιδα:conocer)  **σεως**( de σις para sustantivar el verbo) .  
 
-Armemos todos resumido ;  **la solicitud "A" Dios del buen conocimiento# interior o conciencia por medio de la resurrección de JesuCristo**.  
+Armemos todos resumido ;  **la solicitud a Dios del buen conocimiento# interior o conciencia por medio de la resurrección de JesuCristo**.  
 #### 1Pedro 3 :21: sino (es) la solicitud a Dios de buena conciencia por la resurrección de JesuCristo.   
 
 Esta simple interpretación que otros evitaron , no niega nada , sino que muestra la genuina intención de la frase de Pedro mas allá de las que Pablo haya citado. y **No hay porqué forzar coincidencias**.  
