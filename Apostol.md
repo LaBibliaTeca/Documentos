@@ -1,6 +1,6 @@
 ## "Qué es un APÓSTOL". .
 ##### *LaBibliateca.GIT. de Gustavo Uliarte.*
-
+3ra Revisión .
 Cuando queremos saber el significado de un término en la Biblia, buscamos el pasaje que lo defina... .
 *Las palabras no aparecen repentinamente en la Biblia,existen desde antes, así que tendríamos que remontarnos a sus inicios u aparición.*. 
 
@@ -24,8 +24,9 @@ profetas; a otros, evangelistas; a otros, pastores y maestros,.*
 
 *Esta sucesión distributiva no excluyente se forma por una suceción de particulas griegas "los" + μεν + "sustantivo", "los" + δε + "sustantivo" ,"los" + δε + "susteantivo" , etc*.   
 
-### En último lugar en primera Tesalonicenses 2 6 Pablo , Silas y Timoteo se definen como Apóstoles. y Filipense 2 25 reconoce a Epafrodito como Apóstol ( traducido en Reina Valera 1960 como **mensajero**).  
-Y como historicamente los Apóstoles preceden a los demás y en el uso habitual se lo considera un Ministerio, en consecuencia luego de esto no volvería a haber más "Apóstoles
+### En último lugar en primera Tesalonicenses 2 6 Pablo , Silas y Timoteo se definen como Apóstoles. y Filipense 2 25 reconoce a Epafrodito como Apóstol ( traducido en Reina Valera 1960 como **mensajero** pero en el texto griego como **ἀπόστολος***apóstol*).  Estos exceden al número de los 12 . 
+
+Y como historicamente los Apóstoles preceden a los demás y en el uso habitual se lo considera un Ministerio, en consecuencia luego de esto suponemos que no volvería a haber más "Apóstoles
 en la iglesia **NUNCA MÁS**.  
 
 #### *"Quizás este no sea el método de interpretación correcto".*
@@ -35,7 +36,8 @@ El término **ἀπόστολος***apóstol* se define como un enviado ,es un t
 
 Buscando en la historia vemos que Heródoto hace uso de esta palabra aproximadamente 400 AC . Básico , si se usa es porque la palabra "existe").
 
-### Historias, de Heródoto (Ἱστορίαι).
+### La palabra Apóstol preexiste en el griego al uso del nuevo testamento.  
+#### Historias, de Heródoto (Ἱστορίαι).  
 
 *Libro 5 Capítulo 38 Sección 2* .
 
