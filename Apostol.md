@@ -22,13 +22,13 @@ profetas; a otros, evangelistas; a otros, pastores y maestros,.*
 
 ##### En realidad el texto griego dice: ..Y el mismo dió ,por un lado (μεν) los apóstoles , por otro lado (δε) profetas , por otro lado,evangelistas , por otro lado pastores y maestros.
 
-*Esta sucesión distributiva no excluyente se forma por una suceción de particulas griegas "los" + μεν + "sustantivo", "los" + δε + "sustantivo" ,"los" + δε + "susteantivo" , etc*
+*Esta sucesión distributiva no excluyente se forma por una suceción de particulas griegas "los" + μεν + "sustantivo", "los" + δε + "sustantivo" ,"los" + δε + "susteantivo" , etc*.   
 
-#### En último lugar en a Tesalonicenses 2 6 Pablo , Silas y Timoteo se definen como Apóstoles. y Filipense 2 25 reconoce a Epafrodito como Apóstol ( traducido en Reina Valera60 como **mensajero**).  
+### En último lugar en primera Tesalonicenses 2 6 Pablo , Silas y Timoteo se definen como Apóstoles. y Filipense 2 25 reconoce a Epafrodito como Apóstol ( traducido en Reina Valera 1960 como **mensajero**).  
 Y como historicamente los Apóstoles preceden a los demás y en el uso habitual se lo considera un Ministerio, en consecuencia luego de esto no volvería a haber más "Apóstoles
-en la iglesia **NUNCA MÁS**.
+en la iglesia **NUNCA MÁS**.  
 
-### *"Quizás este no sea el método de interpretación correcto".*
+#### *"Quizás este no sea el método de interpretación correcto".*
 
 ***Estudiemos en un contexto mas amplio.***
 El término **ἀπόστολος***apóstol* se define como un enviado ,es un término griego ,**fuera del contexto Bíblico hay más información "Extrabíblica"** .
