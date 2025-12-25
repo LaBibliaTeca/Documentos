@@ -83,12 +83,10 @@ como si Dios rogase por medio de nosotros; os rogamos en nombre de Cristo, recon
 
 Quizá el pasaje "**Efesios 4 11 "Y él mismo constituyó a unos, apóstoles, (si me refiero a los fundamentales , son solo los 12 primeros); a otros, profetas; a otros, evangelistas; a otros, pastores y maestros,"**
 
-quizá nunca trató de establecer jeraquías, sino un equipo para llegar a los que habrían de creer en el mensaje de Cristo .
+y nunca se trató de establecer jeraquías, sino un equipo para llegar a los que habrían de creer en el mensaje de Cristo .
 **EMiSaRIOS - ORaDORES - MENSaJEROS DE BUeNAS NUeVAS - CUIDaDORES - ENSEÑaDORES.**
 
-El mayor problema al presente es que hay grupos que se empecinan en nombrar "autoridades" internas de la iglesia con el nombre de "Apóstol" ( la palabra común no se refiere en sí a autoridad ),
-pero bueno , "Obispo" no se refería en sí tampoco a autoridad, sino a "visitación" (epíscope), y cuidado, pero...
-Quizá las aspiraciones de poder sobre la grey manifestada desde el siglo II dc al presente hayan complicado todo como para que esto se vuelva tan dificil de explicar.
-:::
+El mayor problema al presente es que hay grupos que se empecinan en nombrar "cargos" internos en la iglesia con el nombre de "Apóstoles" no relacionados con el origen de la palabra. 
 
-[PÁGINA PRINCIPAL]
+[PÁGINA PRINCIPAL](https://labibliateca.github.io/main) .  
+
