@@ -60,7 +60,7 @@ En algunas inscripciones de edificaciones de esta dinastía se encontró la pala
 
 Sigamos el relato de Lucas 6 13 traduciendo el término
 " Y cuando era de día, llamó a sus discípulos, y escogió a doce de ellos, a los cuales también llamó *apóstoles* [ENVIADOS o EMISARIOS] **ἀπόστολος"** .
-*¿POR QUÉ LOS LLAMAMOS A APÓSTOLES?(siguiendo Mateo10 12)*
+*¿POR QUÉ LOS LLAMAMOS  APÓSTOLES?(siguiendo Mateo 10 12)*
 "A estos doce **[ENVIÓ], απεστειλεν** ,*apesteilen*(, de apostelo ,) Jesús," (Mateo 10 5)
 
 *Los llamó "enviados" ,(o emisarios), porque los "envió".*
@@ -69,11 +69,11 @@ Sigamos el relato de Lucas 6 13 traduciendo el término
 
 Es decir: **Los llamó Apóstoles por que . los "A,pos,toh,leó" .** para que se vea la relación con el verbo.
 
-**De por si la palabra Apóstol no requiere otra cosa que ser enviado , ahora lo importante es [quién lo envió.]{.underline}**
+**De por si la palabra Apóstol no requiere otra cosa que ser enviado , ahora lo importante es [quién lo envió.]**
 Para ser un apóstol de Jesucristo te tiene que haber enviado especificamente "Jesucristo",
 de lo contrario podías haber sido enviado por otra persona ,cómo leemos en el párrafo de Heródoto.
 
-Ahora ¿qué hacemos con 1Corintios9 1 .?¿Todas la personas que se citan como apóstoles vieron al Señor? ¿O estas cualidades aumentan más bien las credenciales de Pablo?.
+Ahora ¿qué hacemos con 1Corintios 9 1 .?¿**Todas** la personas que se citan como apóstoles vieron al Señor? ¿O estas cualidades aumentan más bien las credenciales de Pablo?.
 
 **Sabemos de personas que fueron elegidos como "emisarios" o " enviados" por El Señor en carne , otro como Saulo por el Señor en visiones y revelación (Hechos 9 11 )(2Corintios 12 2 ).
 y otros que fueron enviados por el Espíritu Santo ,(ejemplo: Bernabé).**
@@ -86,9 +86,9 @@ Quizá el pasaje "**Efesios 4 11 "Y él mismo constituyó a unos, apóstoles, (s
 quizá nunca trató de establecer jeraquías, sino un equipo para llegar a los que habrían de creer en el mensaje de Cristo .
 **EMiSaRIOS - ORaDORES - MENSaJEROS DE BUeNAS NUeVAS - CUIDaDORES - ENSEÑaDORES.**
 
-El mayor problema al presente es que hay grupos que se empecinan en nombrar "autoridades" internas con el nombre de "Apóstol" ( la palabra no se refiere en sí a autoridad ),
+El mayor problema al presente es que hay grupos que se empecinan en nombrar "autoridades" internas de la iglesia con el nombre de "Apóstol" ( la palabra común no se refiere en sí a autoridad ),
 pero bueno , "Obispo" no se refería en sí tampoco a autoridad, sino a "visitación" (epíscope), y cuidado, pero...
 Quizá las aspiraciones de poder sobre la grey manifestada desde el siglo II dc al presente hayan complicado todo como para que esto se vuelva tan dificil de explicar.
 :::
 
-[PÁGINA PRINCIPAL]{.mark}
+[PÁGINA PRINCIPAL]
