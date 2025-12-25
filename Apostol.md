@@ -1,6 +1,7 @@
-## "Qué es un APÓSTOL". .
+## "Qué es un APÓSTOL".  
+3ra Revisión .  
 ##### *LaBibliateca.GIT. de Gustavo Uliarte.*
-3ra Revisión .
+   
 Cuando queremos saber el significado de un término en la Biblia, buscamos el pasaje que lo defina... .
 *Las palabras no aparecen repentinamente en la Biblia,existen desde antes, así que tendríamos que remontarnos a sus inicios u aparición.*. 
 
