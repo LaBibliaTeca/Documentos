@@ -63,9 +63,7 @@ Sigamos el relato de Lucas 6 13 traduciendo el término
 *¿POR QUÉ LOS LLAMAMOS  APÓSTOLES?(siguiendo Mateo 10 12)*
 "A estos doce **[ENVIÓ], απεστειλεν** ,*apesteilen*(, de apostelo ,) Jesús," (Mateo 10 5)
 
-*Los llamó "enviados" ,(o emisarios), porque los "envió".*
-
-**Los llamó Αποστολι porque los απεστειλεν.**
+*Los llamó "enviados" , porque los "envió".*
 
 Es decir: **Los llamó Apóstoles por que . los "A,pos,toh,leó" .** para que se vea la relación con el verbo.
 
@@ -78,7 +76,7 @@ Ahora ¿qué hacemos con 1Corintios 9 1 .?¿**Todas** la personas que se citan c
 **Sabemos de personas que fueron elegidos como "emisarios" o " enviados" por El Señor en carne , otro como Saulo por el Señor en visiones y revelación (Hechos 9 11 )(2Corintios 12 2 ).
 y otros que fueron enviados por el Espíritu Santo ,(ejemplo: Bernabé).**
 
-La expresión EMISARIO se justifica en este pasaje : 2Corintios 5 20 , *Así que, somos embajadores en nombre de Cristo,
+La expresión EMISARIO mas bien se justifica en este pasaje : 2Corintios 5 20 , *Así que, somos embajadores* (πρεσβευω representante) en nombre de Cristo,
 como si Dios rogase por medio de nosotros; os rogamos en nombre de Cristo, reconciliaos con Dios.*
 
 Quizá el pasaje "**Efesios 4 11 "Y él mismo constituyó a unos, apóstoles, (si me refiero a los fundamentales , son solo los 12 primeros); a otros, profetas; a otros, evangelistas; a otros, pastores y maestros,"**
