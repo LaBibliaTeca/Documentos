@@ -25,7 +25,7 @@ profetas; a otros, evangelistas; a otros, pastores y maestros,.*
 
 *Esta sucesión distributiva no excluyente se forma por una suceción de particulas griegas "los" + μεν + "sustantivo", "los" + δε + "sustantivo" ,"los" + δε + "susteantivo" , etc*.   
 
-#### Luego, en primera Tesalonicenses 2 6 Pablo , Silas y Timoteo se definen como Apóstoles. y Filipense 2 25 reconoce a Epafrodito como Apóstol ( traducido en Reina Valera 1960 como **mensajero** pero en el texto griego como **ἀπόστολος** *apóstol*).  En Romanos cita en 16:7 επισιμοι εν τοις αποστολοις : estimado entre los apóstoles , donde estimados es un adjetivo , No un participio , o sea que Junías y Andrónico habrían sido contados entre los apóstoles como emisarios en el sentido griego de la palabra. Estos exceden al número de los 12 . 
+#### Luego, en primera Tesalonicenses 2 6 Pablo , Silas y Timoteo se definen como Apóstoles. y Filipense 2 25 reconoce a Epafrodito como Apóstol ( traducido en Reina Valera 1960 como **mensajero** pero en el texto griego como **ἀπόστολος** *apóstol*).  En Romanos cita en 16:7 επισιμοι εν τοις αποστολοις : estimados entre los apóstoles , donde "estimados" es un adjetivo , No un participio , o sea que Junías y Andrónico habrían sido contados entre los apóstoles como emisarios en el sentido griego de la palabra. Estos exceden al número de los 12 . 
 
 Y como historicamente los Apóstoles preceden a los demás y en el uso habitual se lo considera un Ministerio, en consecuencia luego de esto suponemos que no volvería a haber más "Apóstoles
 en la iglesia **NUNCA MÁS**.  
