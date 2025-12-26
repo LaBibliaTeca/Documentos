@@ -33,7 +33,7 @@ en la iglesia **NUNCA MÁS**.
 #### *"Quizás este no sea el método de interpretación correcto".*
 
 ***Estudiemos en un contexto mas amplio.***
-El término **ἀπόστολος***apóstol* se define como un enviado ,es un término griego ,**fuera del contexto Bíblico hay más información "Extrabíblica"** .
+El término **ἀπόστολος** *apóstol* se define como un enviado ,es un término griego ,**fuera del contexto Bíblico hay más información "Extrabíblica"** .
 
 Buscando en la historia vemos que Heródoto hace uso de esta palabra aproximadamente 400 AC . Básico , si se usa es porque la palabra "existe").
 
