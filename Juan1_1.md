@@ -17,7 +17,7 @@ Los  editores no  afirman abiertamente que *El logos era Dios” sino “el Verb
 **No podemos fraccionar el concepto de Dios en cuanto a Cristo por que sabemos Colosenses 2 9  : "Y en el habita toda la plenitud de la Deidad**
 ### El problema de la identidad (ontología).  
  ### A ver ,     si digo , en koiné: ,
-### **O Σίλας ἦν, Σιλουανός ,[el], Silas era, Silvano**  ,   establezco una identidad . Silas = Silvano.   
+### **O Σίλας ἦν, Σιλουανός ,     [el] Silas era, Silvano**  ,   establezco una identidad . Silas = Silvano.   
 En  koiné el artículo ÉL no se repite en el predicado , y sigue siendo un nombre propio. 
 Aunque el supuesto teólogo, en el caso de θεός Dios,  se rehusa a admitir una identidad.  
 Si dentro de mi modelo expreso :,
