@@ -5,8 +5,7 @@
 *Existe entre académicos  un principio llamado ONTOLÓGICO* que cuestiona la clásica explicación de  **el Verbo era Dios**.  
 El verbo "ser", funciona como el signo  = entre dos nombres o sustantivos , o sea afirma una identidad. Pero esta NO es la afirmación académica. 
 
-**Esta es lo que exponen:, “La frase θεός  εστιν ο λόγος ,(El verbo era Dios) no busca resolver la identidad divina , sino introducir al lector en una "comprensión relacional" y funcional del Logos.  
-La ausencia del artículo en θεός sugiere que Juan no pretende una identificación absoluta, sino una afirmación de naturaleza”** .    
+**Esta es lo que exponen:, “La frase θεός  εστιν ο λόγος ,(El verbo era Dios) no busca resolver la identidad divina , sino introducir al lector en una comprensión relacional y funcional del Logos. La ausencia del artículo en θεός sugiere que Juan no pretende una identificación absoluta, sino una afirmación de naturaleza”** .    
 ### **Bueno , esto no es cierto para el koiné**.  
 ### Entonces , si la idea sería acaso presentar que El logos  es Dios en un sentido "distinto" de identidad ¿por qué no lo decimos en los púlpitos abiertamente? . 
 
