@@ -1,12 +1,13 @@
 # Interpretación de Juan 1:1 .  
 [**TOCAR PARA PREGUNTAR AL AUTOR**](Qg.html) .   
-**Este ensayo NO intenta tomar posturas Trinitarias o "Anti"  sino limpiar nuestro vocabulario de expresiones extrabiblicas o Filosóficas** .       
-*A pesar que las Iglesias y los comentarios Bíblicos y Exegéticos pretenden explicar como que **el Verbo era Dios**, existe una especie de trastienda donde la explicaciones académicas son otras.*  
-El verbo ser, funciona como el signo  = entre dos nombres o sustantivos , o sea una identidad. 
+**Este ensayo NO intenta tomar posturas Trinitarias o "Anti"  sino limpiar nuestro vocabulario de expresiones extrabiblicas** .       
 
-**Esta es la afirmación que exponen:, “La frase θεός  εστιν ο λόγος ,(El verbo era Dios) no busca resolver la ontología (identidad) divina , sino introducir al lector en una comprensión relacional y funcional del Logos.  
+*Existe entre académicos  un principio llamado ONTOLÓGICO* que cuestiona la clásica explicación de  **el Verbo era Dios**.  
+El verbo "ser", funciona como el signo  = entre dos nombres o sustantivos , o sea afirma una identidad. Pero esta NO es la afirmación académica. 
+
+**Esta es lo que exponen:, “La frase θεός  εστιν ο λόγος ,(El verbo era Dios) no busca resolver la identidad divina , sino introducir al lector en una "comprensión relacional" y funcional del Logos.  
 La ausencia del artículo en θεός sugiere que Juan no pretende una identificación absoluta, sino una afirmación de naturaleza”** .    
-Bueno , esto no es cierto para el koiné.  
+### **Bueno , esto no es cierto para el koiné**.  
 ### Entonces , si la idea sería acaso presentar que El logos  es Dios en un sentido "distinto" de identidad ¿por qué no lo decimos en los púlpitos abiertamente? . 
 
 ### Posturas históricas.
