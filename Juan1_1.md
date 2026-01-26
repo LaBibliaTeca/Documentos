@@ -13,7 +13,7 @@ El verbo "ser", funciona como el signo  = entre dos nombres o sustantivos , o se
 La Vulgata traduce et Deus erat Verbum,  inclinándose hacia una afirmación fuerte de **divinidad**.    
 Orígenes de ALejandría ve en λόγος una **existencia relacional**, no una identidad ontológica cerrada , o sea para él, logos no es exactamente igual dios  .  
 ### Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.      
-Los  editores no  afirman abiertamente que *El logos era Dios” sino “el Verbo era divino” , Ejemplo  sociedades biblicas , en el comentario de Rv expresa " no significa identidad absoluta).   
+Los  editores no  afirman abiertamente que *El logos era Dios” sino “el Verbo era divino” ,( Ejemplo  sociedades biblicas , en el comentario de Rv expresa " no significa identidad absoluta).   
 **No podemos fraccionar el concepto de Dios en cuanto a Cristo por que sabemos Colosenses 2 9  : "Y en el habita toda la plenitud de la Deidad**
 ### El problema de la identidad (ontología).  
  ### A ver ,     si digo , en koiné: ,
