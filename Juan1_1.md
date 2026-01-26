@@ -31,7 +31,7 @@ En otras palabras si digo:, **Verbo = Dios**  y  **Padre = Dios** , entonces est
 ¿Qué hacer?.  
 ¿que ocurre cuando los modelos no aplican?.  
 La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
-
+Por otro lado el principio ontologico ha sido criticado en diferentes aspectos pot otros filósofos,   
 ### Bajemos un cambio :,
 **PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS**.  
 Volvamos al texto bíblico:
