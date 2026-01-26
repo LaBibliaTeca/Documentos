@@ -13,7 +13,7 @@ El verbo "ser", funciona como el signo  = entre dos nombres o sustantivos , o se
 La Vulgata traduce et Deus erat Verbum,  inclinándose hacia una afirmación fuerte de ** identidad divina**.    
 Orígenes de ALejandría ve en λόγος una **existencia relacional**, no una identidad ontológica cerrada , o sea para él, logos no es exactamente igual dios  .  
 ### Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.      
-Los  editores no  afirman abiertamente que *El logos era Dios” sino “el Verbo era divino” ,( Ejemplo  sociedades biblicas , en el comentario de Rv expresa " no significa identidad absoluta).   
+Los  editores no  afirman abiertamente que *El logos era Dios” sino “el Verbo era divino” ,( Ejemplo  sociedades biblicas , en el comentario de RV expresa " no significa identidad absoluta).   
 **No podemos fraccionar el concepto de Dios en cuanto a Cristo por que sabemos Colosenses 2 9  : "Y en el habita toda la plenitud de la Deidad**
 ### El problema de la identidad (ontología).  
  ### A ver ,     si digo , en koiné: ,
@@ -21,7 +21,7 @@ Los  editores no  afirman abiertamente que *El logos era Dios” sino “el Verb
 En  koiné el artículo ÉL no se repite en el predicado , y sigue siendo un nombre propio. 
 Aunque el supuesto teólogo, en el caso de θεός Dios,  se rehusa a admitir una identidad.  
 Si dentro de mi modelo expreso :,
-**O Λόγος εστιν Θεός**. El Verbo era Dios , ambos son nombres propios entonces SI, establezco una identidad .  
+**O Λόγος ἦν Θεός**. El Verbo era Dios , ambos son nombres propios entonces SI, establezco una identidad .  
 *Pero con mi viejo concepto: ¿Cómo podría ser **Logos = Dios** y **“El Padre= Dios”**?*.
 En otras palabras si digo:, **Verbo = Dios**  y  **Padre = Dios** , entonces estaría diciendo por caracter transitivo que ¿¿**Logos=Padre**??.    
 
@@ -31,7 +31,7 @@ En otras palabras si digo:, **Verbo = Dios**  y  **Padre = Dios** , entonces est
 ¿Qué hacer?.  
 ¿que ocurre cuando los modelos no aplican?.  
 La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
-Por otro lado el principio ontologico ha sido criticado en diferentes aspectos pot otros filósofos,   
+Por otro lado el principio ontologico ha sido criticado en diferentes aspectos por otros filósofos,   
 ### Bajemos un cambio :,
 **PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS**.  
 Volvamos al texto bíblico:
