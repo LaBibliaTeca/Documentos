@@ -32,7 +32,7 @@ En otras palabras si digo:, **Verbo = Dios**  y  **Padre = Dios** , entonces est
 ¿que ocurre cuando los modelos no aplican?.  
 La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
 ---
-## Bajemos un cambio :,
+### Bajemos un cambio :,
 **PRINCIPIOS TEOLÓGICOS, NO FILOSÓFICOS**.  
 Volvamos al texto bíblico:
 Hebreos 1:3 dice que el Hijo es **“el resplandor de su gloria y la imagen misma de su sustancia”** (χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ) ,sustancia como lo que subyace o subsiste .  
@@ -42,11 +42,12 @@ La “imagen” no es una **parte** , es la imagen de su gloria.
 En el contexto hebreo, kabod (gloria) habla de Dios sin definir su esencia (ουσια) como lo hace el concepto Niceno. 
 Sin entrar en detalles hemos definido la trilogía sin necesidad de divisiones . 
 *Dios(en el sentido del Dios único) , la imagen de su gloria y su presencia*.  
-## Aquí viene la propuesta:
+### El Texto  distingue tres actores  que ejecutan acciones independientemente. 
+### Aquí viene la propuesta:
 Vacía tu vocabulario de expresiones extrabíblicas derivadas de la filosofía como : existencia, ser, persona e identidad , ontológico y relacional .y constrúyelas desde cero a partir de los textos hebreos y griegos bíblicos o sus equivalentes en español, procurando armar un esquema limpio. ¿A qué conclusiones llegarías?.  
 Muchos términos provienen de la época patrística. que alteró o inventó el significado de palabras griegas y otras que hoy heredamos del latín , algunas también inventadas para definiciones teológicas.  
 Bueno , **o nos movemos en un entorno griego o en uno latino**.  
-## Paso 1 : Vaciar el LÉXICO HEREDADO.  
+### Paso 1 : Vaciar el LÉXICO HEREDADO.  
 **Renunciamos, por ahora, a los siguientes términos y sus cargas filosóficas:** .  
 
 *Persona , en el sentido latino de representación , o hypostasis como equivalente a persona.*  
