@@ -20,7 +20,7 @@ Orígenes de ALejandría ve en λόγος una **existencia relacional**, no una 
 ---
 ### El problema de la identidad (ontología).  
  ### A ver ,     si digo , en koiné: ,
-**O Σίλας ἦν, Σιλουανός ,[el], Silas era, Silvano**  ,   establezco una identidad . Silas = Silvano.   
+### **O Σίλας ἦν, Σιλουανός ,[el], Silas era, Silvano**  ,   establezco una identidad . Silas = Silvano.   
 En  koiné el artículo ÉL no se repite en el predicado , y sigue siendo un nombre propio. 
 Aunque el supuesto teólogo, en el caso de θεός Dios,  se rehusa a admitir una identidad.  
 Si dentro de mi modelo expreso :,
