@@ -11,7 +11,7 @@ El verbo "ser", funciona como el signo  = entre dos nombres o sustantivos , o se
 
 ### Posturas históricas.
 La Vulgata traduce et Deus erat Verbum,  inclinándose hacia una afirmación fuerte de **divinidad**.    
-Orígenes ve en λόγος una **existencia relacional**, no una identidad ontológica cerrada , o sea para él, logos no es igual dios  .  
+Orígenes de ALejandría ve en λόγος una **existencia relacional**, no una identidad ontológica cerrada , o sea para él, logos no es exactamente igual dios  .  
 ### Los Padres de la Iglesia debatieron si θεός debía entenderse como “divino” (atributo) o “Dios” (identidad), y esto influyó en las formulaciones trinitarias posteriores.      
 ---
 
