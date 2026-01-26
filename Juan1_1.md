@@ -26,9 +26,9 @@ Si dentro de mi modelo expreso :,
 En otras palabras si digo:, **Verbo = Dios**  y  **Padre = Dios** , entonces estaría diciendo por caracter transitivo que ¿¿**Logos=Padre**??.    
 
 --- 
-### [Esto es el DILEMA ONTOLÓGICO] .  
+### [Esto es el DILEMA ONTOLÓGICO] .Sistematizado por Christian Wolff (Siglo XVIII).  
 ¿Qué hacer?.  
-¿que ocurre cuando los modelos no cierran?.  
+¿que ocurre cuando los modelos no aplican?.  
 La respuesta, entonces es, “no puede partir de definiciones filosóficas, sino de declaraciones bíblicas (teológicas) puras”.
 ---
 ## Bajemos un cambio :,
