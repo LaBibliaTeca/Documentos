@@ -21,19 +21,20 @@ Su defensa en griego es  **1  misma-esencia (homoousios )  3  subsistencias (hip
 
 ### El Arrianismo según Arrio.
 
-**La Carta de Arrio al Obispo de Nicodemia,Bitinia.**
+**La Carta de Arrio al Obispo de Nicodemia,Bitinia.**.  
 "Arrio, injustamente perseguido por el obispo Alejandro a causa de
 aquella verdad, victoriosa en todos los respectos, que tú mismo
 profesaste, envía sus saludos en el Señor a su queridísimo señor, hombre
 de Dios, al fiel y ortodoxo Eusebio. El obispo nos maltrata y persigue
 muy severamente y nos causa mucho dolor: nos ha arrojado de la ciudad
 como a ateos, por no estar de acuerdo con él en lo que públicamente
-predica, a saber: ,que el Padre lo fue siempre, y que el Hijo lo fue
+predica, a saber: **que el Padre lo fue siempre, y que el Hijo lo fue
 siempre; que el Hijo es igual al Padre; que el Hijo es ingénito como el
 Padre; que siempre está siendo engendrado, "sin haber sido engendrado";
 que Dios no es anterior al Hijo, ni por pensamiento, ni por ningún
 intervalo, ya que Dios y el Hijo han existido siempre, y que el Hijo
-procede de Dios.» Aquí la definición de Arrio.: Nos persiguen porque
+procede de Dios**.  
+» Aquí la definición de Arrio.: Nos persiguen porque
 decimos que el Hijo tiene comienzo, pero que Dios es sin comienzo. Por
 esto nos persiguen; y, asimismo, porque decimos que es de la nada. Y
 esto lo decimos porque Él no es ni parte de Dios ni (está hecho) de otra
@@ -44,7 +45,8 @@ piadoso que eres, no olvides nuestros sufrimientos. **Fin.**
 ## Las acusaciones de Atanasio Diácono en Alejandría (319 dc) sobre "la Thalia ,(himno o poema que presenta teología,)" de Arrio .
 "la Thalia".(No se conserva una versión de Arrio, así que ésta puede estar sesgada):.*\
 \
-**Atanasio enuncia su crítica al siguiente \"poema\" de Arrio.**. 
+**Atanasio enuncia su crítica al siguiente \"poema\" de Arrio.**.  
+**La Thalia:**:.    
  El que no tiene comienzo hizo al Hijo, comienzo de las cosas
 creadas, y se lo ofreció a Sí mismo como Hijo y lo adoptó. Nada tiene
 propio de Dios según su propia subsistencia, ya que no es igual ni
@@ -97,11 +99,13 @@ conclusión de la premisa bíblica, transformándola en un postulado (ver Postul
  "Si alguien está siendo gestado perpetuamente,
 nunca terminó de gestar". Este tipo de afirmaciones empezaron con
 "Orígenes de Alejandría" (siglo 3) para contrarrestar las ideas pre-
-Arrianistas.Una forma de entender una gestación (ser engendrado) antes
+Arrianistas.  
+Una forma de entender una gestación (ser engendrado) antes
 de la venida en carne , usa el Salmo 2:.7 como un relato y no como una
-profecía. " Él es la imagen del Dios invisible (Colosenses 1:.5)" , "Mas
+profecía.  
+La afirmación bíblica es : **"Él es la imagen del Dios invisible (Colosenses 1:.5)" , "Mas
 del hijo dice: Tu trono oh Dios , por los siglos de los siglos (Hebreos
-1:8)". 
+1:8)"**. 
 * [ver Credo de Nicea](https://labibliateca.github.io/main/principal.html?texto=https://labibliateca.github.io/Documentos/credo.html) .
 **  [ver Postulados](https://labibliateca.github.io/main/principal.html?texto=Declaracion.html).  
 "En la Bibliateca también : [Carta de Eusebio de Cesarea desde
