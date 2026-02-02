@@ -43,7 +43,7 @@ Como condiscípulo en la escuela de Luciano y como hombre verdaderamente
 piadoso que eres, no olvides nuestros sufrimientos. **Fin.**
 \
 ## Las acusaciones de Atanasio Diácono en Alejandría (319 dc) sobre "la Thalia ,(himno o poema que presenta teología,)" de Arrio .
-"la Thalia".(No se conserva una versión de Arrio, así que ésta puede estar sesgada):.*\
+(No se conserva una versión de Arrio, así que ésta puede estar sesgada):.*\
 \
 **Atanasio enuncia su crítica al siguiente \"poema\" de Arrio.**.  
 **La Thalia:**:.    
@@ -104,8 +104,7 @@ Una forma de entender una gestación (ser engendrado) antes
 de la venida en carne , usa el Salmo 2:.7 como un relato y no como una
 profecía.  
 La afirmación bíblica es : **"Él es la imagen del Dios invisible (Colosenses 1:.5)" , "Mas
-del hijo dice: Tu trono oh Dios , por los siglos de los siglos (Hebreos
-1:8)"**. 
+del hijo dice: Tu trono oh Dios , por los siglos de los siglos (Hebreos 1:8)"**.  
 * [ver Credo de Nicea](https://labibliateca.github.io/main/principal.html?texto=https://labibliateca.github.io/Documentos/credo.html) .
 **  [ver Postulados](https://labibliateca.github.io/main/principal.html?texto=Declaracion.html).  
 "En la Bibliateca también : [Carta de Eusebio de Cesarea desde
