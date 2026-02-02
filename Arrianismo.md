@@ -42,7 +42,7 @@ materia subyacente. Por esto nos persiguen; lo demás ya lo sabes. Adiós.
 Como condiscípulo en la escuela de Luciano y como hombre verdaderamente
 piadoso que eres, no olvides nuestros sufrimientos. **Fin.**
 \
-## Las acusaciones de Atanasio Diácono en Alejandría (319 dc) sobre "la Thalia ,(himno o poema que presenta teología,)" de Arrio .
+### Las acusaciones de Atanasio Diácono en Alejandría (319 dc) sobre "la Thalia ,(himno o poema que presenta teología,)" de Arrio .
 (No se conserva una versión de Arrio, así que ésta puede estar sesgada):.*\
 \
 **Atanasio enuncia su crítica al siguiente \"poema\" de Arrio.**.  
@@ -94,8 +94,8 @@ Atanasio vuelve a ser perseguido. En ese período , ambas facciones
 :ortodoxas y arrianas , se valían de imposiciones , persecuciones y
 tácticas por influencias políticas para consolidar posiciones .  
 
-**Nota 2:** *la afirmación del "engendramiento" perpetuo, es una extrapolación que aleja la
-conclusión de la premisa bíblica, transformándola en un postulado (ver Postulados).
+**Nota 2:** *la afirmación del "engendramiento" perpetuo, es una extrapolación que aleja del
+texto bíblico, transformándola en un postulado (ver Postulados).
  "Si alguien está siendo gestado perpetuamente,
 nunca terminó de gestar". Este tipo de afirmaciones empezaron con
 "Orígenes de Alejandría" (siglo 3) para contrarrestar las ideas pre-
