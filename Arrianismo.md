@@ -8,12 +8,12 @@
 **Trinitas y tres Personae(representación) en una substantia son conceptos latinos, que difieren del concepto griego del concilio de Nicea**  .   
 **En términos griegos sería "Teología de las Trias" (conjunto de tres)**.
 
-¿Por qué la palabra “trinitarismo” no basta en griego?
+¿Por qué la palabra “trinitario” no basta en griego?
 
 **Atanasio y los teólogos griegos del siglo 4**, no partían de una lógica numérica ni jurídica, sino de una coexistencia   y una interpretación bíblica . 
-Conforme señala en el credo o "simbolon" , para Atanasio, el Hijo es engendrado del Padre (,ver **Nota 2**), no por decisión ni por subordinación, sino por participación en su existencia plena:misma esencia, **ὁμοούσιος**  . 
-El Espíritu Santo es “de Dios” (ἐκ Θεοῦ). 
-
+### Lo que se vuelca en Credo o "Symbolon".  
+Para Atanasio, el Hijo es engendrado del Padre (,ver **Nota 2**), no por decisión ni por subordinación, sino por participación en su existencia plena: misma esencia, **ὁμοούσιος**  . 
+El Espíritu Santo es “de Dios” (ἐκ Θεοῦ).  
 Atanasio no usa persona  **substantia** en sentido latino. Su lenguaje se arraiga en la Escritura y en la teología de la esencia (ουσια). **El Hijo es engendrado de la misma-esencia del Padre**: luz (nacida) de la luz, Dios verdadero (nacido) de Dios verdadero.,(ver el credo del concilio de Nicea de siglo 4).   
 Su defensa en griego es  **1  misma-esencia (homoousios )  3  subsistencias (hipostasis)** .  
 **Nota** : Distinto del "sabelismo" del siglo 3 que afirma una sola hipostasis.
