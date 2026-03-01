@@ -1,5 +1,5 @@
 ### (1ª) CARTA DE CLEMENTE DE ROMA A LOS CORINTIOS  
-La segunda se considera apócrifa.  
+*La segunda se considera apócrifa.*  
 
 #### LA SEDICIÓN DE CORINTIOS CONTRA SUS OBISPOS.  
 
