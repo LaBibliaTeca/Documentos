@@ -4,11 +4,12 @@
 
 _comentario de Gustavo Uliarte_
 
-Clemente era un creyente discípulo de Pablo (Filipenses 4:3), murió cerca del 100, lejos de la posición de Ignacio de Antioquía , que defendía el episcopado monárquico, muestra flexibilidad procurando seguir el modelo apostólico donde los obispos entran "con la aprobación de la Iglesia".  
-No va a hablar de solo la sedición contra los presbíteros y obispos, sino mas bien "de hombres necios contra sensatos" de Corinto La pretención romana de considerarlo como Papa no tiene rigor histórico ya que en la "Iglesia Romana" ,El Obispo es mencionado como Papa en forma afectuosa en el siglo 4 y entra en vigor en forma independiente ,practicamente después del año 1000dc y si vamos para atrás vamos a encontar e general la estructura de la iglesia oriental (Ortodoxa) hasta la época patrística.  
+Clemente era un creyente discípulo de Pablo (Filipenses 4:3), murió cerca del 100, lejos de la posición de Ignacio de Antioquía , que defendía el episcopado monárquico, muestra **flexibilidad procurando seguir el modelo apostólico donde los obispos entran "con la aprobación de la Iglesia"**.  
+No va a hablar de solo la sedición contra los presbíteros y obispos, sino mas bien "de hombres necios contra sensatos" de Corinto.  
+La pretención romana de considerarlo como Papa no tiene rigor histórico ya que en la "Iglesia Romana" ,El Obispo es mencionado como Papa en forma afectuosa en el siglo 4 y entra en vigor en forma independiente ,practicamente después del año 1000dc y si vamos para atrás vamos a encontar e general la estructura de la iglesia oriental (Ortodoxa) hasta la época patrística.     
 En un momemto que se retira deja dos personas en su lugar para después volverlo a retomar , similar al siglo cuatro en que en Roma había 2 obispos que por ser en ese tiempo de avanzada edad envían al Concilio de Nicea a 2 presbíteros.  
-El concepto romano se plantea como si se pudiera ignorar la existencia de oriente , de la misma manera los sucesores de los protestantes (Luteranos y Calvinistas) parecen ignorar que la reforma era un tema Europeo/occidental.  
-En todo caso la iglesia Ortodoxa Oriental arrastraría con otros problemas como su posible vinculación al poder politico heredado (hasta Constantino IX) y de su episcopado monárquico con el cual sigue la romana y la protestante ,salvo algunas (no todas) denominaciones Evangélicas a partir de Juan Wesley (metodista) que de sus comienzos constituían presbiterio y lideres subordinados al presbiterio para supervisar las enseñanzas de los conferencistas
+*El concepto romano se plantea como si se pudiera ignorar la existencia de oriente , de la misma manera los sucesores de los protestantes (Luteranos y Calvinistas) parecen ignorar que la reforma era un tema Europeo/occidental*.  
+En todo caso la iglesia Ortodoxa Oriental arrastraría con otros problemas como su posible vinculación al poder politico heredado (hasta Constantino IX) y de su episcopado monárquico con el cual sigue la romana y la protestante ,salvo algunas (no todas) **denominaciones Evangélicas a partir de Juan Wesley (metodista) que de sus comienzos constituían presbiterio y lideres subordinados al presbiterio para supervisar las enseñanzas de los conferencistas**.   
 
 #### Transcribo a continuación una porción de la traducción de su 1er carta a los Corintios.
 
@@ -36,8 +37,9 @@ Porque nuestro pecado no será pequeño si expulsamos del episcopado a aquellos 
 Bienaventurados los presbíteros que, habiendo terminado su carrera antes de ahora, han obtenido una salida fructífera y perfecta.  
 porque no tienen temor de que alguien los prive del cargo que ahora les ha sido asignado.  
 Pero vemos que has quitado del ministerio a algunos hombres de excelente conducta, que desempeñaban irreprensiblemente y con honor.  
+
+
 **ES PARTE DE LOS MALVADOS MALTRATAR A LOS JUSTOS.**  
-.  
 Vosotros, hermanos, sois amantes de las contiendas y estáis llenos de celo por cosas que no pertenecen a la salvación.  
 Examinad atentamente las Escrituras, que son las verdaderas declaraciones del Espíritu Santo.  
 Observad que en ellas no está escrito nada de carácter injusto o falso.  
