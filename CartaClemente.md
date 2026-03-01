@@ -13,7 +13,7 @@ En todo caso la iglesia Ortodoxa Oriental arrastraría con otros problemas como 
 
 #### Transcribo a continuación una porción de la traducción de su 1er carta a los Corintios.
 
-**DESIGNACIÓN DE LOS PRIMEROS PRESBÍTEROS**  
+**DESIGNACIÓN DE LOS PRIMEROS PRESBÍTEROS**  .  
 . Los apóstoles nos predicaron el Evangelio de parte de nuestro Señor Jesucristo, y Jesucristo nos lo ha enviado de parte de Dios.  
 Por tanto, Cristo fue enviado por Dios, y los apóstoles por Cristo.  
 Ambos nombramientos, pues, se hicieron de manera ordenada, conforme a la voluntad de Dios.  
