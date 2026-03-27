@@ -1,5 +1,6 @@
 # Principales exponentes de la hermenéutica moderna (siglos XVIII–XIX)
-
+**La interpretación de la Biblia** podría haber usado directamente la linguística como base técnica , Hemeneutica no existe en griego, Hermeneuo en el Nuevo Testamento significa **traducir o interpretar** .
+**Friedrich Schleiermacher** creó el término en el siglo 19 , en principio fue rechazado por Protestantes y Católicos por considerarla subjetiva.
 Este cuadro compara formación, filiación denominacional y enfoque hermenéutico de los pensadores más influyentes.
 
 | Pensador                | Formación principal | Filiación denominacional | Enfoque hermenéutico |
