@@ -74,7 +74,7 @@ decir , **FRUTOS DE LABIOS**, que confiesan su nombre*".
 **Romanos 12:.1 y 2Pedro2:.12 no apuntaban en sí a \"LA CORDURA\",sino
 principalmente a la EXPRESIVIDAD RACIONAL (Discursiva) : EL LOGOS.**
 
-### EXPRESIONES DONDE LÓGICO λογικο ES RACIONAL.
+### EXPRESIONES GRIEGAS DONDE LÓGICO λογικο ES RACIONAL.
 1. λογικὸν ζῷον — "animal racional"
 Muy común en la tradición estoica.  
 ζῷον = animal, ser viviente.
