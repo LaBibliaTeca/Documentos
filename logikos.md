@@ -1,4 +1,4 @@
-
+De Specialibus Legibus
 
 
  Boletín de la Bibliateca.
@@ -100,5 +100,5 @@ Es una capacidad que opera según logos.
   *La idea de Filón es que Dios valora más el πνεῦμα λογικόν ESPÍRITU RACIONAL del oferente que la cantidad de víctimas sacrificadas.*
 
 
-#### Referencias de los Textos mencionados (a completar): Protágoras: \... Euripides: \... Esquilo: \... Homero: en la Iliada y la Odisea \... Platón: \... 
+#### Referencias de los Textos mencionados (a completar): Protágoras: \... Euripides: \... Esquilo: \... Homero: en la Iliada y la Odisea \... Platón: \... Filón de Alejandría:De Specialibus Legibus
 :::
