@@ -24,18 +24,13 @@ La palabra **λογικός**(lógikos) se ha traducido en la Biblia como racion
 teniendo en cuenta su relación semántica.
 
 #### RELACIÓN SEMÁNTICA.
-
-[VARIOS EJEMPLOS.]
-
 **λογικός (lógikos) como adjetivo derivado de λόγος (logos) , usado en
-Juan 1:1 como \"el verbo\", palabra de valor discursivo:**\
+Juan 1:1 como "el verbo", palabra de valor discursivo:**\
 En griego, el sufijo -ικός (-ikós), se usa para formar adjetivos que
 indican relación, pertenencia o cualidad.
 
-**Por lo tanto, λογικός significa \"relativo al λόγος\" , o \"que tiene
-la cualidad del λόγος\".**\
-
-
+**Por lo tanto, λογικός significa "relativo al λόγος" , o "que tiene
+la cualidad del λόγος".**.  
 
 #### EL USO PRÁCTICO. LOGICO COMO ESPIRITUAL.
 Romanos 12:1 — λογικὴ λατρεία.  *El Culto Espiritual*.  
