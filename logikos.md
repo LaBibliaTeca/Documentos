@@ -72,10 +72,6 @@ hizo en contraposición de la frase de Judas que dice \"como animales
 irracionales o sea \"άλογος\" o sea incapaces expresarse de manera
 coherente.
 
-
-¿Cómo vamos a interpretar Romanos 12:1?.:
-Vamos al griego con una traducción plana:
-
 #### ουτοι δε ως **αλογα** ζωα , Estos, empero como \[ **sin logos**\*\] animales, γεγενημενα φυσικα , nacidos instintivos, εις αλωσιν και φθοραν, para presa y perdición, εν οις αγγνουσι βλασφεμαουντες, (de) lo que ignoran , blasfeman,.
 
 **αλογα** implica la incapacidad de **EXPRESAR** (razones).\
