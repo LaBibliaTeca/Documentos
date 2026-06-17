@@ -14,7 +14,7 @@ a Dios, que es vuestro culto racional ,(en griego es lógikos) ,Romanos
  El acusativo **θυσίαν** (SACRIFICIO) funciona aquí como predicativo del objeto ("vuestros cuerpos").  
 ζῶσαν (traduce vivo)está en Presente Activo Participio  :VIVIENTE, pero <u>"en"</u> *no está*. 
 
-θυσία = algo ofrecido.   
+θυσία = algo ofrecido (dela Septuaginta, en hebreo zevah :sacrificio). .   
 ζῶσα = algo que sigue viviendo.   
 
 #### presentéis vuestros cuerpos: el sacrificio viviente, santo y agradable a Dios. 
