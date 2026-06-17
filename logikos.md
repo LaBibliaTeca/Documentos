@@ -12,17 +12,14 @@ a Dios, que es vuestro culto racional ,(en griego es lógikos) ,Romanos
 
 παραστῆσαι τὰ σώματα ὑμῶν **θυσίαν ζῶσαν**... ἥτις ἐστὶν ἡ λογικὴ λατρεία ὑμῶν.   
  El acusativo **θυσίαν** (SACRIFICIO) funciona aquí como predicativo del objeto ("vuestros cuerpos").  
-ζῶσαν (traduce vivo)está en Presente Activo Participio  :VIVIENTE, pero <u>en</u> *no está*. 
+ζῶσαν (traduce vivo)está en Presente Activo Participio  :VIVIENTE, pero <u>"en"</u> *no está*. 
 
 θυσία = algo ofrecido.   
 ζῶσα = algo que sigue viviendo.   
 
 #### presentéis vuestros cuerpos: el sacrificio viviente, santo y agradable a Dios. 
 Si lo damos vuelta, sería:.
-*Vuestro culto racional es Presentar vuestros cuerpo en sacrificio viviente, santo y agradable*.     
-
-θυσία = algo ofrecido.   
-ζῶσα = algo que sigue viviendo.   
+*Vuestro culto racional es presentar vuestros cuerpo en sacrificio viviente, santo y agradable*.     
 
 La palabra **λογικός**(lógikos) se ha traducido en la Biblia pero no
 teniendo en cuenta su relación semántica.
