@@ -44,7 +44,7 @@ aspectos:,\
 
 #### EL USO PRÁCTICO. LOGICO COMO ESPIRITUAL.
 Romanos 12:1 — λογικὴ λατρεία.  *El Culto Espiritual*.  
- Pedro 2:2 — λογικὸν ἄδολον γάλα.   *La leche espiritual no adulterada*
+ Pedro 2:2 — λογικὸν ἄδολον γάλα.   *La leche espiritual no adulterada*.  
 Para un Hablante griego:.    
 Lógikos λογικός es *conciente, espiritual,Humano,Ordenado,Interior.   
 y alogos  ἄλογος es *irracional, instintivo, material.  
