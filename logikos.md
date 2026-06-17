@@ -84,7 +84,7 @@ También se traduce por \"bruto , carente de razón\"(diccionario Tuggy).
 Sabemos que : *Hebreos13:.15 "Así que , ofrezcamos a Dios, por medio de alabanza, es
 decir , **FRUTOS DE LABIOS**, que confiesan su nombre*".    
 
-**¿CULTO RACIONAL debería entenderse CULTO DE LABIOS (palabras no cosas materiales)** ?.
+**¿CULTO RACIONAL debería entenderse CULTO DE LABIOS (palabras, no cosas materiales)** ?.
 
 **Romanos 12:.1 y 2Pedro2:.12 no apuntaban en sí a \"LA CORDURA\",sino
 principalmente a la EXPRESIVIDAD RACIONAL (Discursiva) : EL LOGOS.**
