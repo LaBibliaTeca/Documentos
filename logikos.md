@@ -80,7 +80,7 @@ coherente.
 ¿Cómo vamos a interpretar Romanos 12:1?.:
 Vamos al griego con una traducción plana:
 
-#####ουτοι δε ως **αλογα** ζωα , Estos, empero como \[ **sin logos**\*\] animales, γεγενημενα φυσικα , nacidos instintivos, εις αλωσιν και φθοραν, para presa y perdición, εν οις αγγνουσι βλασφεμαουντες, (de) lo que ignoran , blasfeman,.
+#### ουτοι δε ως **αλογα** ζωα , Estos, empero como \[ **sin logos**\*\] animales, γεγενημενα φυσικα , nacidos instintivos, εις αλωσιν και φθοραν, para presa y perdición, εν οις αγγνουσι βλασφεμαουντες, (de) lo que ignoran , blasfeman,.
 
 **αλογα** implica la incapacidad de **EXPRESAR** (razones).\
 También se traduce por \"bruto , carente de razón\"(diccionario Tuggy).
