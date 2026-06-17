@@ -18,7 +18,7 @@ a Dios, que es vuestro culto racional ,(en griego es lógikos) "*.
 
 #### presentéis vuestros cuerpos: el sacrificio viviente, santo y agradable a Dios. 
 Si lo damos vuelta, sería:.
-*Vuestro culto racional es presentar vuestros cuerpo en sacrificio viviente, santo y agradable*.     
+*Vuestro culto racional es presentar vuestros cuerpoS en sacrificio viviente, santo y agradable*.     
 
 La palabra **λογικός**(lógikos) se ha traducido en la Biblia como racional, pero no
 teniendo en cuenta su relación semántica.
