@@ -10,7 +10,7 @@ REVISIÓN.
 a Dios, que es vuestro culto racional ,(en griego es lógikos) ,Romanos
 12:1\".*
 
-παραστῆσαι τὰ σώματα ὑμῶν **θυσίαν ζῶσαν**... ἥτις ἐστὶν ἡ λογικὴ λατρεία ὑμῶν.   
+παραστῆσαι τὰ σώματα ὑμῶν [**θυσίαν ζῶσαν**]... ἥτις ἐστὶν ἡ λογικὴ λατρεία ὑμῶν.   
  El acusativo **θυσίαν** (SACRIFICIO) funciona aquí como predicativo del objeto ("vuestros cuerpos").  
 ζῶσαν (traduce vivo)está en Presente Activo Participio  :VIVIENTE, pero <u>"en"</u> *no está*. 
 
