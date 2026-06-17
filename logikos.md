@@ -46,11 +46,10 @@ aspectos:,\
 #### EL USO PRÁCTICO. LOGICO COMO ESPIRITUAL.
 Romanos 12:1 — λογικὴ λατρεία.  *El Culto Espiritual*.  
  Pedro 2:2 — λογικὸν ἄδολον γάλα.   *La leche espiritual no adulterada*
+Para un Hablante griego:.  
+Lógikos λογικός es *conciente, espiritual,Humano,Ordenado,Interior.   
+y alogos  ἄλογος es *irracional, instintivo, material.  
 
-Literatura Antigua:\
-Platón asocia lógikos con el razonamiento intelectual en el uso retórico
-y a Logos como la Razón Discursiva.\
-\
 <u>[**No Se Puede Separar \"Lógikos De "La Expresión Verbal".**]</u>
 **No es solo racional**.  
 Si quiero decir la **razón** como facultad de la mente(ejemplo: \"lo que
@@ -85,7 +84,7 @@ También se traduce por \"bruto , carente de razón\"(diccionario Tuggy).
 Sabemos que : *Hebreos13:.15 "Así que , ofrezcamos a Dios, por medio de alabanza, es
 decir , **FRUTOS DE LABIOS**, que confiesan su nombre*".    
 
-**¿CULTO RACIONAL debería entenderse CULTO DE LABIOS** ?.
+**¿CULTO RACIONAL debería entenderse CULTO DE LABIOS (palabras no cosas materiales)** ?.
 
 **Romanos 12:.1 y 2Pedro2:.12 no apuntaban en sí a \"LA CORDURA\",sino
 principalmente a la EXPRESIVIDAD RACIONAL (Discursiva) : EL LOGOS.**
