@@ -30,16 +30,11 @@ teniendo en cuenta su relación semántica.
 **λογικός (lógikos) como adjetivo derivado de λόγος (logos) , usado en
 Juan 1:1 como \"el verbo\", palabra de valor discursivo:**\
 En griego, el sufijo -ικός (-ikós), se usa para formar adjetivos que
-indican relación, pertenencia o cualidad.\
-\
+indican relación, pertenencia o cualidad.
+
 **Por lo tanto, λογικός significa \"relativo al λόγος\" , o \"que tiene
 la cualidad del λόγος\".**\
-\
 
-#### **El significado.**
-
-**λόγος** es un expresión que significa \"Palabra\" en distintos
-aspectos:,\
 
 
 #### EL USO PRÁCTICO. LOGICO COMO ESPIRITUAL.
