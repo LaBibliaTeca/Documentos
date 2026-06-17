@@ -71,8 +71,11 @@ decir , **FRUTOS DE LABIOS**, que confiesan su nombre*".
 
 **¿CULTO RACIONAL debería entenderse CULTO DE LABIOS o ESPIRITUAL(palabras, no cosas materiales)** ?.
 
-**Romanos 12:.1 y 2Pedro2:.12 no apuntaban en sí a \"LA CORDURA\",sino
+**Romanos 12:.1 y 2Pedro2:.12 no apuntaban en sí a la cordura,sino
 principalmente a la EXPRESIVIDAD RACIONAL (Discursiva) : EL LOGOS.**
+
+
+
 
 ### EXPRESIONES GRIEGAS DONDE LÓGICO λογικο ES RACIONAL.
 1. λογικὸν ζῷον — "animal racional"
@@ -91,8 +94,6 @@ facultad racional
 La δύναμις (capacidad, potencia) no es un discurso.  
 Es una capacidad que opera según logos.    
 5. λογικὴ φύσις  naturaleza racional. 
-
-
 **6. καθαρώτατον τοῦ θύοντος πνεῦμα λογικόν   .  
  "el espíritu racional purísimo del que ofrece el sacrificio."**.   
  de Filón de Alejandría(filósofo Judío del siglo 1 dc) en De Specialibus Legibus.   
