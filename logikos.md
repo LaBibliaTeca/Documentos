@@ -98,7 +98,7 @@ principalmente a la EXPRESIVIDAD RACIONAL (Discursiva) : EL LOGOS.**
 Muy común en la tradición estoica.  
 ζῷον = animal, ser viviente.
 λογικόν = caracterizado por logos.
->2. λογικὴ ψυχή — "alma racional".  
+>2. λογικὴ ψυχή — "alma racional".
 Frecuente en filosofía platónica media y posterior.  
 ψυχή psiké= alma.  
 λογική logiké= la facultad del alma vinculada al logos.   
