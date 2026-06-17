@@ -57,7 +57,7 @@ El Carente de esta capacidad es αφφρον (afrón) :sin mente, o ἄνοος
 SI LE PREGUNTAMOS A CASIODORO DE REINA POR QUÉ TRADUJO lógico como
 racional,
 va a decir, en una nota al margen (versión 1569) en Romanos 12, que lo
-hizo en contraposición de la frase de Judas que dice "como animales
+hizo en contraposición de la frase de 2 Pedro 2:12 que dice "como animales
 irracionales o sea "άλογος" o sea incapaces expresarse de manera
 coherente.
 
