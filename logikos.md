@@ -94,22 +94,22 @@ decir , **FRUTOS DE LABIOS**, que confiesan su nombre*".
 principalmente a la EXPRESIVIDAD RACIONAL (Discursiva) : EL LOGOS.**
 
 ### EXPRESIONES DONDE LÓGICO λογικο ES RACIONAL.
->1. λογικὸν ζῷον — "animal racional"
+1. λογικὸν ζῷον — "animal racional"
 Muy común en la tradición estoica.  
 ζῷον = animal, ser viviente.
 λογικόν = caracterizado por logos.
->2. λογικὴ ψυχή — "alma racional".
+2. λογικὴ ψυχή — "alma racional".  
 Frecuente en filosofía platónica media y posterior.  
 ψυχή psiké= alma.  
 λογική logiké= la facultad del alma vinculada al logos.   
- >3. λογικὸν μέρος τῆς ψυχῆς
+ 3. λογικὸν μέρος τῆς ψυχῆς
 "la parte racional del alma".  
 Otra vez λογικός señala la esfera gobernada por el logos.
->4. λογικὴ δύναμις 
+4. λογικὴ δύναμις 
 facultad racional
-La δύναμις (capacidad, potencia) no es un discurso.
+La δύναμις (capacidad, potencia) no es un discurso.  
 Es una capacidad que opera según logos.    
->5. λογικὴ φύσις  naturaleza racional. 
+5. λογικὴ φύσις  naturaleza racional. 
 
 
 **6. καθαρώτατον τοῦ θύοντος πνεῦμα λογικόν   .  
