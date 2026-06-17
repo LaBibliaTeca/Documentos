@@ -39,7 +39,7 @@ Para un Hablante griego:.
 Lógikos λογικός es *conciente, espiritual,Humano,Ordenado,Interior.   
 y alogos  ἄλογος es *irracional, instintivo, material.  
 
-<u>[**No Se Puede Separar \"Lógikos De "La Expresión Verbal".**]</u>
+<u>[**No Se Puede separar "Lógikos" de "La Expresión Verbal".**]</u>,  
 **No es solo racional**.  
 Si quiero decir la **razón** como facultad de la mente(ejemplo: \"lo que
 los animales no tendrían\"), puedo decir **διανοια** dianoia.\
@@ -55,17 +55,17 @@ El Carente de esta capacidad es αφφρον (afrón) :sin mente, o ἄνοος
 **Logos** es La Palabra o la Razón Discursiva\
 (Reina Valera lo usó para culto racional).\
 SI LE PREGUNTAMOS A CASIODORO DE REINA POR QUÉ TRADUJO lógico como
-racional,\
-va a decir en una nota al margen (versión 1569) en Romanos 12, que lo
-hizo en contraposición de la frase de Judas que dice \"como animales
-irracionales o sea \"άλογος\" o sea incapaces expresarse de manera
+racional,
+va a decir, en una nota al margen (versión 1569) en Romanos 12, que lo
+hizo en contraposición de la frase de Judas que dice "como animales
+irracionales o sea "άλογος" o sea incapaces expresarse de manera
 coherente.
 
 #### ουτοι δε ως **αλογα** ζωα , Estos, empero como \[ **sin logos**\*\] animales, γεγενημενα φυσικα , nacidos instintivos, εις αλωσιν και φθοραν, para presa y perdición, εν οις αγγνουσι βλασφεμαουντες, (de) lo que ignoran , blasfeman,.
 
-**αλογα** implica la incapacidad de **EXPRESAR** (razones).\
-También se traduce por \"bruto , carente de razón\"(diccionario Tuggy).
-**Culto Lógiko es Culto "Espiritual?"
+**αλογα** implica la incapacidad de **EXPRESAR** (razones).   
+También se traduce por "bruto , carente de razón\"(diccionario Tuggy).
+
 Sabemos que : *Hebreos13:.15 "Así que , ofrezcamos a Dios, por medio de alabanza, es
 decir , **FRUTOS DE LABIOS**, que confiesan su nombre*".    
 
